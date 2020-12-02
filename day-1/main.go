@@ -7,7 +7,7 @@ import (
 	"strconv"
 )
 
-func readLines(path string) ([]string, error) {
+func readLines(path string) ([]int, error) {
 
 	file, err := os.Open(path)
 	if err != nil {
@@ -15,10 +15,14 @@ func readLines(path string) ([]string, error) {
 	}
 	defer file.Close()
 
-	var lines []string
+	var lines []int
 	scanner := bufio.NewScanner(file)
 	for scanner.Scan() {
-		lines = append(lines, scanner.Text())
+		num, err := strconv.Atoi(scanner.Text())
+		if err != nil {
+			return lines, err
+		}
+		lines = append(lines, num)
 	}
 	return lines, scanner.Err()
 }
@@ -28,23 +32,20 @@ func main() {
 		log.Fatalf("Error reading file!: %v", err)
 	}
 
-	var item1 int
-	var item2 int
 	for i, line := range lines {
-		item1, err = strconv.Atoi(line)
-		if err != nil {
-			log.Fatalf("Unable to read line %v", line)
-		}
 		compare := lines[i:]
-		for _, item := range compare {
-			item2, err = strconv.Atoi(item)
-			if err != nil {
-				log.Fatalf("Unable to read line %v", line)
-			}
-			sum := item1 + item2
-			if sum == 2020 {
-				println(item1 * item2)
-				os.Exit(0)
+		for j, item := range compare {
+			sum := line + item
+			if sum > 2020 {
+				continue
+			} else {
+				compare2 := compare[j:]
+				for _, thing := range compare2 {
+					sum := line + item + thing
+					if sum == 2020 {
+						println("product: %d", line*item*thing)
+					}
+				}
 			}
 		}
 	}
