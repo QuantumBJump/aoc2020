@@ -1,12 +1,12 @@
 package main
 
 import (
-	"bufio"
 	"fmt"
 	"log"
-	"os"
 	"regexp"
 	"strconv"
+
+	"github.com/QuinnStevens/aoc2020/helpers"
 )
 
 type policy struct {
@@ -18,24 +18,6 @@ type policy struct {
 type dbEntry struct {
 	policy   policy
 	password string
-}
-
-func parseInput(path string) ([]string, error) {
-	file, err := os.Open(path)
-	if err != nil {
-		return nil, err
-	}
-
-	defer file.Close()
-
-	var lines []string
-	scanner := bufio.NewScanner(file)
-	for scanner.Scan() {
-
-		lines = append(lines, scanner.Text())
-	}
-
-	return lines, scanner.Err()
 }
 
 func puzzle1(input []string) {
@@ -76,11 +58,64 @@ func puzzle1(input []string) {
 	}
 	fmt.Printf("Number of valid passwords: %d\n", valid)
 }
+
+func puzzle2(input []string) {
+	fmt.Printf("\nPuzzle 2:\n\n")
+	re, err := regexp.Compile("(?P<first>\\d+)-(?P<second>\\d+)\\s(?P<letter>\\w): (?P<password>\\w+)")
+	if err != nil {
+		log.Fatalf("Error compiling regex: %v", err)
+	}
+	names := re.SubexpNames()
+	var valid int
+
+	for _, line := range input {
+		match := re.FindStringSubmatch(line)
+		result := map[string]string{}
+		for i, n := range match {
+			if i == 0 {
+				result["full"] = n
+			} else {
+				result[names[i]] = n
+			}
+		}
+
+		pos1, err := strconv.Atoi(result["first"])
+		if err != nil {
+			log.Fatalf("Error parsing pos1: %v", err)
+		}
+		pos1--
+
+		pos2, err := strconv.Atoi(result["second"])
+		if err != nil {
+			log.Fatalf("Error parsing pos2: %v", err)
+		}
+		pos2--
+
+		letter := byte(result["letter"][0])
+
+		matches := 0
+		char1 := result["password"][pos1]
+		if char1 == letter {
+			matches++
+		}
+		char2 := result["password"][pos2]
+		if char2 == letter {
+			matches++
+		}
+
+		if matches == 1 {
+			valid++
+		}
+
+	}
+	fmt.Printf("\tNumber of valid passwords: %d\n", valid)
+}
 func main() {
-	input, err := parseInput("input.txt")
+	input, err := helpers.ReadInput("input.txt")
 	if err != nil {
 		log.Fatalf("Error reading file: %v", err)
 	}
 
 	puzzle1(input)
+	puzzle2(input)
 }
