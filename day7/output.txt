@@ -1,0 +1,7070 @@
+dim silver :
+  match[0]: 3 posh fuchsia bags.
+  match[1]: 3
+  match[2]: posh fuchsia bags
+wavy olive :
+  match[0]: 1 striped olive bag
+  match[1]: 1
+  match[2]: striped olive bag
+  match[0]: 1 dull cyan bag.
+  match[1]: 1
+  match[2]: dull cyan bag
+dull coral :
+  match[0]: 1 dim olive bag
+  match[1]: 1
+  match[2]: dim olive bag
+  match[0]: 5 muted violet bags
+  match[1]: 5
+  match[2]: muted violet bags
+  match[0]: 2 dark gray bags.
+  match[1]: 2
+  match[2]: dark gray bags
+bright olive :
+  match[0]: 3 light indigo bags
+  match[1]: 3
+  match[2]: light indigo bags
+  match[0]: 3 dark coral bags.
+  match[1]: 3
+  match[2]: dark coral bags
+clear lavender :
+  match[0]: 1 dark olive bag.
+  match[1]: 1
+  match[2]: dark olive bag
+dim lime :
+  match[0]: 3 dotted red bags.
+  match[1]: 3
+  match[2]: dotted red bags
+drab indigo :
+  match[0]: 5 striped coral bags
+  match[1]: 5
+  match[2]: striped coral bags
+  match[0]: 2 muted bronze bags.
+  match[1]: 2
+  match[2]: muted bronze bags
+striped orange :
+  match[0]: 5 wavy fuchsia bags
+  match[1]: 5
+  match[2]: wavy fuchsia bags
+  match[0]: 5 clear red bags
+  match[1]: 5
+  match[2]: clear red bags
+  match[0]: 3 plaid red bags.
+  match[1]: 3
+  match[2]: plaid red bags
+dotted indigo :
+  match[0]: 2 plaid white bags
+  match[1]: 2
+  match[2]: plaid white bags
+  match[0]: 1 wavy gold bag
+  match[1]: 1
+  match[2]: wavy gold bag
+  match[0]: 1 plaid silver bag.
+  match[1]: 1
+  match[2]: plaid silver bag
+posh crimson :
+  match[0]: 3 clear crimson bags
+  match[1]: 3
+  match[2]: clear crimson bags
+  match[0]: 5 dotted silver bags
+  match[1]: 5
+  match[2]: dotted silver bags
+  match[0]: 3 dull crimson bags
+  match[1]: 3
+  match[2]: dull crimson bags
+  match[0]: 5 wavy violet bags.
+  match[1]: 5
+  match[2]: wavy violet bags
+mirrored tan :
+  match[0]: 1 plaid white bag
+  match[1]: 1
+  match[2]: plaid white bag
+  match[0]: 3 vibrant beige bags
+  match[1]: 3
+  match[2]: vibrant beige bags
+  match[0]: 3 drab silver bags
+  match[1]: 3
+  match[2]: drab silver bags
+  match[0]: 1 pale blue bag.
+  match[1]: 1
+  match[2]: pale blue bag
+dull turquoise :
+  match[0]: 5 plaid magenta bags
+  match[1]: 5
+  match[2]: plaid magenta bags
+  match[0]: 3 bright aqua bags
+  match[1]: 3
+  match[2]: bright aqua bags
+  match[0]: 1 dim purple bag
+  match[1]: 1
+  match[2]: dim purple bag
+  match[0]: 1 wavy orange bag.
+  match[1]: 1
+  match[2]: wavy orange bag
+dark tomato :
+  match[0]: 1 plaid gray bag.
+  match[1]: 1
+  match[2]: plaid gray bag
+shiny red :
+  match[0]: 4 vibrant maroon bags
+  match[1]: 4
+  match[2]: vibrant maroon bags
+  match[0]: 5 faded bronze bags.
+  match[1]: 5
+  match[2]: faded bronze bags
+clear tan :
+  match[0]: 4 pale lime bags
+  match[1]: 4
+  match[2]: pale lime bags
+  match[0]: 4 faded plum bags.
+  match[1]: 4
+  match[2]: faded plum bags
+mirrored plum :
+  match[0]: 1 wavy silver bag
+  match[1]: 1
+  match[2]: wavy silver bag
+  match[0]: 4 dim purple bags
+  match[1]: 4
+  match[2]: dim purple bags
+  match[0]: 3 dim coral bags.
+  match[1]: 3
+  match[2]: dim coral bags
+dotted orange :
+  match[0]: 4 pale aqua bags
+  match[1]: 4
+  match[2]: pale aqua bags
+  match[0]: 3 dotted aqua bags
+  match[1]: 3
+  match[2]: dotted aqua bags
+  match[0]: 4 clear beige bags.
+  match[1]: 4
+  match[2]: clear beige bags
+wavy lime :
+  match[0]: 5 dim salmon bags
+  match[1]: 5
+  match[2]: dim salmon bags
+  match[0]: 4 dark violet bags
+  match[1]: 4
+  match[2]: dark violet bags
+  match[0]: 4 clear turquoise bags.
+  match[1]: 4
+  match[2]: clear turquoise bags
+faded gray :
+  match[0]: 2 dotted lime bags
+  match[1]: 2
+  match[2]: dotted lime bags
+  match[0]: 5 plaid tomato bags.
+  match[1]: 5
+  match[2]: plaid tomato bags
+pale orange :
+  match[0]: 5 faded maroon bags.
+  match[1]: 5
+  match[2]: faded maroon bags
+shiny lime :
+  match[0]: 3 striped olive bags
+  match[1]: 3
+  match[2]: striped olive bags
+  match[0]: 5 light fuchsia bags
+  match[1]: 5
+  match[2]: light fuchsia bags
+  match[0]: 1 pale crimson bag
+  match[1]: 1
+  match[2]: pale crimson bag
+  match[0]: 1 pale salmon bag.
+  match[1]: 1
+  match[2]: pale salmon bag
+drab red :
+  match[0]: 5 muted chartreuse bags
+  match[1]: 5
+  match[2]: muted chartreuse bags
+  match[0]: 4 clear purple bags
+  match[1]: 4
+  match[2]: clear purple bags
+  match[0]: 4 drab silver bags
+  match[1]: 4
+  match[2]: drab silver bags
+  match[0]: 3 posh green bags.
+  match[1]: 3
+  match[2]: posh green bags
+plaid plum :
+  match[0]: 2 dim blue bags
+  match[1]: 2
+  match[2]: dim blue bags
+  match[0]: 1 dim coral bag.
+  match[1]: 1
+  match[2]: dim coral bag
+clear red :
+  match[0]: 3 plaid teal bags
+  match[1]: 3
+  match[2]: plaid teal bags
+  match[0]: 4 vibrant orange bags
+  match[1]: 4
+  match[2]: vibrant orange bags
+  match[0]: 1 pale red bag.
+  match[1]: 1
+  match[2]: pale red bag
+dark yellow :
+  match[0]: 5 mirrored lavender bags
+  match[1]: 5
+  match[2]: mirrored lavender bags
+  match[0]: 5 dull bronze bags
+  match[1]: 5
+  match[2]: dull bronze bags
+  match[0]: 4 pale salmon bags
+  match[1]: 4
+  match[2]: pale salmon bags
+  match[0]: 5 wavy crimson bags.
+  match[1]: 5
+  match[2]: wavy crimson bags
+clear violet :
+  match[0]: 5 clear turquoise bags
+  match[1]: 5
+  match[2]: clear turquoise bags
+  match[0]: 3 clear beige bags
+  match[1]: 3
+  match[2]: clear beige bags
+  match[0]: 4 dim plum bags.
+  match[1]: 4
+  match[2]: dim plum bags
+plaid cyan :
+light salmon :
+  match[0]: 3 dull yellow bags
+  match[1]: 3
+  match[2]: dull yellow bags
+  match[0]: 2 vibrant violet bags
+  match[1]: 2
+  match[2]: vibrant violet bags
+  match[0]: 2 dark orange bags
+  match[1]: 2
+  match[2]: dark orange bags
+  match[0]: 1 light magenta bag.
+  match[1]: 1
+  match[2]: light magenta bag
+dim indigo :
+  match[0]: 2 vibrant orange bags
+  match[1]: 2
+  match[2]: vibrant orange bags
+  match[0]: 3 drab teal bags
+  match[1]: 3
+  match[2]: drab teal bags
+  match[0]: 4 plaid indigo bags.
+  match[1]: 4
+  match[2]: plaid indigo bags
+shiny magenta :
+  match[0]: 1 dark salmon bag
+  match[1]: 1
+  match[2]: dark salmon bag
+  match[0]: 4 shiny gray bags
+  match[1]: 4
+  match[2]: shiny gray bags
+  match[0]: 2 mirrored purple bags.
+  match[1]: 2
+  match[2]: mirrored purple bags
+drab coral :
+  match[0]: 5 pale crimson bags
+  match[1]: 5
+  match[2]: pale crimson bags
+  match[0]: 1 mirrored aqua bag
+  match[1]: 1
+  match[2]: mirrored aqua bag
+  match[0]: 4 light red bags.
+  match[1]: 4
+  match[2]: light red bags
+muted blue :
+  match[0]: 1 dark green bag
+  match[1]: 1
+  match[2]: dark green bag
+  match[0]: 5 muted salmon bags
+  match[1]: 5
+  match[2]: muted salmon bags
+  match[0]: 4 posh beige bags
+  match[1]: 4
+  match[2]: posh beige bags
+  match[0]: 4 pale salmon bags.
+  match[1]: 4
+  match[2]: pale salmon bags
+plaid salmon :
+  match[0]: 5 striped white bags
+  match[1]: 5
+  match[2]: striped white bags
+  match[0]: 4 posh fuchsia bags
+  match[1]: 4
+  match[2]: posh fuchsia bags
+  match[0]: 5 faded turquoise bags.
+  match[1]: 5
+  match[2]: faded turquoise bags
+vibrant bronze :
+  match[0]: 1 bright orange bag
+  match[1]: 1
+  match[2]: bright orange bag
+  match[0]: 2 bright plum bags.
+  match[1]: 2
+  match[2]: bright plum bags
+dull salmon :
+  match[0]: 2 pale crimson bags
+  match[1]: 2
+  match[2]: pale crimson bags
+  match[0]: 3 dark tan bags
+  match[1]: 3
+  match[2]: dark tan bags
+  match[0]: 5 light plum bags.
+  match[1]: 5
+  match[2]: light plum bags
+striped magenta :
+  match[0]: 4 wavy yellow bags
+  match[1]: 4
+  match[2]: wavy yellow bags
+  match[0]: 3 bright chartreuse bags
+  match[1]: 3
+  match[2]: bright chartreuse bags
+  match[0]: 5 plaid cyan bags.
+  match[1]: 5
+  match[2]: plaid cyan bags
+light olive :
+  match[0]: 5 vibrant beige bags
+  match[1]: 5
+  match[2]: vibrant beige bags
+  match[0]: 3 faded tomato bags
+  match[1]: 3
+  match[2]: faded tomato bags
+  match[0]: 1 dark indigo bag.
+  match[1]: 1
+  match[2]: dark indigo bag
+faded turquoise :
+  match[0]: 2 shiny salmon bags
+  match[1]: 2
+  match[2]: shiny salmon bags
+  match[0]: 3 wavy crimson bags
+  match[1]: 3
+  match[2]: wavy crimson bags
+  match[0]: 5 dim yellow bags
+  match[1]: 5
+  match[2]: dim yellow bags
+  match[0]: 1 posh salmon bag.
+  match[1]: 1
+  match[2]: posh salmon bag
+pale fuchsia :
+  match[0]: 2 posh blue bags
+  match[1]: 2
+  match[2]: posh blue bags
+  match[0]: 4 mirrored blue bags
+  match[1]: 4
+  match[2]: mirrored blue bags
+  match[0]: 3 wavy silver bags
+  match[1]: 3
+  match[2]: wavy silver bags
+  match[0]: 2 wavy crimson bags.
+  match[1]: 2
+  match[2]: wavy crimson bags
+dotted tomato :
+  match[0]: 2 dotted lime bags
+  match[1]: 2
+  match[2]: dotted lime bags
+  match[0]: 1 wavy teal bag
+  match[1]: 1
+  match[2]: wavy teal bag
+  match[0]: 1 mirrored black bag
+  match[1]: 1
+  match[2]: mirrored black bag
+  match[0]: 3 dull gold bags.
+  match[1]: 3
+  match[2]: dull gold bags
+shiny maroon :
+  match[0]: 5 striped salmon bags.
+  match[1]: 5
+  match[2]: striped salmon bags
+vibrant gray :
+  match[0]: 5 clear tan bags
+  match[1]: 5
+  match[2]: clear tan bags
+  match[0]: 5 plaid crimson bags
+  match[1]: 5
+  match[2]: plaid crimson bags
+  match[0]: 3 striped cyan bags
+  match[1]: 3
+  match[2]: striped cyan bags
+  match[0]: 1 dark gold bag.
+  match[1]: 1
+  match[2]: dark gold bag
+muted tomato :
+  match[0]: 1 dull salmon bag.
+  match[1]: 1
+  match[2]: dull salmon bag
+striped salmon :
+  match[0]: 4 plaid white bags
+  match[1]: 4
+  match[2]: plaid white bags
+  match[0]: 5 dim salmon bags
+  match[1]: 5
+  match[2]: dim salmon bags
+  match[0]: 4 vibrant lime bags.
+  match[1]: 4
+  match[2]: vibrant lime bags
+light tan :
+  match[0]: 2 posh lavender bags
+  match[1]: 2
+  match[2]: posh lavender bags
+  match[0]: 5 shiny aqua bags.
+  match[1]: 5
+  match[2]: shiny aqua bags
+wavy brown :
+  match[0]: 2 posh lavender bags.
+  match[1]: 2
+  match[2]: posh lavender bags
+drab beige :
+  match[0]: 5 plaid coral bags
+  match[1]: 5
+  match[2]: plaid coral bags
+  match[0]: 3 bright turquoise bags
+  match[1]: 3
+  match[2]: bright turquoise bags
+  match[0]: 5 dark purple bags
+  match[1]: 5
+  match[2]: dark purple bags
+  match[0]: 3 mirrored black bags.
+  match[1]: 3
+  match[2]: mirrored black bags
+bright tomato :
+  match[0]: 1 bright teal bag
+  match[1]: 1
+  match[2]: bright teal bag
+  match[0]: 2 bright tan bags
+  match[1]: 2
+  match[2]: bright tan bags
+  match[0]: 2 dotted salmon bags.
+  match[1]: 2
+  match[2]: dotted salmon bags
+dim tan :
+  match[0]: 2 striped cyan bags
+  match[1]: 2
+  match[2]: striped cyan bags
+  match[0]: 5 wavy green bags
+  match[1]: 5
+  match[2]: wavy green bags
+  match[0]: 3 drab beige bags.
+  match[1]: 3
+  match[2]: drab beige bags
+light plum :
+  match[0]: 4 clear silver bags
+  match[1]: 4
+  match[2]: clear silver bags
+  match[0]: 1 vibrant chartreuse bag.
+  match[1]: 1
+  match[2]: vibrant chartreuse bag
+light black :
+  match[0]: 1 muted tan bag
+  match[1]: 1
+  match[2]: muted tan bag
+  match[0]: 2 dim yellow bags.
+  match[1]: 2
+  match[2]: dim yellow bags
+clear orange :
+  match[0]: 5 mirrored violet bags
+  match[1]: 5
+  match[2]: mirrored violet bags
+  match[0]: 1 wavy salmon bag
+  match[1]: 1
+  match[2]: wavy salmon bag
+  match[0]: 3 dim plum bags.
+  match[1]: 3
+  match[2]: dim plum bags
+bright gray :
+  match[0]: 5 dim blue bags
+  match[1]: 5
+  match[2]: dim blue bags
+  match[0]: 1 dotted red bag
+  match[1]: 1
+  match[2]: dotted red bag
+  match[0]: 5 mirrored aqua bags.
+  match[1]: 5
+  match[2]: mirrored aqua bags
+striped cyan :
+  match[0]: 4 striped teal bags
+  match[1]: 4
+  match[2]: striped teal bags
+  match[0]: 1 dark tan bag
+  match[1]: 1
+  match[2]: dark tan bag
+  match[0]: 1 dim green bag.
+  match[1]: 1
+  match[2]: dim green bag
+shiny olive :
+  match[0]: 1 dark aqua bag
+  match[1]: 1
+  match[2]: dark aqua bag
+  match[0]: 2 muted lime bags.
+  match[1]: 2
+  match[2]: muted lime bags
+clear brown :
+  match[0]: 5 dark salmon bags.
+  match[1]: 5
+  match[2]: dark salmon bags
+dotted tan :
+  match[0]: 2 plaid brown bags.
+  match[1]: 2
+  match[2]: plaid brown bags
+light green :
+  match[0]: 5 plaid silver bags
+  match[1]: 5
+  match[2]: plaid silver bags
+  match[0]: 5 posh aqua bags
+  match[1]: 5
+  match[2]: posh aqua bags
+  match[0]: 3 dull green bags
+  match[1]: 3
+  match[2]: dull green bags
+  match[0]: 5 faded red bags.
+  match[1]: 5
+  match[2]: faded red bags
+posh coral :
+  match[0]: 1 muted teal bag.
+  match[1]: 1
+  match[2]: muted teal bag
+drab green :
+  match[0]: 1 dotted blue bag.
+  match[1]: 1
+  match[2]: dotted blue bag
+dark fuchsia :
+  match[0]: 2 wavy tomato bags
+  match[1]: 2
+  match[2]: wavy tomato bags
+  match[0]: 3 faded plum bags.
+  match[1]: 3
+  match[2]: faded plum bags
+vibrant purple :
+  match[0]: 3 posh tomato bags
+  match[1]: 3
+  match[2]: posh tomato bags
+  match[0]: 4 dim purple bags
+  match[1]: 4
+  match[2]: dim purple bags
+  match[0]: 5 plaid brown bags
+  match[1]: 5
+  match[2]: plaid brown bags
+  match[0]: 4 dotted red bags.
+  match[1]: 4
+  match[2]: dotted red bags
+vibrant tomato :
+  match[0]: 5 wavy orange bags
+  match[1]: 5
+  match[2]: wavy orange bags
+  match[0]: 1 striped teal bag.
+  match[1]: 1
+  match[2]: striped teal bag
+faded coral :
+  match[0]: 5 dotted maroon bags
+  match[1]: 5
+  match[2]: dotted maroon bags
+  match[0]: 2 light tan bags
+  match[1]: 2
+  match[2]: light tan bags
+  match[0]: 1 plaid black bag
+  match[1]: 1
+  match[2]: plaid black bag
+  match[0]: 4 dark indigo bags.
+  match[1]: 4
+  match[2]: dark indigo bags
+posh gold :
+  match[0]: 4 mirrored plum bags.
+  match[1]: 4
+  match[2]: mirrored plum bags
+muted beige :
+  match[0]: 2 pale brown bags
+  match[1]: 2
+  match[2]: pale brown bags
+  match[0]: 4 dull black bags
+  match[1]: 4
+  match[2]: dull black bags
+  match[0]: 4 vibrant blue bags.
+  match[1]: 4
+  match[2]: vibrant blue bags
+dull green :
+  match[0]: 3 drab silver bags
+  match[1]: 3
+  match[2]: drab silver bags
+  match[0]: 5 dotted red bags
+  match[1]: 5
+  match[2]: dotted red bags
+  match[0]: 3 mirrored violet bags
+  match[1]: 3
+  match[2]: mirrored violet bags
+  match[0]: 3 bright black bags.
+  match[1]: 3
+  match[2]: bright black bags
+dark lime :
+  match[0]: 5 light chartreuse bags
+  match[1]: 5
+  match[2]: light chartreuse bags
+  match[0]: 3 pale magenta bags
+  match[1]: 3
+  match[2]: pale magenta bags
+  match[0]: 1 dull indigo bag.
+  match[1]: 1
+  match[2]: dull indigo bag
+dark orange :
+  match[0]: 1 dark crimson bag
+  match[1]: 1
+  match[2]: dark crimson bag
+  match[0]: 2 clear turquoise bags
+  match[1]: 2
+  match[2]: clear turquoise bags
+  match[0]: 2 dotted silver bags.
+  match[1]: 2
+  match[2]: dotted silver bags
+muted yellow :
+  match[0]: 2 pale salmon bags
+  match[1]: 2
+  match[2]: pale salmon bags
+  match[0]: 3 bright plum bags
+  match[1]: 3
+  match[2]: bright plum bags
+  match[0]: 3 shiny aqua bags
+  match[1]: 3
+  match[2]: shiny aqua bags
+  match[0]: 5 plaid cyan bags.
+  match[1]: 5
+  match[2]: plaid cyan bags
+vibrant white :
+  match[0]: 5 dim coral bags
+  match[1]: 5
+  match[2]: dim coral bags
+  match[0]: 5 dim bronze bags.
+  match[1]: 5
+  match[2]: dim bronze bags
+posh white :
+  match[0]: 2 wavy blue bags
+  match[1]: 2
+  match[2]: wavy blue bags
+  match[0]: 3 clear chartreuse bags
+  match[1]: 3
+  match[2]: clear chartreuse bags
+  match[0]: 1 wavy coral bag
+  match[1]: 1
+  match[2]: wavy coral bag
+  match[0]: 5 drab turquoise bags.
+  match[1]: 5
+  match[2]: drab turquoise bags
+faded violet :
+  match[0]: 4 dim bronze bags.
+  match[1]: 4
+  match[2]: dim bronze bags
+bright yellow :
+  match[0]: 5 pale violet bags
+  match[1]: 5
+  match[2]: pale violet bags
+  match[0]: 2 striped fuchsia bags.
+  match[1]: 2
+  match[2]: striped fuchsia bags
+dim blue :
+  match[0]: 2 posh salmon bags
+  match[1]: 2
+  match[2]: posh salmon bags
+  match[0]: 4 posh red bags
+  match[1]: 4
+  match[2]: posh red bags
+  match[0]: 5 clear turquoise bags
+  match[1]: 5
+  match[2]: clear turquoise bags
+  match[0]: 4 muted lavender bags.
+  match[1]: 4
+  match[2]: muted lavender bags
+plaid olive :
+posh plum :
+  match[0]: 2 drab turquoise bags
+  match[1]: 2
+  match[2]: drab turquoise bags
+  match[0]: 4 bright fuchsia bags
+  match[1]: 4
+  match[2]: bright fuchsia bags
+  match[0]: 4 drab indigo bags.
+  match[1]: 4
+  match[2]: drab indigo bags
+posh violet :
+  match[0]: 3 plaid olive bags
+  match[1]: 3
+  match[2]: plaid olive bags
+  match[0]: 2 posh teal bags
+  match[1]: 2
+  match[2]: posh teal bags
+  match[0]: 1 posh purple bag.
+  match[1]: 1
+  match[2]: posh purple bag
+pale beige :
+  match[0]: 4 wavy crimson bags
+  match[1]: 4
+  match[2]: wavy crimson bags
+  match[0]: 5 shiny gold bags.
+  match[1]: 5
+  match[2]: shiny gold bags
+shiny turquoise :
+  match[0]: 5 dark gray bags
+  match[1]: 5
+  match[2]: dark gray bags
+  match[0]: 4 clear brown bags.
+  match[1]: 4
+  match[2]: clear brown bags
+clear bronze :
+  match[0]: 1 dull coral bag
+  match[1]: 1
+  match[2]: dull coral bag
+  match[0]: 1 mirrored cyan bag
+  match[1]: 1
+  match[2]: mirrored cyan bag
+  match[0]: 2 dotted orange bags
+  match[1]: 2
+  match[2]: dotted orange bags
+  match[0]: 1 plaid magenta bag.
+  match[1]: 1
+  match[2]: plaid magenta bag
+dark magenta :
+  match[0]: 3 vibrant orange bags
+  match[1]: 3
+  match[2]: vibrant orange bags
+  match[0]: 1 dull lime bag
+  match[1]: 1
+  match[2]: dull lime bag
+  match[0]: 1 dim plum bag.
+  match[1]: 1
+  match[2]: dim plum bag
+light silver :
+  match[0]: 2 posh coral bags.
+  match[1]: 2
+  match[2]: posh coral bags
+drab gold :
+  match[0]: 5 mirrored gold bags
+  match[1]: 5
+  match[2]: mirrored gold bags
+  match[0]: 1 bright blue bag.
+  match[1]: 1
+  match[2]: bright blue bag
+dull fuchsia :
+  match[0]: 3 pale blue bags.
+  match[1]: 3
+  match[2]: pale blue bags
+muted brown :
+  match[0]: 4 drab fuchsia bags
+  match[1]: 4
+  match[2]: drab fuchsia bags
+  match[0]: 4 plaid bronze bags.
+  match[1]: 4
+  match[2]: plaid bronze bags
+bright coral :
+  match[0]: 2 dull crimson bags.
+  match[1]: 2
+  match[2]: dull crimson bags
+clear black :
+  match[0]: 5 striped brown bags.
+  match[1]: 5
+  match[2]: striped brown bags
+mirrored coral :
+  match[0]: 2 striped brown bags
+  match[1]: 2
+  match[2]: striped brown bags
+  match[0]: 4 clear coral bags.
+  match[1]: 4
+  match[2]: clear coral bags
+dull purple :
+  match[0]: 1 plaid green bag
+  match[1]: 1
+  match[2]: plaid green bag
+  match[0]: 5 shiny gold bags.
+  match[1]: 5
+  match[2]: shiny gold bags
+drab brown :
+  match[0]: 4 striped coral bags
+  match[1]: 4
+  match[2]: striped coral bags
+  match[0]: 1 muted magenta bag
+  match[1]: 1
+  match[2]: muted magenta bag
+  match[0]: 4 faded red bags.
+  match[1]: 4
+  match[2]: faded red bags
+faded plum :
+  match[0]: 5 shiny orange bags.
+  match[1]: 5
+  match[2]: shiny orange bags
+vibrant violet :
+  match[0]: 1 drab gold bag
+  match[1]: 1
+  match[2]: drab gold bag
+  match[0]: 1 light violet bag.
+  match[1]: 1
+  match[2]: light violet bag
+clear salmon :
+  match[0]: 5 posh orange bags
+  match[1]: 5
+  match[2]: posh orange bags
+  match[0]: 1 wavy fuchsia bag
+  match[1]: 1
+  match[2]: wavy fuchsia bag
+  match[0]: 5 mirrored yellow bags.
+  match[1]: 5
+  match[2]: mirrored yellow bags
+dull yellow :
+  match[0]: 5 light orange bags
+  match[1]: 5
+  match[2]: light orange bags
+  match[0]: 4 striped purple bags.
+  match[1]: 4
+  match[2]: striped purple bags
+striped olive :
+  match[0]: 1 plaid beige bag
+  match[1]: 1
+  match[2]: plaid beige bag
+  match[0]: 1 shiny turquoise bag
+  match[1]: 1
+  match[2]: shiny turquoise bag
+  match[0]: 2 drab gold bags
+  match[1]: 2
+  match[2]: drab gold bags
+  match[0]: 1 pale lime bag.
+  match[1]: 1
+  match[2]: pale lime bag
+clear beige :
+mirrored fuchsia :
+  match[0]: 1 clear olive bag
+  match[1]: 1
+  match[2]: clear olive bag
+  match[0]: 3 pale aqua bags.
+  match[1]: 3
+  match[2]: pale aqua bags
+posh turquoise :
+  match[0]: 5 pale crimson bags
+  match[1]: 5
+  match[2]: pale crimson bags
+  match[0]: 3 dull cyan bags.
+  match[1]: 3
+  match[2]: dull cyan bags
+dull lime :
+  match[0]: 3 plaid chartreuse bags.
+  match[1]: 3
+  match[2]: plaid chartreuse bags
+wavy black :
+  match[0]: 3 dull salmon bags
+  match[1]: 3
+  match[2]: dull salmon bags
+  match[0]: 5 plaid teal bags.
+  match[1]: 5
+  match[2]: plaid teal bags
+dim lavender :
+  match[0]: 1 dark gray bag
+  match[1]: 1
+  match[2]: dark gray bag
+  match[0]: 2 muted indigo bags.
+  match[1]: 2
+  match[2]: muted indigo bags
+wavy yellow :
+  match[0]: 2 striped turquoise bags.
+  match[1]: 2
+  match[2]: striped turquoise bags
+striped gray :
+  match[0]: 3 drab white bags.
+  match[1]: 3
+  match[2]: drab white bags
+dotted magenta :
+  match[0]: 3 plaid white bags
+  match[1]: 3
+  match[2]: plaid white bags
+  match[0]: 4 clear beige bags
+  match[1]: 4
+  match[2]: clear beige bags
+  match[0]: 1 faded maroon bag
+  match[1]: 1
+  match[2]: faded maroon bag
+  match[0]: 3 muted lavender bags.
+  match[1]: 3
+  match[2]: muted lavender bags
+vibrant coral :
+  match[0]: 5 shiny olive bags
+  match[1]: 5
+  match[2]: shiny olive bags
+  match[0]: 2 pale brown bags.
+  match[1]: 2
+  match[2]: pale brown bags
+dim aqua :
+  match[0]: 5 striped crimson bags
+  match[1]: 5
+  match[2]: striped crimson bags
+  match[0]: 3 bright lavender bags.
+  match[1]: 3
+  match[2]: bright lavender bags
+pale lavender :
+  match[0]: 3 vibrant tan bags.
+  match[1]: 3
+  match[2]: vibrant tan bags
+bright fuchsia :
+  match[0]: 2 dotted fuchsia bags.
+  match[1]: 2
+  match[2]: dotted fuchsia bags
+dark black :
+  match[0]: 5 drab purple bags
+  match[1]: 5
+  match[2]: drab purple bags
+  match[0]: 3 striped yellow bags
+  match[1]: 3
+  match[2]: striped yellow bags
+  match[0]: 2 posh tan bags.
+  match[1]: 2
+  match[2]: posh tan bags
+dark teal :
+  match[0]: 3 plaid white bags
+  match[1]: 3
+  match[2]: plaid white bags
+  match[0]: 5 bright cyan bags
+  match[1]: 5
+  match[2]: bright cyan bags
+  match[0]: 1 posh blue bag
+  match[1]: 1
+  match[2]: posh blue bag
+  match[0]: 4 mirrored magenta bags.
+  match[1]: 4
+  match[2]: mirrored magenta bags
+plaid brown :
+  match[0]: 3 bright plum bags
+  match[1]: 3
+  match[2]: bright plum bags
+  match[0]: 1 muted magenta bag
+  match[1]: 1
+  match[2]: muted magenta bag
+  match[0]: 4 clear gray bags
+  match[1]: 4
+  match[2]: clear gray bags
+  match[0]: 2 clear crimson bags.
+  match[1]: 2
+  match[2]: clear crimson bags
+mirrored magenta :
+light brown :
+  match[0]: 4 wavy red bags
+  match[1]: 4
+  match[2]: wavy red bags
+  match[0]: 2 faded white bags.
+  match[1]: 2
+  match[2]: faded white bags
+dotted purple :
+  match[0]: 2 pale lime bags.
+  match[1]: 2
+  match[2]: pale lime bags
+clear teal :
+  match[0]: 3 plaid red bags
+  match[1]: 3
+  match[2]: plaid red bags
+  match[0]: 3 striped coral bags
+  match[1]: 3
+  match[2]: striped coral bags
+  match[0]: 4 mirrored black bags
+  match[1]: 4
+  match[2]: mirrored black bags
+  match[0]: 2 posh red bags.
+  match[1]: 2
+  match[2]: posh red bags
+striped gold :
+  match[0]: 3 bright plum bags
+  match[1]: 3
+  match[2]: bright plum bags
+  match[0]: 2 mirrored gold bags.
+  match[1]: 2
+  match[2]: mirrored gold bags
+dotted black :
+  match[0]: 2 clear crimson bags
+  match[1]: 2
+  match[2]: clear crimson bags
+  match[0]: 1 dark violet bag
+  match[1]: 1
+  match[2]: dark violet bag
+  match[0]: 2 clear teal bags
+  match[1]: 2
+  match[2]: clear teal bags
+  match[0]: 3 mirrored purple bags.
+  match[1]: 3
+  match[2]: mirrored purple bags
+dim gray :
+  match[0]: 1 dotted salmon bag
+  match[1]: 1
+  match[2]: dotted salmon bag
+  match[0]: 2 dim silver bags
+  match[1]: 2
+  match[2]: dim silver bags
+  match[0]: 5 wavy black bags
+  match[1]: 5
+  match[2]: wavy black bags
+  match[0]: 2 dotted green bags.
+  match[1]: 2
+  match[2]: dotted green bags
+shiny black :
+  match[0]: 3 plaid bronze bags
+  match[1]: 3
+  match[2]: plaid bronze bags
+  match[0]: 5 dim plum bags
+  match[1]: 5
+  match[2]: dim plum bags
+  match[0]: 3 muted teal bags
+  match[1]: 3
+  match[2]: muted teal bags
+  match[0]: 5 muted magenta bags.
+  match[1]: 5
+  match[2]: muted magenta bags
+plaid orange :
+  match[0]: 5 plaid crimson bags
+  match[1]: 5
+  match[2]: plaid crimson bags
+  match[0]: 4 muted white bags
+  match[1]: 4
+  match[2]: muted white bags
+  match[0]: 4 dark lime bags
+  match[1]: 4
+  match[2]: dark lime bags
+  match[0]: 5 plaid cyan bags.
+  match[1]: 5
+  match[2]: plaid cyan bags
+striped fuchsia :
+  match[0]: 1 dull bronze bag
+  match[1]: 1
+  match[2]: dull bronze bag
+  match[0]: 1 wavy aqua bag
+  match[1]: 1
+  match[2]: wavy aqua bag
+  match[0]: 1 plaid salmon bag
+  match[1]: 1
+  match[2]: plaid salmon bag
+  match[0]: 2 faded cyan bags.
+  match[1]: 2
+  match[2]: faded cyan bags
+wavy white :
+  match[0]: 4 posh beige bags.
+  match[1]: 4
+  match[2]: posh beige bags
+dull teal :
+  match[0]: 1 vibrant blue bag
+  match[1]: 1
+  match[2]: vibrant blue bag
+  match[0]: 1 light red bag
+  match[1]: 1
+  match[2]: light red bag
+  match[0]: 3 striped brown bags.
+  match[1]: 3
+  match[2]: striped brown bags
+vibrant chartreuse :
+  match[0]: 1 shiny aqua bag
+  match[1]: 1
+  match[2]: shiny aqua bag
+  match[0]: 4 clear crimson bags
+  match[1]: 4
+  match[2]: clear crimson bags
+  match[0]: 1 faded red bag
+  match[1]: 1
+  match[2]: faded red bag
+  match[0]: 1 dull crimson bag.
+  match[1]: 1
+  match[2]: dull crimson bag
+wavy cyan :
+  match[0]: 5 striped red bags
+  match[1]: 5
+  match[2]: striped red bags
+  match[0]: 1 shiny magenta bag.
+  match[1]: 1
+  match[2]: shiny magenta bag
+vibrant olive :
+  match[0]: 3 light fuchsia bags
+  match[1]: 3
+  match[2]: light fuchsia bags
+  match[0]: 5 pale tan bags
+  match[1]: 5
+  match[2]: pale tan bags
+  match[0]: 5 light tomato bags.
+  match[1]: 5
+  match[2]: light tomato bags
+dotted fuchsia :
+  match[0]: 5 clear silver bags
+  match[1]: 5
+  match[2]: clear silver bags
+  match[0]: 5 light aqua bags
+  match[1]: 5
+  match[2]: light aqua bags
+  match[0]: 5 posh beige bags.
+  match[1]: 5
+  match[2]: posh beige bags
+wavy tomato :
+  match[0]: 2 wavy tan bags
+  match[1]: 2
+  match[2]: wavy tan bags
+  match[0]: 3 muted lavender bags
+  match[1]: 3
+  match[2]: muted lavender bags
+  match[0]: 2 pale salmon bags.
+  match[1]: 2
+  match[2]: pale salmon bags
+posh lime :
+  match[0]: 4 drab lime bags
+  match[1]: 4
+  match[2]: drab lime bags
+  match[0]: 4 dull lavender bags.
+  match[1]: 4
+  match[2]: dull lavender bags
+shiny white :
+  match[0]: 1 plaid olive bag
+  match[1]: 1
+  match[2]: plaid olive bag
+  match[0]: 2 faded white bags
+  match[1]: 2
+  match[2]: faded white bags
+  match[0]: 2 dull salmon bags.
+  match[1]: 2
+  match[2]: dull salmon bags
+bright plum :
+  match[0]: 1 dotted salmon bag
+  match[1]: 1
+  match[2]: dotted salmon bag
+  match[0]: 4 plaid red bags
+  match[1]: 4
+  match[2]: plaid red bags
+  match[0]: 1 mirrored purple bag
+  match[1]: 1
+  match[2]: mirrored purple bag
+  match[0]: 3 shiny aqua bags.
+  match[1]: 3
+  match[2]: shiny aqua bags
+dotted lavender :
+  match[0]: 1 light green bag
+  match[1]: 1
+  match[2]: light green bag
+  match[0]: 3 light magenta bags.
+  match[1]: 3
+  match[2]: light magenta bags
+bright gold :
+  match[0]: 4 dim blue bags
+  match[1]: 4
+  match[2]: dim blue bags
+  match[0]: 5 dark salmon bags
+  match[1]: 5
+  match[2]: dark salmon bags
+  match[0]: 2 posh crimson bags.
+  match[1]: 2
+  match[2]: posh crimson bags
+striped violet :
+  match[0]: 4 posh plum bags
+  match[1]: 4
+  match[2]: posh plum bags
+  match[0]: 1 drab crimson bag
+  match[1]: 1
+  match[2]: drab crimson bag
+  match[0]: 2 faded orange bags
+  match[1]: 2
+  match[2]: faded orange bags
+  match[0]: 3 dotted green bags.
+  match[1]: 3
+  match[2]: dotted green bags
+dull plum :
+  match[0]: 1 dark maroon bag.
+  match[1]: 1
+  match[2]: dark maroon bag
+striped tomato :
+  match[0]: 5 striped maroon bags
+  match[1]: 5
+  match[2]: striped maroon bags
+  match[0]: 1 plaid turquoise bag.
+  match[1]: 1
+  match[2]: plaid turquoise bag
+muted bronze :
+  match[0]: 1 plaid red bag.
+  match[1]: 1
+  match[2]: plaid red bag
+dull lavender :
+  match[0]: 2 plaid white bags.
+  match[1]: 2
+  match[2]: plaid white bags
+dark bronze :
+  match[0]: 1 clear turquoise bag
+  match[1]: 1
+  match[2]: clear turquoise bag
+  match[0]: 5 dim purple bags
+  match[1]: 5
+  match[2]: dim purple bags
+  match[0]: 2 bright turquoise bags
+  match[1]: 2
+  match[2]: bright turquoise bags
+  match[0]: 2 striped coral bags.
+  match[1]: 2
+  match[2]: striped coral bags
+muted green :
+  match[0]: 3 plaid white bags
+  match[1]: 3
+  match[2]: plaid white bags
+  match[0]: 5 pale blue bags
+  match[1]: 5
+  match[2]: pale blue bags
+  match[0]: 3 plaid tan bags
+  match[1]: 3
+  match[2]: plaid tan bags
+  match[0]: 2 clear turquoise bags.
+  match[1]: 2
+  match[2]: clear turquoise bags
+mirrored bronze :
+  match[0]: 2 faded white bags
+  match[1]: 2
+  match[2]: faded white bags
+  match[0]: 3 bright teal bags
+  match[1]: 3
+  match[2]: bright teal bags
+  match[0]: 2 clear red bags
+  match[1]: 2
+  match[2]: clear red bags
+  match[0]: 2 clear crimson bags.
+  match[1]: 2
+  match[2]: clear crimson bags
+clear silver :
+  match[0]: 5 dim yellow bags
+  match[1]: 5
+  match[2]: dim yellow bags
+  match[0]: 2 striped brown bags
+  match[1]: 2
+  match[2]: striped brown bags
+  match[0]: 1 muted magenta bag.
+  match[1]: 1
+  match[2]: muted magenta bag
+dark indigo :
+  match[0]: 3 faded maroon bags
+  match[1]: 3
+  match[2]: faded maroon bags
+  match[0]: 3 mirrored purple bags.
+  match[1]: 3
+  match[2]: mirrored purple bags
+posh silver :
+  match[0]: 3 dotted maroon bags
+  match[1]: 3
+  match[2]: dotted maroon bags
+  match[0]: 1 striped indigo bag
+  match[1]: 1
+  match[2]: striped indigo bag
+  match[0]: 1 faded red bag.
+  match[1]: 1
+  match[2]: faded red bag
+light teal :
+  match[0]: 1 vibrant beige bag
+  match[1]: 1
+  match[2]: vibrant beige bag
+  match[0]: 1 striped plum bag
+  match[1]: 1
+  match[2]: striped plum bag
+  match[0]: 4 dim salmon bags.
+  match[1]: 4
+  match[2]: dim salmon bags
+dull orange :
+  match[0]: 2 shiny teal bags
+  match[1]: 2
+  match[2]: shiny teal bags
+  match[0]: 5 muted teal bags
+  match[1]: 5
+  match[2]: muted teal bags
+  match[0]: 1 dark fuchsia bag
+  match[1]: 1
+  match[2]: dark fuchsia bag
+  match[0]: 4 bright magenta bags.
+  match[1]: 4
+  match[2]: bright magenta bags
+muted red :
+  match[0]: 2 mirrored magenta bags.
+  match[1]: 2
+  match[2]: mirrored magenta bags
+dotted gray :
+  match[0]: 3 dull maroon bags
+  match[1]: 3
+  match[2]: dull maroon bags
+  match[0]: 4 mirrored blue bags
+  match[1]: 4
+  match[2]: mirrored blue bags
+  match[0]: 3 mirrored red bags.
+  match[1]: 3
+  match[2]: mirrored red bags
+light lime :
+  match[0]: 5 plaid fuchsia bags
+  match[1]: 5
+  match[2]: plaid fuchsia bags
+  match[0]: 4 posh plum bags.
+  match[1]: 4
+  match[2]: posh plum bags
+pale coral :
+  match[0]: 3 shiny gray bags
+  match[1]: 3
+  match[2]: shiny gray bags
+  match[0]: 2 plaid beige bags.
+  match[1]: 2
+  match[2]: plaid beige bags
+dim brown :
+  match[0]: 1 faded gray bag.
+  match[1]: 1
+  match[2]: faded gray bag
+drab tan :
+  match[0]: 5 dotted crimson bags.
+  match[1]: 5
+  match[2]: dotted crimson bags
+clear chartreuse :
+  match[0]: 4 faded maroon bags
+  match[1]: 4
+  match[2]: faded maroon bags
+  match[0]: 5 plaid white bags.
+  match[1]: 5
+  match[2]: plaid white bags
+posh maroon :
+  match[0]: 1 clear beige bag
+  match[1]: 1
+  match[2]: clear beige bag
+  match[0]: 5 light black bags.
+  match[1]: 5
+  match[2]: light black bags
+mirrored blue :
+  match[0]: 4 faded gray bags
+  match[1]: 4
+  match[2]: faded gray bags
+  match[0]: 5 mirrored olive bags
+  match[1]: 5
+  match[2]: mirrored olive bags
+  match[0]: 1 pale lime bag.
+  match[1]: 1
+  match[2]: pale lime bag
+clear coral :
+  match[0]: 1 plaid fuchsia bag
+  match[1]: 1
+  match[2]: plaid fuchsia bag
+  match[0]: 4 drab yellow bags
+  match[1]: 4
+  match[2]: drab yellow bags
+  match[0]: 4 light bronze bags.
+  match[1]: 4
+  match[2]: light bronze bags
+mirrored orange :
+  match[0]: 4 mirrored lavender bags
+  match[1]: 4
+  match[2]: mirrored lavender bags
+  match[0]: 3 faded orange bags
+  match[1]: 3
+  match[2]: faded orange bags
+  match[0]: 4 mirrored gold bags
+  match[1]: 4
+  match[2]: mirrored gold bags
+  match[0]: 3 dim silver bags.
+  match[1]: 3
+  match[2]: dim silver bags
+pale bronze :
+  match[0]: 4 plaid orange bags
+  match[1]: 4
+  match[2]: plaid orange bags
+  match[0]: 3 wavy chartreuse bags
+  match[1]: 3
+  match[2]: wavy chartreuse bags
+  match[0]: 2 clear red bags.
+  match[1]: 2
+  match[2]: clear red bags
+faded yellow :
+  match[0]: 2 posh green bags.
+  match[1]: 2
+  match[2]: posh green bags
+light magenta :
+  match[0]: 3 clear silver bags
+  match[1]: 3
+  match[2]: clear silver bags
+  match[0]: 3 pale magenta bags.
+  match[1]: 3
+  match[2]: pale magenta bags
+clear aqua :
+  match[0]: 2 dark tan bags.
+  match[1]: 2
+  match[2]: dark tan bags
+clear yellow :
+  match[0]: 5 dim violet bags
+  match[1]: 5
+  match[2]: dim violet bags
+  match[0]: 5 drab bronze bags.
+  match[1]: 5
+  match[2]: drab bronze bags
+plaid yellow :
+  match[0]: 4 dotted salmon bags.
+  match[1]: 4
+  match[2]: dotted salmon bags
+pale salmon :
+  match[0]: 2 plaid olive bags
+  match[1]: 2
+  match[2]: plaid olive bags
+  match[0]: 5 clear beige bags.
+  match[1]: 5
+  match[2]: clear beige bags
+bright magenta :
+  match[0]: 2 shiny maroon bags
+  match[1]: 2
+  match[2]: shiny maroon bags
+  match[0]: 1 bright maroon bag
+  match[1]: 1
+  match[2]: bright maroon bag
+  match[0]: 5 shiny white bags.
+  match[1]: 5
+  match[2]: shiny white bags
+dull brown :
+  match[0]: 4 posh fuchsia bags
+  match[1]: 4
+  match[2]: posh fuchsia bags
+  match[0]: 2 dotted tan bags.
+  match[1]: 2
+  match[2]: dotted tan bags
+muted magenta :
+muted lavender :
+  match[0]: 5 light aqua bags
+  match[1]: 5
+  match[2]: light aqua bags
+  match[0]: 1 faded maroon bag
+  match[1]: 1
+  match[2]: faded maroon bag
+  match[0]: 4 plaid lavender bags.
+  match[1]: 4
+  match[2]: plaid lavender bags
+dotted violet :
+  match[0]: 2 pale red bags
+  match[1]: 2
+  match[2]: pale red bags
+  match[0]: 3 mirrored magenta bags.
+  match[1]: 3
+  match[2]: mirrored magenta bags
+wavy gray :
+  match[0]: 5 dark indigo bags
+  match[1]: 5
+  match[2]: dark indigo bags
+  match[0]: 3 dim yellow bags
+  match[1]: 3
+  match[2]: dim yellow bags
+  match[0]: 3 posh lime bags
+  match[1]: 3
+  match[2]: posh lime bags
+  match[0]: 1 wavy yellow bag.
+  match[1]: 1
+  match[2]: wavy yellow bag
+posh beige :
+  match[0]: 4 mirrored magenta bags
+  match[1]: 4
+  match[2]: mirrored magenta bags
+  match[0]: 1 striped brown bag
+  match[1]: 1
+  match[2]: striped brown bag
+  match[0]: 1 mirrored aqua bag
+  match[1]: 1
+  match[2]: mirrored aqua bag
+  match[0]: 5 dotted silver bags.
+  match[1]: 5
+  match[2]: dotted silver bags
+drab crimson :
+  match[0]: 2 faded coral bags
+  match[1]: 2
+  match[2]: faded coral bags
+  match[0]: 4 light indigo bags
+  match[1]: 4
+  match[2]: light indigo bags
+  match[0]: 4 dark indigo bags.
+  match[1]: 4
+  match[2]: dark indigo bags
+wavy magenta :
+  match[0]: 5 clear gold bags
+  match[1]: 5
+  match[2]: clear gold bags
+  match[0]: 4 dim purple bags
+  match[1]: 4
+  match[2]: dim purple bags
+  match[0]: 3 pale green bags.
+  match[1]: 3
+  match[2]: pale green bags
+dim fuchsia :
+  match[0]: 2 drab teal bags
+  match[1]: 2
+  match[2]: drab teal bags
+  match[0]: 4 plaid brown bags
+  match[1]: 4
+  match[2]: plaid brown bags
+  match[0]: 5 faded orange bags.
+  match[1]: 5
+  match[2]: faded orange bags
+faded indigo :
+  match[0]: 2 faded orange bags
+  match[1]: 2
+  match[2]: faded orange bags
+  match[0]: 4 striped turquoise bags
+  match[1]: 4
+  match[2]: striped turquoise bags
+  match[0]: 4 pale salmon bags
+  match[1]: 4
+  match[2]: pale salmon bags
+  match[0]: 4 bright cyan bags.
+  match[1]: 4
+  match[2]: bright cyan bags
+posh yellow :
+  match[0]: 2 pale gold bags
+  match[1]: 2
+  match[2]: pale gold bags
+  match[0]: 3 posh coral bags
+  match[1]: 3
+  match[2]: posh coral bags
+  match[0]: 1 dotted tan bag.
+  match[1]: 1
+  match[2]: dotted tan bag
+muted chartreuse :
+  match[0]: 5 plaid brown bags
+  match[1]: 5
+  match[2]: plaid brown bags
+  match[0]: 3 dull green bags.
+  match[1]: 3
+  match[2]: dull green bags
+dotted plum :
+  match[0]: 4 mirrored purple bags
+  match[1]: 4
+  match[2]: mirrored purple bags
+  match[0]: 1 drab tan bag
+  match[1]: 1
+  match[2]: drab tan bag
+  match[0]: 3 striped white bags.
+  match[1]: 3
+  match[2]: striped white bags
+clear plum :
+  match[0]: 3 posh green bags.
+  match[1]: 3
+  match[2]: posh green bags
+striped red :
+  match[0]: 1 striped tomato bag
+  match[1]: 1
+  match[2]: striped tomato bag
+  match[0]: 1 wavy fuchsia bag
+  match[1]: 1
+  match[2]: wavy fuchsia bag
+  match[0]: 3 clear yellow bags.
+  match[1]: 3
+  match[2]: clear yellow bags
+striped aqua :
+  match[0]: 4 posh teal bags
+  match[1]: 4
+  match[2]: posh teal bags
+  match[0]: 2 bright beige bags.
+  match[1]: 2
+  match[2]: bright beige bags
+dim gold :
+  match[0]: 5 dull salmon bags
+  match[1]: 5
+  match[2]: dull salmon bags
+  match[0]: 3 mirrored red bags
+  match[1]: 3
+  match[2]: mirrored red bags
+  match[0]: 1 mirrored black bag.
+  match[1]: 1
+  match[2]: mirrored black bag
+mirrored brown :
+  match[0]: 1 mirrored salmon bag.
+  match[1]: 1
+  match[2]: mirrored salmon bag
+wavy plum :
+  match[0]: 3 shiny yellow bags
+  match[1]: 3
+  match[2]: shiny yellow bags
+  match[0]: 5 light crimson bags
+  match[1]: 5
+  match[2]: light crimson bags
+  match[0]: 5 dotted silver bags.
+  match[1]: 5
+  match[2]: dotted silver bags
+striped coral :
+dark gray :
+  match[0]: 4 dotted salmon bags
+  match[1]: 4
+  match[2]: dotted salmon bags
+  match[0]: 2 clear brown bags
+  match[1]: 2
+  match[2]: clear brown bags
+  match[0]: 2 posh crimson bags
+  match[1]: 2
+  match[2]: posh crimson bags
+  match[0]: 5 mirrored plum bags.
+  match[1]: 5
+  match[2]: mirrored plum bags
+posh chartreuse :
+  match[0]: 2 wavy fuchsia bags
+  match[1]: 2
+  match[2]: wavy fuchsia bags
+  match[0]: 4 mirrored beige bags.
+  match[1]: 4
+  match[2]: mirrored beige bags
+dotted gold :
+  match[0]: 1 dark lavender bag
+  match[1]: 1
+  match[2]: dark lavender bag
+  match[0]: 1 striped black bag.
+  match[1]: 1
+  match[2]: striped black bag
+posh green :
+  match[0]: 3 dotted salmon bags
+  match[1]: 3
+  match[2]: dotted salmon bags
+  match[0]: 4 pale salmon bags
+  match[1]: 4
+  match[2]: pale salmon bags
+  match[0]: 3 posh red bags
+  match[1]: 3
+  match[2]: posh red bags
+  match[0]: 4 dim green bags.
+  match[1]: 4
+  match[2]: dim green bags
+plaid blue :
+  match[0]: 2 posh green bags
+  match[1]: 2
+  match[2]: posh green bags
+  match[0]: 3 dim cyan bags
+  match[1]: 3
+  match[2]: dim cyan bags
+  match[0]: 5 dull bronze bags.
+  match[1]: 5
+  match[2]: dull bronze bags
+light lavender :
+  match[0]: 5 muted green bags
+  match[1]: 5
+  match[2]: muted green bags
+  match[0]: 1 light violet bag
+  match[1]: 1
+  match[2]: light violet bag
+  match[0]: 5 muted plum bags.
+  match[1]: 5
+  match[2]: muted plum bags
+pale plum :
+  match[0]: 5 muted lavender bags
+  match[1]: 5
+  match[2]: muted lavender bags
+  match[0]: 5 light bronze bags
+  match[1]: 5
+  match[2]: light bronze bags
+  match[0]: 4 plaid crimson bags.
+  match[1]: 4
+  match[2]: plaid crimson bags
+mirrored indigo :
+  match[0]: 4 dark violet bags
+  match[1]: 4
+  match[2]: dark violet bags
+  match[0]: 2 wavy purple bags
+  match[1]: 2
+  match[2]: wavy purple bags
+  match[0]: 5 plaid tan bags.
+  match[1]: 5
+  match[2]: plaid tan bags
+dim violet :
+  match[0]: 4 mirrored black bags
+  match[1]: 4
+  match[2]: mirrored black bags
+  match[0]: 4 dull lime bags
+  match[1]: 4
+  match[2]: dull lime bags
+  match[0]: 3 posh crimson bags
+  match[1]: 3
+  match[2]: posh crimson bags
+  match[0]: 1 pale brown bag.
+  match[1]: 1
+  match[2]: pale brown bag
+shiny coral :
+  match[0]: 1 light aqua bag
+  match[1]: 1
+  match[2]: light aqua bag
+  match[0]: 5 plaid olive bags
+  match[1]: 5
+  match[2]: plaid olive bags
+  match[0]: 4 bright turquoise bags.
+  match[1]: 4
+  match[2]: bright turquoise bags
+dotted cyan :
+  match[0]: 4 shiny olive bags
+  match[1]: 4
+  match[2]: shiny olive bags
+  match[0]: 4 light bronze bags
+  match[1]: 4
+  match[2]: light bronze bags
+  match[0]: 2 dim plum bags.
+  match[1]: 2
+  match[2]: dim plum bags
+mirrored teal :
+  match[0]: 5 dim violet bags.
+  match[1]: 5
+  match[2]: dim violet bags
+shiny purple :
+  match[0]: 4 dim magenta bags
+  match[1]: 4
+  match[2]: dim magenta bags
+  match[0]: 2 clear white bags
+  match[1]: 2
+  match[2]: clear white bags
+  match[0]: 3 posh silver bags
+  match[1]: 3
+  match[2]: posh silver bags
+  match[0]: 1 shiny turquoise bag.
+  match[1]: 1
+  match[2]: shiny turquoise bag
+shiny gray :
+  match[0]: 5 pale lavender bags
+  match[1]: 5
+  match[2]: pale lavender bags
+  match[0]: 3 vibrant turquoise bags
+  match[1]: 3
+  match[2]: vibrant turquoise bags
+  match[0]: 1 faded maroon bag
+  match[1]: 1
+  match[2]: faded maroon bag
+  match[0]: 1 bright cyan bag.
+  match[1]: 1
+  match[2]: bright cyan bag
+mirrored chartreuse :
+  match[0]: 2 clear white bags.
+  match[1]: 2
+  match[2]: clear white bags
+light beige :
+  match[0]: 5 mirrored turquoise bags
+  match[1]: 5
+  match[2]: mirrored turquoise bags
+  match[0]: 5 plaid maroon bags
+  match[1]: 5
+  match[2]: plaid maroon bags
+  match[0]: 3 light silver bags.
+  match[1]: 3
+  match[2]: light silver bags
+dull tomato :
+  match[0]: 1 shiny gold bag
+  match[1]: 1
+  match[2]: shiny gold bag
+  match[0]: 4 pale blue bags.
+  match[1]: 4
+  match[2]: pale blue bags
+plaid teal :
+  match[0]: 1 dim purple bag
+  match[1]: 1
+  match[2]: dim purple bag
+  match[0]: 3 striped turquoise bags
+  match[1]: 3
+  match[2]: striped turquoise bags
+  match[0]: 3 light indigo bags
+  match[1]: 3
+  match[2]: light indigo bags
+  match[0]: 2 faded red bags.
+  match[1]: 2
+  match[2]: faded red bags
+vibrant aqua :
+  match[0]: 3 mirrored turquoise bags
+  match[1]: 3
+  match[2]: mirrored turquoise bags
+  match[0]: 1 light plum bag
+  match[1]: 1
+  match[2]: light plum bag
+  match[0]: 5 clear teal bags
+  match[1]: 5
+  match[2]: clear teal bags
+  match[0]: 1 dull blue bag.
+  match[1]: 1
+  match[2]: dull blue bag
+dotted turquoise :
+  match[0]: 5 bright fuchsia bags
+  match[1]: 5
+  match[2]: bright fuchsia bags
+  match[0]: 5 dim blue bags
+  match[1]: 5
+  match[2]: dim blue bags
+  match[0]: 3 posh green bags
+  match[1]: 3
+  match[2]: posh green bags
+  match[0]: 3 wavy red bags.
+  match[1]: 3
+  match[2]: wavy red bags
+dark lavender :
+  match[0]: 1 mirrored lime bag
+  match[1]: 1
+  match[2]: mirrored lime bag
+  match[0]: 2 plaid red bags
+  match[1]: 2
+  match[2]: plaid red bags
+  match[0]: 2 striped white bags
+  match[1]: 2
+  match[2]: striped white bags
+  match[0]: 1 plaid tomato bag.
+  match[1]: 1
+  match[2]: plaid tomato bag
+plaid tan :
+  match[0]: 5 plaid white bags.
+  match[1]: 5
+  match[2]: plaid white bags
+pale olive :
+  match[0]: 1 clear salmon bag.
+  match[1]: 1
+  match[2]: clear salmon bag
+wavy indigo :
+  match[0]: 1 plaid black bag
+  match[1]: 1
+  match[2]: plaid black bag
+  match[0]: 1 wavy teal bag
+  match[1]: 1
+  match[2]: wavy teal bag
+  match[0]: 3 mirrored salmon bags.
+  match[1]: 3
+  match[2]: mirrored salmon bags
+drab chartreuse :
+  match[0]: 2 light lime bags
+  match[1]: 2
+  match[2]: light lime bags
+  match[0]: 3 drab yellow bags.
+  match[1]: 3
+  match[2]: drab yellow bags
+drab blue :
+  match[0]: 3 vibrant brown bags.
+  match[1]: 3
+  match[2]: vibrant brown bags
+muted purple :
+  match[0]: 2 shiny yellow bags.
+  match[1]: 2
+  match[2]: shiny yellow bags
+muted aqua :
+  match[0]: 4 striped white bags.
+  match[1]: 4
+  match[2]: striped white bags
+mirrored violet :
+  match[0]: 3 wavy violet bags
+  match[1]: 3
+  match[2]: wavy violet bags
+  match[0]: 4 mirrored aqua bags.
+  match[1]: 4
+  match[2]: mirrored aqua bags
+bright cyan :
+  match[0]: 3 wavy fuchsia bags
+  match[1]: 3
+  match[2]: wavy fuchsia bags
+  match[0]: 2 dark coral bags
+  match[1]: 2
+  match[2]: dark coral bags
+  match[0]: 1 shiny orange bag.
+  match[1]: 1
+  match[2]: shiny orange bag
+posh teal :
+  match[0]: 5 bright gray bags
+  match[1]: 5
+  match[2]: bright gray bags
+  match[0]: 4 faded gray bags
+  match[1]: 4
+  match[2]: faded gray bags
+  match[0]: 2 plaid turquoise bags.
+  match[1]: 2
+  match[2]: plaid turquoise bags
+muted lime :
+  match[0]: 2 striped coral bags
+  match[1]: 2
+  match[2]: striped coral bags
+  match[0]: 1 dark tan bag
+  match[1]: 1
+  match[2]: dark tan bag
+  match[0]: 4 plaid cyan bags.
+  match[1]: 4
+  match[2]: plaid cyan bags
+mirrored crimson :
+  match[0]: 4 faded violet bags
+  match[1]: 4
+  match[2]: faded violet bags
+  match[0]: 1 posh purple bag.
+  match[1]: 1
+  match[2]: posh purple bag
+light blue :
+  match[0]: 2 dotted blue bags
+  match[1]: 2
+  match[2]: dotted blue bags
+  match[0]: 2 dark gold bags
+  match[1]: 2
+  match[2]: dark gold bags
+  match[0]: 5 bright cyan bags
+  match[1]: 5
+  match[2]: bright cyan bags
+  match[0]: 1 light crimson bag.
+  match[1]: 1
+  match[2]: light crimson bag
+dull beige :
+  match[0]: 2 dark turquoise bags
+  match[1]: 2
+  match[2]: dark turquoise bags
+  match[0]: 5 mirrored violet bags
+  match[1]: 5
+  match[2]: mirrored violet bags
+  match[0]: 1 muted crimson bag.
+  match[1]: 1
+  match[2]: muted crimson bag
+dark cyan :
+  match[0]: 5 muted blue bags.
+  match[1]: 5
+  match[2]: muted blue bags
+dim turquoise :
+  match[0]: 3 shiny silver bags
+  match[1]: 3
+  match[2]: shiny silver bags
+  match[0]: 1 pale yellow bag
+  match[1]: 1
+  match[2]: pale yellow bag
+  match[0]: 3 plaid chartreuse bags
+  match[1]: 3
+  match[2]: plaid chartreuse bags
+  match[0]: 1 posh bronze bag.
+  match[1]: 1
+  match[2]: posh bronze bag
+faded brown :
+  match[0]: 3 dim silver bags
+  match[1]: 3
+  match[2]: dim silver bags
+  match[0]: 2 mirrored bronze bags.
+  match[1]: 2
+  match[2]: mirrored bronze bags
+wavy bronze :
+  match[0]: 3 shiny tomato bags
+  match[1]: 3
+  match[2]: shiny tomato bags
+  match[0]: 3 dim salmon bags.
+  match[1]: 3
+  match[2]: dim salmon bags
+pale brown :
+  match[0]: 3 pale tan bags
+  match[1]: 3
+  match[2]: pale tan bags
+  match[0]: 2 plaid olive bags
+  match[1]: 2
+  match[2]: plaid olive bags
+  match[0]: 2 posh lavender bags
+  match[1]: 2
+  match[2]: posh lavender bags
+  match[0]: 1 shiny aqua bag.
+  match[1]: 1
+  match[2]: shiny aqua bag
+dull white :
+  match[0]: 1 dull red bag
+  match[1]: 1
+  match[2]: dull red bag
+  match[0]: 5 dark gold bags
+  match[1]: 5
+  match[2]: dark gold bags
+  match[0]: 3 striped magenta bags
+  match[1]: 3
+  match[2]: striped magenta bags
+  match[0]: 2 muted green bags.
+  match[1]: 2
+  match[2]: muted green bags
+plaid crimson :
+  match[0]: 5 drab bronze bags
+  match[1]: 5
+  match[2]: drab bronze bags
+  match[0]: 2 pale blue bags.
+  match[1]: 2
+  match[2]: pale blue bags
+bright lavender :
+  match[0]: 1 dark bronze bag.
+  match[1]: 1
+  match[2]: dark bronze bag
+plaid red :
+  match[0]: 3 striped turquoise bags
+  match[1]: 3
+  match[2]: striped turquoise bags
+  match[0]: 4 dull crimson bags
+  match[1]: 4
+  match[2]: dull crimson bags
+  match[0]: 1 striped brown bag
+  match[1]: 1
+  match[2]: striped brown bag
+  match[0]: 2 clear crimson bags.
+  match[1]: 2
+  match[2]: clear crimson bags
+muted gold :
+  match[0]: 5 dotted black bags
+  match[1]: 5
+  match[2]: dotted black bags
+  match[0]: 1 striped salmon bag
+  match[1]: 1
+  match[2]: striped salmon bag
+  match[0]: 3 drab purple bags
+  match[1]: 3
+  match[2]: drab purple bags
+  match[0]: 5 bright red bags.
+  match[1]: 5
+  match[2]: bright red bags
+striped silver :
+  match[0]: 3 posh black bags.
+  match[1]: 3
+  match[2]: posh black bags
+bright aqua :
+  match[0]: 4 light orange bags
+  match[1]: 4
+  match[2]: light orange bags
+  match[0]: 3 wavy blue bags
+  match[1]: 3
+  match[2]: wavy blue bags
+  match[0]: 3 dull lime bags.
+  match[1]: 3
+  match[2]: dull lime bags
+plaid fuchsia :
+  match[0]: 2 shiny orange bags.
+  match[1]: 2
+  match[2]: shiny orange bags
+bright violet :
+  match[0]: 1 drab turquoise bag
+  match[1]: 1
+  match[2]: drab turquoise bag
+  match[0]: 1 dim cyan bag
+  match[1]: 1
+  match[2]: dim cyan bag
+  match[0]: 4 pale blue bags
+  match[1]: 4
+  match[2]: pale blue bags
+  match[0]: 3 wavy blue bags.
+  match[1]: 3
+  match[2]: wavy blue bags
+dim white :
+  match[0]: 1 plaid black bag
+  match[1]: 1
+  match[2]: plaid black bag
+  match[0]: 5 plaid violet bags
+  match[1]: 5
+  match[2]: plaid violet bags
+  match[0]: 2 light gray bags.
+  match[1]: 2
+  match[2]: light gray bags
+bright tan :
+  match[0]: 5 bright gold bags
+  match[1]: 5
+  match[2]: bright gold bags
+  match[0]: 3 shiny salmon bags
+  match[1]: 3
+  match[2]: shiny salmon bags
+  match[0]: 2 muted magenta bags
+  match[1]: 2
+  match[2]: muted magenta bags
+  match[0]: 1 dotted black bag.
+  match[1]: 1
+  match[2]: dotted black bag
+shiny bronze :
+  match[0]: 3 light aqua bags
+  match[1]: 3
+  match[2]: light aqua bags
+  match[0]: 4 clear crimson bags
+  match[1]: 4
+  match[2]: clear crimson bags
+  match[0]: 1 light beige bag
+  match[1]: 1
+  match[2]: light beige bag
+  match[0]: 4 clear blue bags.
+  match[1]: 4
+  match[2]: clear blue bags
+muted silver :
+  match[0]: 4 striped lavender bags.
+  match[1]: 4
+  match[2]: striped lavender bags
+dull red :
+  match[0]: 1 dim coral bag
+  match[1]: 1
+  match[2]: dim coral bag
+  match[0]: 1 faded plum bag
+  match[1]: 1
+  match[2]: faded plum bag
+  match[0]: 4 plaid red bags.
+  match[1]: 4
+  match[2]: plaid red bags
+wavy aqua :
+  match[0]: 2 dotted fuchsia bags
+  match[1]: 2
+  match[2]: dotted fuchsia bags
+  match[0]: 2 mirrored tomato bags.
+  match[1]: 2
+  match[2]: mirrored tomato bags
+dark olive :
+  match[0]: 4 muted yellow bags
+  match[1]: 4
+  match[2]: muted yellow bags
+  match[0]: 2 shiny gold bags
+  match[1]: 2
+  match[2]: shiny gold bags
+  match[0]: 2 posh crimson bags.
+  match[1]: 2
+  match[2]: posh crimson bags
+dark crimson :
+  match[0]: 3 shiny aqua bags
+  match[1]: 3
+  match[2]: shiny aqua bags
+  match[0]: 1 wavy black bag.
+  match[1]: 1
+  match[2]: wavy black bag
+dark brown :
+  match[0]: 2 drab lavender bags
+  match[1]: 2
+  match[2]: drab lavender bags
+  match[0]: 5 posh green bags
+  match[1]: 5
+  match[2]: posh green bags
+  match[0]: 4 pale turquoise bags.
+  match[1]: 4
+  match[2]: pale turquoise bags
+pale blue :
+  match[0]: 2 striped coral bags
+  match[1]: 2
+  match[2]: striped coral bags
+  match[0]: 2 shiny gold bags.
+  match[1]: 2
+  match[2]: shiny gold bags
+vibrant blue :
+  match[0]: 1 mirrored lavender bag
+  match[1]: 1
+  match[2]: mirrored lavender bag
+  match[0]: 4 dark aqua bags
+  match[1]: 4
+  match[2]: dark aqua bags
+  match[0]: 5 wavy coral bags.
+  match[1]: 5
+  match[2]: wavy coral bags
+posh cyan :
+  match[0]: 1 dull lavender bag
+  match[1]: 1
+  match[2]: dull lavender bag
+  match[0]: 3 striped gray bags
+  match[1]: 3
+  match[2]: striped gray bags
+  match[0]: 1 vibrant orange bag.
+  match[1]: 1
+  match[2]: vibrant orange bag
+faded red :
+  match[0]: 1 posh crimson bag
+  match[1]: 1
+  match[2]: posh crimson bag
+  match[0]: 1 wavy coral bag
+  match[1]: 1
+  match[2]: wavy coral bag
+  match[0]: 5 clear beige bags
+  match[1]: 5
+  match[2]: clear beige bags
+  match[0]: 3 dotted silver bags.
+  match[1]: 3
+  match[2]: dotted silver bags
+vibrant gold :
+  match[0]: 3 drab lavender bags
+  match[1]: 3
+  match[2]: drab lavender bags
+  match[0]: 5 dim magenta bags
+  match[1]: 5
+  match[2]: dim magenta bags
+  match[0]: 2 bright tomato bags
+  match[1]: 2
+  match[2]: bright tomato bags
+  match[0]: 4 light magenta bags.
+  match[1]: 4
+  match[2]: light magenta bags
+shiny chartreuse :
+  match[0]: 5 vibrant turquoise bags.
+  match[1]: 5
+  match[2]: vibrant turquoise bags
+clear gray :
+  match[0]: 4 wavy coral bags
+  match[1]: 4
+  match[2]: wavy coral bags
+  match[0]: 2 dark salmon bags
+  match[1]: 2
+  match[2]: dark salmon bags
+  match[0]: 3 dark indigo bags.
+  match[1]: 3
+  match[2]: dark indigo bags
+pale maroon :
+  match[0]: 4 posh tomato bags
+  match[1]: 4
+  match[2]: posh tomato bags
+  match[0]: 5 bright tan bags.
+  match[1]: 5
+  match[2]: bright tan bags
+light turquoise :
+  match[0]: 3 drab fuchsia bags
+  match[1]: 3
+  match[2]: drab fuchsia bags
+  match[0]: 4 bright silver bags
+  match[1]: 4
+  match[2]: bright silver bags
+  match[0]: 5 light green bags.
+  match[1]: 5
+  match[2]: light green bags
+muted crimson :
+  match[0]: 1 dim yellow bag
+  match[1]: 1
+  match[2]: dim yellow bag
+  match[0]: 4 wavy fuchsia bags
+  match[1]: 4
+  match[2]: wavy fuchsia bags
+  match[0]: 2 mirrored magenta bags
+  match[1]: 2
+  match[2]: mirrored magenta bags
+  match[0]: 2 clear beige bags.
+  match[1]: 2
+  match[2]: clear beige bags
+dull gray :
+  match[0]: 2 posh green bags.
+  match[1]: 2
+  match[2]: posh green bags
+light fuchsia :
+  match[0]: 5 dark gold bags
+  match[1]: 5
+  match[2]: dark gold bags
+  match[0]: 3 plaid black bags
+  match[1]: 3
+  match[2]: plaid black bags
+  match[0]: 2 bright lavender bags.
+  match[1]: 2
+  match[2]: bright lavender bags
+striped green :
+  match[0]: 2 striped fuchsia bags
+  match[1]: 2
+  match[2]: striped fuchsia bags
+  match[0]: 5 dull tomato bags
+  match[1]: 5
+  match[2]: dull tomato bags
+  match[0]: 2 posh crimson bags.
+  match[1]: 2
+  match[2]: posh crimson bags
+mirrored purple :
+  match[0]: 2 posh crimson bags
+  match[1]: 2
+  match[2]: posh crimson bags
+  match[0]: 2 mirrored magenta bags
+  match[1]: 2
+  match[2]: mirrored magenta bags
+  match[0]: 3 wavy violet bags
+  match[1]: 3
+  match[2]: wavy violet bags
+  match[0]: 1 striped coral bag.
+  match[1]: 1
+  match[2]: striped coral bag
+vibrant black :
+  match[0]: 3 clear magenta bags
+  match[1]: 3
+  match[2]: clear magenta bags
+  match[0]: 4 muted salmon bags
+  match[1]: 4
+  match[2]: muted salmon bags
+  match[0]: 5 posh blue bags.
+  match[1]: 5
+  match[2]: posh blue bags
+plaid beige :
+  match[0]: 2 dark black bags
+  match[1]: 2
+  match[2]: dark black bags
+  match[0]: 5 plaid yellow bags
+  match[1]: 5
+  match[2]: plaid yellow bags
+  match[0]: 2 bright violet bags.
+  match[1]: 2
+  match[2]: bright violet bags
+pale teal :
+  match[0]: 3 pale crimson bags.
+  match[1]: 3
+  match[2]: pale crimson bags
+striped turquoise :
+dim purple :
+  match[0]: 2 dull crimson bags
+  match[1]: 2
+  match[2]: dull crimson bags
+  match[0]: 5 bright red bags.
+  match[1]: 5
+  match[2]: bright red bags
+faded cyan :
+  match[0]: 5 posh aqua bags
+  match[1]: 5
+  match[2]: posh aqua bags
+  match[0]: 4 dull green bags
+  match[1]: 4
+  match[2]: dull green bags
+  match[0]: 3 dark olive bags.
+  match[1]: 3
+  match[2]: dark olive bags
+mirrored cyan :
+  match[0]: 5 plaid salmon bags
+  match[1]: 5
+  match[2]: plaid salmon bags
+  match[0]: 4 dim salmon bags
+  match[1]: 4
+  match[2]: dim salmon bags
+  match[0]: 4 posh tomato bags.
+  match[1]: 4
+  match[2]: posh tomato bags
+striped purple :
+  match[0]: 2 faded salmon bags
+  match[1]: 2
+  match[2]: faded salmon bags
+  match[0]: 2 bright tan bags
+  match[1]: 2
+  match[2]: bright tan bags
+  match[0]: 4 drab white bags.
+  match[1]: 4
+  match[2]: drab white bags
+bright blue :
+  match[0]: 3 light purple bags
+  match[1]: 3
+  match[2]: light purple bags
+  match[0]: 1 pale yellow bag.
+  match[1]: 1
+  match[2]: pale yellow bag
+faded bronze :
+  match[0]: 1 light indigo bag
+  match[1]: 1
+  match[2]: light indigo bag
+  match[0]: 3 plaid green bags
+  match[1]: 3
+  match[2]: plaid green bags
+  match[0]: 5 posh orange bags.
+  match[1]: 5
+  match[2]: posh orange bags
+striped white :
+  match[0]: 4 drab indigo bags
+  match[1]: 4
+  match[2]: drab indigo bags
+  match[0]: 5 wavy tomato bags
+  match[1]: 5
+  match[2]: wavy tomato bags
+  match[0]: 5 dotted fuchsia bags
+  match[1]: 5
+  match[2]: dotted fuchsia bags
+  match[0]: 2 dim silver bags.
+  match[1]: 2
+  match[2]: dim silver bags
+clear lime :
+  match[0]: 2 dotted magenta bags
+  match[1]: 2
+  match[2]: dotted magenta bags
+  match[0]: 5 striped magenta bags
+  match[1]: 5
+  match[2]: striped magenta bags
+  match[0]: 3 bright coral bags
+  match[1]: 3
+  match[2]: bright coral bags
+  match[0]: 3 mirrored silver bags.
+  match[1]: 3
+  match[2]: mirrored silver bags
+bright white :
+  match[0]: 3 dim lavender bags.
+  match[1]: 3
+  match[2]: dim lavender bags
+dim crimson :
+  match[0]: 1 posh black bag
+  match[1]: 1
+  match[2]: posh black bag
+  match[0]: 1 mirrored silver bag.
+  match[1]: 1
+  match[2]: mirrored silver bag
+clear olive :
+  match[0]: 4 vibrant purple bags
+  match[1]: 4
+  match[2]: vibrant purple bags
+  match[0]: 3 drab lavender bags
+  match[1]: 3
+  match[2]: drab lavender bags
+  match[0]: 2 pale violet bags.
+  match[1]: 2
+  match[2]: pale violet bags
+light coral :
+  match[0]: 2 dotted green bags
+  match[1]: 2
+  match[2]: dotted green bags
+  match[0]: 2 wavy aqua bags
+  match[1]: 2
+  match[2]: wavy aqua bags
+  match[0]: 4 dark salmon bags
+  match[1]: 4
+  match[2]: dark salmon bags
+  match[0]: 3 light gold bags.
+  match[1]: 3
+  match[2]: light gold bags
+muted plum :
+  match[0]: 5 plaid tan bags
+  match[1]: 5
+  match[2]: plaid tan bags
+  match[0]: 1 mirrored silver bag
+  match[1]: 1
+  match[2]: mirrored silver bag
+  match[0]: 3 vibrant turquoise bags.
+  match[1]: 3
+  match[2]: vibrant turquoise bags
+dim plum :
+  match[0]: 4 bright plum bags.
+  match[1]: 4
+  match[2]: bright plum bags
+drab bronze :
+  match[0]: 1 light indigo bag
+  match[1]: 1
+  match[2]: light indigo bag
+  match[0]: 3 striped brown bags
+  match[1]: 3
+  match[2]: striped brown bags
+  match[0]: 3 clear gold bags
+  match[1]: 3
+  match[2]: clear gold bags
+  match[0]: 3 clear gray bags.
+  match[1]: 3
+  match[2]: clear gray bags
+plaid maroon :
+  match[0]: 1 dotted orange bag
+  match[1]: 1
+  match[2]: dotted orange bag
+  match[0]: 5 light magenta bags
+  match[1]: 5
+  match[2]: light magenta bags
+  match[0]: 4 faded salmon bags
+  match[1]: 4
+  match[2]: faded salmon bags
+  match[0]: 3 pale yellow bags.
+  match[1]: 3
+  match[2]: pale yellow bags
+wavy violet :
+  match[0]: 2 dotted silver bags
+  match[1]: 2
+  match[2]: dotted silver bags
+  match[0]: 3 dull crimson bags
+  match[1]: 3
+  match[2]: dull crimson bags
+  match[0]: 5 mirrored aqua bags
+  match[1]: 5
+  match[2]: mirrored aqua bags
+  match[0]: 4 striped brown bags.
+  match[1]: 4
+  match[2]: striped brown bags
+pale crimson :
+  match[0]: 3 bright chartreuse bags
+  match[1]: 3
+  match[2]: bright chartreuse bags
+  match[0]: 4 light turquoise bags
+  match[1]: 4
+  match[2]: light turquoise bags
+  match[0]: 1 bright gray bag
+  match[1]: 1
+  match[2]: bright gray bag
+  match[0]: 1 muted bronze bag.
+  match[1]: 1
+  match[2]: muted bronze bag
+mirrored aqua :
+clear crimson :
+  match[0]: 2 pale salmon bags
+  match[1]: 2
+  match[2]: pale salmon bags
+  match[0]: 4 mirrored magenta bags
+  match[1]: 4
+  match[2]: mirrored magenta bags
+  match[0]: 1 striped coral bag
+  match[1]: 1
+  match[2]: striped coral bag
+  match[0]: 5 plaid olive bags.
+  match[1]: 5
+  match[2]: plaid olive bags
+dark tan :
+  match[0]: 4 wavy silver bags
+  match[1]: 4
+  match[2]: wavy silver bags
+  match[0]: 4 dark aqua bags.
+  match[1]: 4
+  match[2]: dark aqua bags
+wavy maroon :
+  match[0]: 3 clear gray bags.
+  match[1]: 3
+  match[2]: clear gray bags
+light crimson :
+  match[0]: 3 clear silver bags.
+  match[1]: 3
+  match[2]: clear silver bags
+vibrant green :
+  match[0]: 1 clear magenta bag
+  match[1]: 1
+  match[2]: clear magenta bag
+  match[0]: 1 dim white bag
+  match[1]: 1
+  match[2]: dim white bag
+  match[0]: 4 plaid black bags.
+  match[1]: 4
+  match[2]: plaid black bags
+bright bronze :
+  match[0]: 2 light brown bags.
+  match[1]: 2
+  match[2]: light brown bags
+light maroon :
+  match[0]: 5 bright red bags
+  match[1]: 5
+  match[2]: bright red bags
+  match[0]: 2 bright tan bags
+  match[1]: 2
+  match[2]: bright tan bags
+  match[0]: 5 dim silver bags
+  match[1]: 5
+  match[2]: dim silver bags
+  match[0]: 4 pale salmon bags.
+  match[1]: 4
+  match[2]: pale salmon bags
+dark coral :
+  match[0]: 2 light crimson bags.
+  match[1]: 2
+  match[2]: light crimson bags
+pale silver :
+  match[0]: 2 mirrored magenta bags
+  match[1]: 2
+  match[2]: mirrored magenta bags
+  match[0]: 3 posh red bags
+  match[1]: 3
+  match[2]: posh red bags
+  match[0]: 1 muted yellow bag
+  match[1]: 1
+  match[2]: muted yellow bag
+  match[0]: 5 dark salmon bags.
+  match[1]: 5
+  match[2]: dark salmon bags
+dotted crimson :
+  match[0]: 4 faded salmon bags
+  match[1]: 4
+  match[2]: faded salmon bags
+  match[0]: 4 vibrant beige bags
+  match[1]: 4
+  match[2]: vibrant beige bags
+  match[0]: 5 dim beige bags.
+  match[1]: 5
+  match[2]: dim beige bags
+dull silver :
+  match[0]: 1 striped brown bag
+  match[1]: 1
+  match[2]: striped brown bag
+  match[0]: 2 shiny magenta bags.
+  match[1]: 2
+  match[2]: shiny magenta bags
+striped beige :
+  match[0]: 4 clear crimson bags.
+  match[1]: 4
+  match[2]: clear crimson bags
+faded orange :
+  match[0]: 2 drab white bags
+  match[1]: 2
+  match[2]: drab white bags
+  match[0]: 3 striped salmon bags
+  match[1]: 3
+  match[2]: striped salmon bags
+  match[0]: 5 bright chartreuse bags.
+  match[1]: 5
+  match[2]: bright chartreuse bags
+drab olive :
+  match[0]: 4 clear purple bags.
+  match[1]: 4
+  match[2]: clear purple bags
+dull maroon :
+  match[0]: 3 dotted magenta bags.
+  match[1]: 3
+  match[2]: dotted magenta bags
+vibrant lavender :
+  match[0]: 2 light tomato bags
+  match[1]: 2
+  match[2]: light tomato bags
+  match[0]: 1 shiny teal bag.
+  match[1]: 1
+  match[2]: shiny teal bag
+dotted chartreuse :
+  match[0]: 4 faded white bags
+  match[1]: 4
+  match[2]: faded white bags
+  match[0]: 2 light brown bags.
+  match[1]: 2
+  match[2]: light brown bags
+drab cyan :
+  match[0]: 2 pale coral bags
+  match[1]: 2
+  match[2]: pale coral bags
+  match[0]: 3 light purple bags
+  match[1]: 3
+  match[2]: light purple bags
+  match[0]: 2 drab bronze bags
+  match[1]: 2
+  match[2]: drab bronze bags
+  match[0]: 1 dim beige bag.
+  match[1]: 1
+  match[2]: dim beige bag
+bright teal :
+  match[0]: 2 vibrant plum bags
+  match[1]: 2
+  match[2]: vibrant plum bags
+  match[0]: 2 dull tan bags
+  match[1]: 2
+  match[2]: dull tan bags
+  match[0]: 1 dim tomato bag
+  match[1]: 1
+  match[2]: dim tomato bag
+  match[0]: 5 dark violet bags.
+  match[1]: 5
+  match[2]: dark violet bags
+wavy fuchsia :
+  match[0]: 1 dim green bag
+  match[1]: 1
+  match[2]: dim green bag
+  match[0]: 2 wavy violet bags.
+  match[1]: 2
+  match[2]: wavy violet bags
+drab black :
+  match[0]: 3 striped tomato bags
+  match[1]: 3
+  match[2]: striped tomato bags
+  match[0]: 4 light salmon bags
+  match[1]: 4
+  match[2]: light salmon bags
+  match[0]: 4 dim yellow bags
+  match[1]: 4
+  match[2]: dim yellow bags
+  match[0]: 3 shiny black bags.
+  match[1]: 3
+  match[2]: shiny black bags
+dark green :
+  match[0]: 5 dark tan bags.
+  match[1]: 5
+  match[2]: dark tan bags
+clear tomato :
+  match[0]: 4 mirrored gold bags
+  match[1]: 4
+  match[2]: mirrored gold bags
+  match[0]: 4 dark gold bags.
+  match[1]: 4
+  match[2]: dark gold bags
+plaid aqua :
+  match[0]: 5 dotted coral bags
+  match[1]: 5
+  match[2]: dotted coral bags
+  match[0]: 1 muted white bag.
+  match[1]: 1
+  match[2]: muted white bag
+plaid white :
+  match[0]: 3 clear crimson bags
+  match[1]: 3
+  match[2]: clear crimson bags
+  match[0]: 3 wavy gold bags
+  match[1]: 3
+  match[2]: wavy gold bags
+  match[0]: 3 pale lime bags
+  match[1]: 3
+  match[2]: pale lime bags
+  match[0]: 2 striped brown bags.
+  match[1]: 2
+  match[2]: striped brown bags
+muted black :
+  match[0]: 1 wavy tan bag
+  match[1]: 1
+  match[2]: wavy tan bag
+  match[0]: 4 mirrored turquoise bags.
+  match[1]: 4
+  match[2]: mirrored turquoise bags
+faded aqua :
+  match[0]: 5 dull turquoise bags
+  match[1]: 5
+  match[2]: dull turquoise bags
+  match[0]: 1 vibrant tan bag.
+  match[1]: 1
+  match[2]: vibrant tan bag
+vibrant brown :
+  match[0]: 5 pale silver bags
+  match[1]: 5
+  match[2]: pale silver bags
+  match[0]: 3 drab orange bags
+  match[1]: 3
+  match[2]: drab orange bags
+  match[0]: 1 clear olive bag.
+  match[1]: 1
+  match[2]: clear olive bag
+pale cyan :
+  match[0]: 2 faded cyan bags
+  match[1]: 2
+  match[2]: faded cyan bags
+  match[0]: 1 mirrored tan bag
+  match[1]: 1
+  match[2]: mirrored tan bag
+  match[0]: 3 vibrant aqua bags
+  match[1]: 3
+  match[2]: vibrant aqua bags
+  match[0]: 3 light gold bags.
+  match[1]: 3
+  match[2]: light gold bags
+shiny salmon :
+  match[0]: 5 posh red bags
+  match[1]: 5
+  match[2]: posh red bags
+  match[0]: 5 light chartreuse bags
+  match[1]: 5
+  match[2]: light chartreuse bags
+  match[0]: 2 striped brown bags.
+  match[1]: 2
+  match[2]: striped brown bags
+plaid lime :
+  match[0]: 4 dim gold bags
+  match[1]: 4
+  match[2]: dim gold bags
+  match[0]: 1 clear magenta bag.
+  match[1]: 1
+  match[2]: clear magenta bag
+drab tomato :
+  match[0]: 5 clear orange bags.
+  match[1]: 5
+  match[2]: clear orange bags
+faded beige :
+  match[0]: 3 dark crimson bags
+  match[1]: 3
+  match[2]: dark crimson bags
+  match[0]: 2 mirrored tan bags.
+  match[1]: 2
+  match[2]: mirrored tan bags
+vibrant crimson :
+  match[0]: 4 wavy blue bags
+  match[1]: 4
+  match[2]: wavy blue bags
+  match[0]: 5 clear gray bags.
+  match[1]: 5
+  match[2]: clear gray bags
+dotted maroon :
+  match[0]: 5 dotted red bags
+  match[1]: 5
+  match[2]: dotted red bags
+  match[0]: 4 wavy silver bags
+  match[1]: 4
+  match[2]: wavy silver bags
+  match[0]: 1 drab brown bag
+  match[1]: 1
+  match[2]: drab brown bag
+  match[0]: 3 dark black bags.
+  match[1]: 3
+  match[2]: dark black bags
+striped indigo :
+  match[0]: 3 striped orange bags.
+  match[1]: 3
+  match[2]: striped orange bags
+dim orange :
+  match[0]: 1 wavy lavender bag
+  match[1]: 1
+  match[2]: wavy lavender bag
+  match[0]: 5 drab brown bags
+  match[1]: 5
+  match[2]: drab brown bags
+  match[0]: 1 dull salmon bag.
+  match[1]: 1
+  match[2]: dull salmon bag
+posh olive :
+  match[0]: 3 faded indigo bags
+  match[1]: 3
+  match[2]: faded indigo bags
+  match[0]: 1 plaid white bag.
+  match[1]: 1
+  match[2]: plaid white bag
+striped lavender :
+  match[0]: 1 bright red bag.
+  match[1]: 1
+  match[2]: bright red bag
+muted violet :
+  match[0]: 3 bright tan bags
+  match[1]: 3
+  match[2]: bright tan bags
+  match[0]: 5 striped coral bags
+  match[1]: 5
+  match[2]: striped coral bags
+  match[0]: 1 drab bronze bag.
+  match[1]: 1
+  match[2]: drab bronze bag
+wavy tan :
+  match[0]: 1 striped brown bag
+  match[1]: 1
+  match[2]: striped brown bag
+  match[0]: 3 dim salmon bags
+  match[1]: 3
+  match[2]: dim salmon bags
+  match[0]: 1 posh fuchsia bag
+  match[1]: 1
+  match[2]: posh fuchsia bag
+  match[0]: 4 mirrored violet bags.
+  match[1]: 4
+  match[2]: mirrored violet bags
+dull magenta :
+  match[0]: 1 clear red bag
+  match[1]: 1
+  match[2]: clear red bag
+  match[0]: 4 dull green bags
+  match[1]: 4
+  match[2]: dull green bags
+  match[0]: 2 posh lime bags
+  match[1]: 2
+  match[2]: posh lime bags
+  match[0]: 5 mirrored gold bags.
+  match[1]: 5
+  match[2]: mirrored gold bags
+dotted red :
+  match[0]: 1 mirrored black bag
+  match[1]: 1
+  match[2]: mirrored black bag
+  match[0]: 3 dull bronze bags
+  match[1]: 3
+  match[2]: dull bronze bags
+  match[0]: 2 dim salmon bags.
+  match[1]: 2
+  match[2]: dim salmon bags
+drab turquoise :
+  match[0]: 5 muted yellow bags
+  match[1]: 5
+  match[2]: muted yellow bags
+  match[0]: 1 light indigo bag
+  match[1]: 1
+  match[2]: light indigo bag
+  match[0]: 5 dotted black bags.
+  match[1]: 5
+  match[2]: dotted black bags
+faded purple :
+  match[0]: 5 dim orange bags
+  match[1]: 5
+  match[2]: dim orange bags
+  match[0]: 3 dark red bags.
+  match[1]: 3
+  match[2]: dark red bags
+faded teal :
+  match[0]: 1 bright fuchsia bag.
+  match[1]: 1
+  match[2]: bright fuchsia bag
+plaid gray :
+  match[0]: 5 pale aqua bags.
+  match[1]: 5
+  match[2]: pale aqua bags
+bright black :
+  match[0]: 4 wavy violet bags.
+  match[1]: 4
+  match[2]: wavy violet bags
+dim green :
+  match[0]: 3 mirrored aqua bags
+  match[1]: 3
+  match[2]: mirrored aqua bags
+  match[0]: 1 light chartreuse bag
+  match[1]: 1
+  match[2]: light chartreuse bag
+  match[0]: 1 light indigo bag.
+  match[1]: 1
+  match[2]: light indigo bag
+dark gold :
+  match[0]: 2 mirrored red bags
+  match[1]: 2
+  match[2]: mirrored red bags
+  match[0]: 2 bright lavender bags
+  match[1]: 2
+  match[2]: bright lavender bags
+  match[0]: 3 pale crimson bags.
+  match[1]: 3
+  match[2]: pale crimson bags
+dark plum :
+  match[0]: 2 pale salmon bags.
+  match[1]: 2
+  match[2]: pale salmon bags
+wavy orange :
+  match[0]: 2 light tan bags
+  match[1]: 2
+  match[2]: light tan bags
+  match[0]: 1 pale yellow bag
+  match[1]: 1
+  match[2]: pale yellow bag
+  match[0]: 2 shiny aqua bags
+  match[1]: 2
+  match[2]: shiny aqua bags
+  match[0]: 4 vibrant orange bags.
+  match[1]: 4
+  match[2]: vibrant orange bags
+bright chartreuse :
+  match[0]: 5 dark salmon bags
+  match[1]: 5
+  match[2]: dark salmon bags
+  match[0]: 1 plaid olive bag.
+  match[1]: 1
+  match[2]: plaid olive bag
+wavy purple :
+  match[0]: 4 faded coral bags
+  match[1]: 4
+  match[2]: faded coral bags
+  match[0]: 2 vibrant orange bags.
+  match[1]: 2
+  match[2]: vibrant orange bags
+shiny violet :
+  match[0]: 3 plaid chartreuse bags
+  match[1]: 3
+  match[2]: plaid chartreuse bags
+  match[0]: 2 plaid brown bags.
+  match[1]: 2
+  match[2]: plaid brown bags
+posh indigo :
+  match[0]: 1 posh salmon bag.
+  match[1]: 1
+  match[2]: posh salmon bag
+clear indigo :
+  match[0]: 3 light violet bags.
+  match[1]: 3
+  match[2]: light violet bags
+plaid purple :
+  match[0]: 1 clear blue bag
+  match[1]: 1
+  match[2]: clear blue bag
+  match[0]: 2 muted gold bags
+  match[1]: 2
+  match[2]: muted gold bags
+  match[0]: 1 dull brown bag.
+  match[1]: 1
+  match[2]: dull brown bag
+posh lavender :
+  match[0]: 1 plaid black bag
+  match[1]: 1
+  match[2]: plaid black bag
+  match[0]: 3 shiny orange bags
+  match[1]: 3
+  match[2]: shiny orange bags
+  match[0]: 3 posh red bags
+  match[1]: 3
+  match[2]: posh red bags
+  match[0]: 4 plaid cyan bags.
+  match[1]: 4
+  match[2]: plaid cyan bags
+wavy silver :
+  match[0]: 3 plaid cyan bags
+  match[1]: 3
+  match[2]: plaid cyan bags
+  match[0]: 1 plaid olive bag.
+  match[1]: 1
+  match[2]: plaid olive bag
+posh salmon :
+  match[0]: 3 clear gray bags
+  match[1]: 3
+  match[2]: clear gray bags
+  match[0]: 5 dotted silver bags
+  match[1]: 5
+  match[2]: dotted silver bags
+  match[0]: 4 shiny aqua bags.
+  match[1]: 4
+  match[2]: shiny aqua bags
+faded lavender :
+  match[0]: 4 drab chartreuse bags
+  match[1]: 4
+  match[2]: drab chartreuse bags
+  match[0]: 4 plaid magenta bags
+  match[1]: 4
+  match[2]: plaid magenta bags
+  match[0]: 1 vibrant tomato bag.
+  match[1]: 1
+  match[2]: vibrant tomato bag
+pale red :
+  match[0]: 4 bright red bags
+  match[1]: 4
+  match[2]: bright red bags
+  match[0]: 4 pale lime bags
+  match[1]: 4
+  match[2]: pale lime bags
+  match[0]: 3 striped turquoise bags.
+  match[1]: 3
+  match[2]: striped turquoise bags
+bright purple :
+  match[0]: 3 muted lavender bags.
+  match[1]: 3
+  match[2]: muted lavender bags
+dim magenta :
+  match[0]: 1 plaid teal bag
+  match[1]: 1
+  match[2]: plaid teal bag
+  match[0]: 3 posh lavender bags.
+  match[1]: 3
+  match[2]: posh lavender bags
+posh magenta :
+  match[0]: 3 pale teal bags
+  match[1]: 3
+  match[2]: pale teal bags
+  match[0]: 5 mirrored tomato bags
+  match[1]: 5
+  match[2]: mirrored tomato bags
+  match[0]: 2 striped gold bags
+  match[1]: 2
+  match[2]: striped gold bags
+  match[0]: 2 bright tomato bags.
+  match[1]: 2
+  match[2]: bright tomato bags
+bright brown :
+  match[0]: 1 dark fuchsia bag
+  match[1]: 1
+  match[2]: dark fuchsia bag
+  match[0]: 4 pale yellow bags
+  match[1]: 4
+  match[2]: pale yellow bags
+  match[0]: 5 shiny crimson bags.
+  match[1]: 5
+  match[2]: shiny crimson bags
+light red :
+  match[0]: 1 wavy teal bag.
+  match[1]: 1
+  match[2]: wavy teal bag
+pale turquoise :
+  match[0]: 3 mirrored yellow bags.
+  match[1]: 3
+  match[2]: mirrored yellow bags
+vibrant magenta :
+  match[0]: 4 dark gold bags.
+  match[1]: 4
+  match[2]: dark gold bags
+dotted salmon :
+  match[0]: 3 wavy violet bags
+  match[1]: 3
+  match[2]: wavy violet bags
+  match[0]: 4 shiny aqua bags
+  match[1]: 4
+  match[2]: shiny aqua bags
+  match[0]: 4 dull bronze bags.
+  match[1]: 4
+  match[2]: dull bronze bags
+mirrored gray :
+  match[0]: 3 dark plum bags
+  match[1]: 3
+  match[2]: dark plum bags
+  match[0]: 3 striped gray bags
+  match[1]: 3
+  match[2]: striped gray bags
+  match[0]: 4 plaid violet bags.
+  match[1]: 4
+  match[2]: plaid violet bags
+dim yellow :
+  match[0]: 3 striped turquoise bags
+  match[1]: 3
+  match[2]: striped turquoise bags
+  match[0]: 2 pale salmon bags
+  match[1]: 2
+  match[2]: pale salmon bags
+  match[0]: 4 mirrored magenta bags
+  match[1]: 4
+  match[2]: mirrored magenta bags
+  match[0]: 5 striped brown bags.
+  match[1]: 5
+  match[2]: striped brown bags
+drab lavender :
+  match[0]: 2 faded maroon bags
+  match[1]: 2
+  match[2]: faded maroon bags
+  match[0]: 2 shiny orange bags.
+  match[1]: 2
+  match[2]: shiny orange bags
+muted maroon :
+  match[0]: 1 wavy tomato bag
+  match[1]: 1
+  match[2]: wavy tomato bag
+  match[0]: 2 drab red bags.
+  match[1]: 2
+  match[2]: drab red bags
+clear gold :
+  match[0]: 3 mirrored olive bags
+  match[1]: 3
+  match[2]: mirrored olive bags
+  match[0]: 3 striped turquoise bags.
+  match[1]: 3
+  match[2]: striped turquoise bags
+light bronze :
+  match[0]: 1 muted lavender bag.
+  match[1]: 1
+  match[2]: muted lavender bag
+dotted bronze :
+  match[0]: 2 dotted turquoise bags.
+  match[1]: 2
+  match[2]: dotted turquoise bags
+pale tomato :
+  match[0]: 3 shiny beige bags
+  match[1]: 3
+  match[2]: shiny beige bags
+  match[0]: 1 mirrored tomato bag
+  match[1]: 1
+  match[2]: mirrored tomato bag
+  match[0]: 2 dotted maroon bags
+  match[1]: 2
+  match[2]: dotted maroon bags
+  match[0]: 2 wavy teal bags.
+  match[1]: 2
+  match[2]: wavy teal bags
+pale chartreuse :
+  match[0]: 5 plaid silver bags.
+  match[1]: 5
+  match[2]: plaid silver bags
+drab magenta :
+  match[0]: 5 wavy tomato bags
+  match[1]: 5
+  match[2]: wavy tomato bags
+  match[0]: 1 drab brown bag
+  match[1]: 1
+  match[2]: drab brown bag
+  match[0]: 2 posh maroon bags
+  match[1]: 2
+  match[2]: posh maroon bags
+  match[0]: 5 mirrored teal bags.
+  match[1]: 5
+  match[2]: mirrored teal bags
+posh blue :
+  match[0]: 3 muted lime bags
+  match[1]: 3
+  match[2]: muted lime bags
+  match[0]: 1 mirrored tomato bag
+  match[1]: 1
+  match[2]: mirrored tomato bag
+  match[0]: 5 shiny aqua bags.
+  match[1]: 5
+  match[2]: shiny aqua bags
+posh purple :
+  match[0]: 5 dull maroon bags.
+  match[1]: 5
+  match[2]: dull maroon bags
+posh bronze :
+  match[0]: 2 mirrored orange bags
+  match[1]: 2
+  match[2]: mirrored orange bags
+  match[0]: 2 pale violet bags
+  match[1]: 2
+  match[2]: pale violet bags
+  match[0]: 2 plaid gray bags.
+  match[1]: 2
+  match[2]: plaid gray bags
+pale gold :
+  match[0]: 4 striped brown bags
+  match[1]: 4
+  match[2]: striped brown bags
+  match[0]: 2 muted green bags.
+  match[1]: 2
+  match[2]: muted green bags
+faded crimson :
+  match[0]: 5 drab salmon bags
+  match[1]: 5
+  match[2]: drab salmon bags
+  match[0]: 2 posh crimson bags
+  match[1]: 2
+  match[2]: posh crimson bags
+  match[0]: 3 light purple bags
+  match[1]: 3
+  match[2]: light purple bags
+  match[0]: 5 clear red bags.
+  match[1]: 5
+  match[2]: clear red bags
+vibrant fuchsia :
+  match[0]: 2 posh beige bags
+  match[1]: 2
+  match[2]: posh beige bags
+  match[0]: 4 dotted indigo bags
+  match[1]: 4
+  match[2]: dotted indigo bags
+  match[0]: 5 pale silver bags
+  match[1]: 5
+  match[2]: pale silver bags
+  match[0]: 4 clear black bags.
+  match[1]: 4
+  match[2]: clear black bags
+faded lime :
+  match[0]: 3 posh plum bags
+  match[1]: 3
+  match[2]: posh plum bags
+  match[0]: 3 shiny aqua bags
+  match[1]: 3
+  match[2]: shiny aqua bags
+  match[0]: 4 dull chartreuse bags.
+  match[1]: 4
+  match[2]: dull chartreuse bags
+shiny fuchsia :
+  match[0]: 4 shiny salmon bags
+  match[1]: 4
+  match[2]: shiny salmon bags
+  match[0]: 3 pale chartreuse bags.
+  match[1]: 3
+  match[2]: pale chartreuse bags
+wavy lavender :
+  match[0]: 2 dark blue bags
+  match[1]: 2
+  match[2]: dark blue bags
+  match[0]: 5 muted salmon bags.
+  match[1]: 5
+  match[2]: muted salmon bags
+pale indigo :
+  match[0]: 1 wavy gold bag
+  match[1]: 1
+  match[2]: wavy gold bag
+  match[0]: 1 clear silver bag
+  match[1]: 1
+  match[2]: clear silver bag
+  match[0]: 3 dim blue bags.
+  match[1]: 3
+  match[2]: dim blue bags
+drab violet :
+  match[0]: 4 muted yellow bags.
+  match[1]: 4
+  match[2]: muted yellow bags
+shiny plum :
+  match[0]: 3 bright black bags
+  match[1]: 3
+  match[2]: bright black bags
+  match[0]: 5 pale teal bags
+  match[1]: 5
+  match[2]: pale teal bags
+  match[0]: 5 light red bags
+  match[1]: 5
+  match[2]: light red bags
+  match[0]: 2 plaid magenta bags.
+  match[1]: 2
+  match[2]: plaid magenta bags
+shiny gold :
+  match[0]: 1 vibrant chartreuse bag.
+  match[1]: 1
+  match[2]: vibrant chartreuse bag
+wavy gold :
+  match[0]: 5 posh beige bags
+  match[1]: 5
+  match[2]: posh beige bags
+  match[0]: 1 mirrored aqua bag.
+  match[1]: 1
+  match[2]: mirrored aqua bag
+dark salmon :
+  match[0]: 3 light aqua bags
+  match[1]: 3
+  match[2]: light aqua bags
+  match[0]: 3 posh red bags
+  match[1]: 3
+  match[2]: posh red bags
+  match[0]: 2 mirrored black bags
+  match[1]: 2
+  match[2]: mirrored black bags
+  match[0]: 1 posh crimson bag.
+  match[1]: 1
+  match[2]: posh crimson bag
+pale tan :
+  match[0]: 4 wavy coral bags.
+  match[1]: 4
+  match[2]: wavy coral bags
+dull tan :
+  match[0]: 4 bright cyan bags.
+  match[1]: 4
+  match[2]: bright cyan bags
+clear maroon :
+  match[0]: 4 dim magenta bags
+  match[1]: 4
+  match[2]: dim magenta bags
+  match[0]: 2 shiny lavender bags.
+  match[1]: 2
+  match[2]: shiny lavender bags
+light white :
+  match[0]: 3 dark brown bags
+  match[1]: 3
+  match[2]: dark brown bags
+  match[0]: 4 bright fuchsia bags.
+  match[1]: 4
+  match[2]: bright fuchsia bags
+wavy red :
+  match[0]: 4 dim red bags.
+  match[1]: 4
+  match[2]: dim red bags
+dotted aqua :
+  match[0]: 4 striped teal bags.
+  match[1]: 4
+  match[2]: striped teal bags
+bright beige :
+  match[0]: 5 shiny tomato bags.
+  match[1]: 5
+  match[2]: shiny tomato bags
+plaid indigo :
+  match[0]: 1 muted bronze bag.
+  match[1]: 1
+  match[2]: muted bronze bag
+light yellow :
+  match[0]: 2 striped black bags
+  match[1]: 2
+  match[2]: striped black bags
+  match[0]: 2 muted gold bags
+  match[1]: 2
+  match[2]: muted gold bags
+  match[0]: 3 dotted tan bags
+  match[1]: 3
+  match[2]: dotted tan bags
+  match[0]: 5 dark coral bags.
+  match[1]: 5
+  match[2]: dark coral bags
+vibrant silver :
+  match[0]: 2 dim blue bags.
+  match[1]: 2
+  match[2]: dim blue bags
+posh tomato :
+  match[0]: 5 bright red bags
+  match[1]: 5
+  match[2]: bright red bags
+  match[0]: 3 posh red bags
+  match[1]: 3
+  match[2]: posh red bags
+  match[0]: 3 plaid olive bags
+  match[1]: 3
+  match[2]: plaid olive bags
+  match[0]: 4 clear crimson bags.
+  match[1]: 4
+  match[2]: clear crimson bags
+pale magenta :
+  match[0]: 3 mirrored blue bags
+  match[1]: 3
+  match[2]: mirrored blue bags
+  match[0]: 5 dull maroon bags
+  match[1]: 5
+  match[2]: dull maroon bags
+  match[0]: 5 dark violet bags.
+  match[1]: 5
+  match[2]: dark violet bags
+light indigo :
+  match[0]: 2 plaid olive bags
+  match[1]: 2
+  match[2]: plaid olive bags
+  match[0]: 1 plaid black bag
+  match[1]: 1
+  match[2]: plaid black bag
+  match[0]: 3 dark indigo bags.
+  match[1]: 3
+  match[2]: dark indigo bags
+shiny green :
+  match[0]: 1 vibrant chartreuse bag
+  match[1]: 1
+  match[2]: vibrant chartreuse bag
+  match[0]: 4 bright lavender bags
+  match[1]: 4
+  match[2]: bright lavender bags
+  match[0]: 3 wavy crimson bags
+  match[1]: 3
+  match[2]: wavy crimson bags
+  match[0]: 4 dull red bags.
+  match[1]: 4
+  match[2]: dull red bags
+striped maroon :
+  match[0]: 2 posh coral bags
+  match[1]: 2
+  match[2]: posh coral bags
+  match[0]: 2 striped gray bags
+  match[1]: 2
+  match[2]: striped gray bags
+  match[0]: 3 clear plum bags.
+  match[1]: 3
+  match[2]: clear plum bags
+posh fuchsia :
+  match[0]: 2 wavy gold bags
+  match[1]: 2
+  match[2]: wavy gold bags
+  match[0]: 2 posh beige bags.
+  match[1]: 2
+  match[2]: posh beige bags
+dim coral :
+  match[0]: 4 wavy gold bags
+  match[1]: 4
+  match[2]: wavy gold bags
+  match[0]: 4 muted lavender bags.
+  match[1]: 4
+  match[2]: muted lavender bags
+faded maroon :
+  match[0]: 5 dim purple bags
+  match[1]: 5
+  match[2]: dim purple bags
+  match[0]: 4 bright red bags
+  match[1]: 4
+  match[2]: bright red bags
+  match[0]: 5 wavy violet bags
+  match[1]: 5
+  match[2]: wavy violet bags
+  match[0]: 1 mirrored aqua bag.
+  match[1]: 1
+  match[2]: mirrored aqua bag
+striped black :
+  match[0]: 4 plaid fuchsia bags
+  match[1]: 4
+  match[2]: plaid fuchsia bags
+  match[0]: 5 bright lavender bags
+  match[1]: 5
+  match[2]: bright lavender bags
+  match[0]: 4 dull black bags.
+  match[1]: 4
+  match[2]: dull black bags
+mirrored gold :
+  match[0]: 3 dotted silver bags.
+  match[1]: 3
+  match[2]: dotted silver bags
+light tomato :
+  match[0]: 5 pale brown bags
+  match[1]: 5
+  match[2]: pale brown bags
+  match[0]: 3 wavy coral bags.
+  match[1]: 3
+  match[2]: wavy coral bags
+dark white :
+  match[0]: 2 mirrored tomato bags
+  match[1]: 2
+  match[2]: mirrored tomato bags
+  match[0]: 1 striped orange bag
+  match[1]: 1
+  match[2]: striped orange bag
+  match[0]: 1 dim olive bag
+  match[1]: 1
+  match[2]: dim olive bag
+  match[0]: 2 dotted blue bags.
+  match[1]: 2
+  match[2]: dotted blue bags
+dotted green :
+  match[0]: 3 clear plum bags.
+  match[1]: 3
+  match[2]: clear plum bags
+dotted brown :
+  match[0]: 1 clear magenta bag.
+  match[1]: 1
+  match[2]: clear magenta bag
+muted orange :
+  match[0]: 3 muted olive bags
+  match[1]: 3
+  match[2]: muted olive bags
+  match[0]: 2 faded yellow bags
+  match[1]: 2
+  match[2]: faded yellow bags
+  match[0]: 2 faded turquoise bags
+  match[1]: 2
+  match[2]: faded turquoise bags
+  match[0]: 3 muted violet bags.
+  match[1]: 3
+  match[2]: muted violet bags
+dull olive :
+  match[0]: 2 dotted teal bags.
+  match[1]: 2
+  match[2]: dotted teal bags
+mirrored lime :
+  match[0]: 4 dark violet bags
+  match[1]: 4
+  match[2]: dark violet bags
+  match[0]: 4 muted yellow bags.
+  match[1]: 4
+  match[2]: muted yellow bags
+wavy green :
+  match[0]: 5 bright lime bags.
+  match[1]: 5
+  match[2]: bright lime bags
+drab purple :
+  match[0]: 2 striped turquoise bags
+  match[1]: 2
+  match[2]: striped turquoise bags
+  match[0]: 4 clear silver bags
+  match[1]: 4
+  match[2]: clear silver bags
+  match[0]: 1 muted lime bag.
+  match[1]: 1
+  match[2]: muted lime bag
+clear cyan :
+  match[0]: 5 light lavender bags.
+  match[1]: 5
+  match[2]: light lavender bags
+dim black :
+  match[0]: 3 dull black bags.
+  match[1]: 3
+  match[2]: dull black bags
+posh gray :
+  match[0]: 4 mirrored magenta bags.
+  match[1]: 4
+  match[2]: mirrored magenta bags
+dotted yellow :
+  match[0]: 4 light maroon bags
+  match[1]: 4
+  match[2]: light maroon bags
+  match[0]: 1 clear blue bag
+  match[1]: 1
+  match[2]: clear blue bag
+  match[0]: 5 dark maroon bags.
+  match[1]: 5
+  match[2]: dark maroon bags
+mirrored olive :
+  match[0]: 2 dark violet bags
+  match[1]: 2
+  match[2]: dark violet bags
+  match[0]: 2 dull crimson bags
+  match[1]: 2
+  match[2]: dull crimson bags
+  match[0]: 5 dim salmon bags
+  match[1]: 5
+  match[2]: dim salmon bags
+  match[0]: 5 bright tan bags.
+  match[1]: 5
+  match[2]: bright tan bags
+dark blue :
+  match[0]: 3 dull aqua bags
+  match[1]: 3
+  match[2]: dull aqua bags
+  match[0]: 1 dim teal bag.
+  match[1]: 1
+  match[2]: dim teal bag
+dull bronze :
+  match[0]: 4 striped coral bags.
+  match[1]: 4
+  match[2]: striped coral bags
+drab maroon :
+  match[0]: 2 dark bronze bags
+  match[1]: 2
+  match[2]: dark bronze bags
+  match[0]: 1 wavy blue bag.
+  match[1]: 1
+  match[2]: wavy blue bag
+mirrored lavender :
+  match[0]: 4 clear black bags.
+  match[1]: 4
+  match[2]: clear black bags
+dim beige :
+  match[0]: 3 shiny silver bags
+  match[1]: 3
+  match[2]: shiny silver bags
+  match[0]: 2 dark purple bags
+  match[1]: 2
+  match[2]: dark purple bags
+  match[0]: 3 dull green bags.
+  match[1]: 3
+  match[2]: dull green bags
+light violet :
+  match[0]: 1 muted gray bag
+  match[1]: 1
+  match[2]: muted gray bag
+  match[0]: 5 wavy tomato bags.
+  match[1]: 5
+  match[2]: wavy tomato bags
+striped chartreuse :
+  match[0]: 3 dull tan bags
+  match[1]: 3
+  match[2]: dull tan bags
+  match[0]: 1 dim salmon bag.
+  match[1]: 1
+  match[2]: dim salmon bag
+posh red :
+  match[0]: 2 clear crimson bags
+  match[1]: 2
+  match[2]: clear crimson bags
+  match[0]: 2 striped coral bags
+  match[1]: 2
+  match[2]: striped coral bags
+  match[0]: 2 bright red bags.
+  match[1]: 2
+  match[2]: bright red bags
+wavy beige :
+  match[0]: 5 muted silver bags
+  match[1]: 5
+  match[2]: muted silver bags
+  match[0]: 5 pale teal bags.
+  match[1]: 5
+  match[2]: pale teal bags
+light gray :
+  match[0]: 5 drab indigo bags
+  match[1]: 5
+  match[2]: drab indigo bags
+  match[0]: 3 posh crimson bags
+  match[1]: 3
+  match[2]: posh crimson bags
+  match[0]: 1 dark tan bag
+  match[1]: 1
+  match[2]: dark tan bag
+  match[0]: 2 pale red bags.
+  match[1]: 2
+  match[2]: pale red bags
+muted white :
+  match[0]: 3 wavy fuchsia bags.
+  match[1]: 3
+  match[2]: wavy fuchsia bags
+pale violet :
+  match[0]: 4 wavy tan bags
+  match[1]: 4
+  match[2]: wavy tan bags
+  match[0]: 2 plaid yellow bags.
+  match[1]: 2
+  match[2]: plaid yellow bags
+drab fuchsia :
+  match[0]: 1 plaid lavender bag
+  match[1]: 1
+  match[2]: plaid lavender bag
+  match[0]: 2 pale lime bags.
+  match[1]: 2
+  match[2]: pale lime bags
+clear green :
+  match[0]: 4 light indigo bags.
+  match[1]: 4
+  match[2]: light indigo bags
+vibrant turquoise :
+  match[0]: 2 vibrant tan bags
+  match[1]: 2
+  match[2]: vibrant tan bags
+  match[0]: 3 clear silver bags.
+  match[1]: 3
+  match[2]: clear silver bags
+faded green :
+  match[0]: 5 striped orange bags
+  match[1]: 5
+  match[2]: striped orange bags
+  match[0]: 4 bright fuchsia bags.
+  match[1]: 4
+  match[2]: bright fuchsia bags
+striped tan :
+  match[0]: 4 wavy silver bags.
+  match[1]: 4
+  match[2]: wavy silver bags
+clear white :
+  match[0]: 3 vibrant fuchsia bags
+  match[1]: 3
+  match[2]: vibrant fuchsia bags
+  match[0]: 2 pale silver bags
+  match[1]: 2
+  match[2]: pale silver bags
+  match[0]: 1 vibrant indigo bag
+  match[1]: 1
+  match[2]: vibrant indigo bag
+  match[0]: 3 shiny silver bags.
+  match[1]: 3
+  match[2]: shiny silver bags
+dim cyan :
+  match[0]: 2 mirrored black bags
+  match[1]: 2
+  match[2]: mirrored black bags
+  match[0]: 2 plaid chartreuse bags
+  match[1]: 2
+  match[2]: plaid chartreuse bags
+  match[0]: 4 bright gold bags.
+  match[1]: 4
+  match[2]: bright gold bags
+muted gray :
+  match[0]: 3 mirrored violet bags
+  match[1]: 3
+  match[2]: mirrored violet bags
+  match[0]: 4 dim yellow bags.
+  match[1]: 4
+  match[2]: dim yellow bags
+mirrored maroon :
+  match[0]: 5 clear crimson bags
+  match[1]: 5
+  match[2]: clear crimson bags
+  match[0]: 2 clear gray bags
+  match[1]: 2
+  match[2]: clear gray bags
+  match[0]: 1 dotted salmon bag.
+  match[1]: 1
+  match[2]: dotted salmon bag
+dim bronze :
+  match[0]: 2 striped plum bags
+  match[1]: 2
+  match[2]: striped plum bags
+  match[0]: 2 bright orange bags.
+  match[1]: 2
+  match[2]: bright orange bags
+shiny tomato :
+  match[0]: 4 dim yellow bags
+  match[1]: 4
+  match[2]: dim yellow bags
+  match[0]: 2 faded bronze bags
+  match[1]: 2
+  match[2]: faded bronze bags
+  match[0]: 1 drab maroon bag
+  match[1]: 1
+  match[2]: drab maroon bag
+  match[0]: 3 dim gold bags.
+  match[1]: 3
+  match[2]: dim gold bags
+muted olive :
+  match[0]: 2 mirrored yellow bags
+  match[1]: 2
+  match[2]: mirrored yellow bags
+  match[0]: 4 bright olive bags.
+  match[1]: 4
+  match[2]: bright olive bags
+shiny brown :
+  match[0]: 3 bright coral bags.
+  match[1]: 3
+  match[2]: bright coral bags
+clear blue :
+  match[0]: 2 pale green bags
+  match[1]: 2
+  match[2]: pale green bags
+  match[0]: 2 light violet bags
+  match[1]: 2
+  match[2]: light violet bags
+  match[0]: 4 plaid crimson bags.
+  match[1]: 4
+  match[2]: plaid crimson bags
+faded tan :
+  match[0]: 4 dim crimson bags
+  match[1]: 4
+  match[2]: dim crimson bags
+  match[0]: 3 mirrored turquoise bags
+  match[1]: 3
+  match[2]: mirrored turquoise bags
+  match[0]: 3 drab gold bags.
+  match[1]: 3
+  match[2]: drab gold bags
+muted cyan :
+  match[0]: 2 drab silver bags.
+  match[1]: 2
+  match[2]: drab silver bags
+mirrored red :
+  match[0]: 1 bright gold bag.
+  match[1]: 1
+  match[2]: bright gold bag
+faded salmon :
+  match[0]: 5 posh red bags
+  match[1]: 5
+  match[2]: posh red bags
+  match[0]: 4 dull crimson bags
+  match[1]: 4
+  match[2]: dull crimson bags
+  match[0]: 3 dotted salmon bags
+  match[1]: 3
+  match[2]: dotted salmon bags
+  match[0]: 5 shiny olive bags.
+  match[1]: 5
+  match[2]: shiny olive bags
+dark purple :
+  match[0]: 5 dim magenta bags.
+  match[1]: 5
+  match[2]: dim magenta bags
+dotted lime :
+  match[0]: 4 posh fuchsia bags
+  match[1]: 4
+  match[2]: posh fuchsia bags
+  match[0]: 3 wavy tan bags
+  match[1]: 3
+  match[2]: wavy tan bags
+  match[0]: 2 mirrored aqua bags
+  match[1]: 2
+  match[2]: mirrored aqua bags
+  match[0]: 1 shiny aqua bag.
+  match[1]: 1
+  match[2]: shiny aqua bag
+posh tan :
+  match[0]: 3 plaid tan bags
+  match[1]: 3
+  match[2]: plaid tan bags
+  match[0]: 2 drab fuchsia bags.
+  match[1]: 2
+  match[2]: drab fuchsia bags
+dotted teal :
+  match[0]: 4 dull crimson bags
+  match[1]: 4
+  match[2]: dull crimson bags
+  match[0]: 2 bright lavender bags
+  match[1]: 2
+  match[2]: bright lavender bags
+  match[0]: 2 wavy tan bags
+  match[1]: 2
+  match[2]: wavy tan bags
+  match[0]: 4 muted crimson bags.
+  match[1]: 4
+  match[2]: muted crimson bags
+clear purple :
+  match[0]: 4 shiny aqua bags
+  match[1]: 4
+  match[2]: shiny aqua bags
+  match[0]: 1 dim cyan bag
+  match[1]: 1
+  match[2]: dim cyan bag
+  match[0]: 3 dotted black bags
+  match[1]: 3
+  match[2]: dotted black bags
+  match[0]: 4 dull gray bags.
+  match[1]: 4
+  match[2]: dull gray bags
+light gold :
+  match[0]: 2 dotted magenta bags
+  match[1]: 2
+  match[2]: dotted magenta bags
+  match[0]: 5 dark olive bags
+  match[1]: 5
+  match[2]: dark olive bags
+  match[0]: 3 dim cyan bags
+  match[1]: 3
+  match[2]: dim cyan bags
+  match[0]: 2 dark indigo bags.
+  match[1]: 2
+  match[2]: dark indigo bags
+mirrored silver :
+  match[0]: 2 plaid black bags
+  match[1]: 2
+  match[2]: plaid black bags
+  match[0]: 3 vibrant beige bags
+  match[1]: 3
+  match[2]: vibrant beige bags
+  match[0]: 3 mirrored purple bags
+  match[1]: 3
+  match[2]: mirrored purple bags
+  match[0]: 3 dotted lime bags.
+  match[1]: 3
+  match[2]: dotted lime bags
+posh black :
+  match[0]: 4 wavy violet bags
+  match[1]: 4
+  match[2]: wavy violet bags
+  match[0]: 3 plaid teal bags.
+  match[1]: 3
+  match[2]: plaid teal bags
+faded silver :
+  match[0]: 2 vibrant purple bags
+  match[1]: 2
+  match[2]: vibrant purple bags
+  match[0]: 5 shiny olive bags.
+  match[1]: 5
+  match[2]: shiny olive bags
+drab teal :
+  match[0]: 2 dotted salmon bags
+  match[1]: 2
+  match[2]: dotted salmon bags
+  match[0]: 4 posh beige bags
+  match[1]: 4
+  match[2]: posh beige bags
+  match[0]: 4 mirrored tan bags
+  match[1]: 4
+  match[2]: mirrored tan bags
+  match[0]: 1 muted green bag.
+  match[1]: 1
+  match[2]: muted green bag
+dark maroon :
+  match[0]: 2 dark tan bags
+  match[1]: 2
+  match[2]: dark tan bags
+  match[0]: 5 mirrored gold bags
+  match[1]: 5
+  match[2]: mirrored gold bags
+  match[0]: 2 dim plum bags.
+  match[1]: 2
+  match[2]: dim plum bags
+striped plum :
+  match[0]: 3 striped coral bags
+  match[1]: 3
+  match[2]: striped coral bags
+  match[0]: 5 clear brown bags
+  match[1]: 5
+  match[2]: clear brown bags
+  match[0]: 1 striped brown bag.
+  match[1]: 1
+  match[2]: striped brown bag
+striped bronze :
+  match[0]: 4 drab yellow bags
+  match[1]: 4
+  match[2]: drab yellow bags
+  match[0]: 4 striped chartreuse bags
+  match[1]: 4
+  match[2]: striped chartreuse bags
+  match[0]: 5 posh plum bags
+  match[1]: 5
+  match[2]: posh plum bags
+  match[0]: 3 clear blue bags.
+  match[1]: 3
+  match[2]: clear blue bags
+drab plum :
+  match[0]: 1 shiny gold bag
+  match[1]: 1
+  match[2]: shiny gold bag
+  match[0]: 5 vibrant tan bags
+  match[1]: 5
+  match[2]: vibrant tan bags
+  match[0]: 3 light gold bags.
+  match[1]: 3
+  match[2]: light gold bags
+clear fuchsia :
+  match[0]: 1 vibrant red bag.
+  match[1]: 1
+  match[2]: vibrant red bag
+dark silver :
+  match[0]: 5 clear salmon bags
+  match[1]: 5
+  match[2]: clear salmon bags
+  match[0]: 1 faded yellow bag
+  match[1]: 1
+  match[2]: faded yellow bag
+  match[0]: 1 shiny lavender bag
+  match[1]: 1
+  match[2]: shiny lavender bag
+  match[0]: 3 wavy fuchsia bags.
+  match[1]: 3
+  match[2]: wavy fuchsia bags
+striped lime :
+  match[0]: 2 dim tomato bags
+  match[1]: 2
+  match[2]: dim tomato bags
+  match[0]: 3 light fuchsia bags
+  match[1]: 3
+  match[2]: light fuchsia bags
+  match[0]: 1 light lime bag.
+  match[1]: 1
+  match[2]: light lime bag
+wavy salmon :
+  match[0]: 1 shiny tomato bag
+  match[1]: 1
+  match[2]: shiny tomato bag
+  match[0]: 1 light tomato bag.
+  match[1]: 1
+  match[2]: light tomato bag
+dim maroon :
+  match[0]: 4 faded beige bags
+  match[1]: 4
+  match[2]: faded beige bags
+  match[0]: 2 bright turquoise bags
+  match[1]: 2
+  match[2]: bright turquoise bags
+  match[0]: 4 dull purple bags
+  match[1]: 4
+  match[2]: dull purple bags
+  match[0]: 4 vibrant olive bags.
+  match[1]: 4
+  match[2]: vibrant olive bags
+faded chartreuse :
+  match[0]: 4 mirrored blue bags
+  match[1]: 4
+  match[2]: mirrored blue bags
+  match[0]: 5 posh white bags
+  match[1]: 5
+  match[2]: posh white bags
+  match[0]: 2 wavy magenta bags.
+  match[1]: 2
+  match[2]: wavy magenta bags
+clear magenta :
+  match[0]: 2 muted bronze bags
+  match[1]: 2
+  match[2]: muted bronze bags
+  match[0]: 5 dim yellow bags
+  match[1]: 5
+  match[2]: dim yellow bags
+  match[0]: 2 dotted lime bags.
+  match[1]: 2
+  match[2]: dotted lime bags
+bright silver :
+  match[0]: 2 bright gold bags
+  match[1]: 2
+  match[2]: bright gold bags
+  match[0]: 4 wavy yellow bags.
+  match[1]: 4
+  match[2]: wavy yellow bags
+dull violet :
+  match[0]: 3 faded beige bags
+  match[1]: 3
+  match[2]: faded beige bags
+  match[0]: 1 mirrored orange bag
+  match[1]: 1
+  match[2]: mirrored orange bag
+  match[0]: 1 mirrored aqua bag.
+  match[1]: 1
+  match[2]: mirrored aqua bag
+vibrant cyan :
+  match[0]: 2 clear aqua bags
+  match[1]: 2
+  match[2]: clear aqua bags
+  match[0]: 2 dark maroon bags
+  match[1]: 2
+  match[2]: dark maroon bags
+  match[0]: 5 pale tan bags.
+  match[1]: 5
+  match[2]: pale tan bags
+light chartreuse :
+  match[0]: 1 wavy gold bag
+  match[1]: 1
+  match[2]: wavy gold bag
+  match[0]: 2 posh tomato bags
+  match[1]: 2
+  match[2]: posh tomato bags
+  match[0]: 2 clear silver bags.
+  match[1]: 2
+  match[2]: clear silver bags
+dotted olive :
+  match[0]: 5 wavy crimson bags
+  match[1]: 5
+  match[2]: wavy crimson bags
+  match[0]: 1 drab tomato bag.
+  match[1]: 1
+  match[2]: drab tomato bag
+posh aqua :
+  match[0]: 3 striped brown bags.
+  match[1]: 3
+  match[2]: striped brown bags
+posh orange :
+  match[0]: 2 wavy coral bags.
+  match[1]: 2
+  match[2]: wavy coral bags
+dull cyan :
+  match[0]: 1 dark tan bag
+  match[1]: 1
+  match[2]: dark tan bag
+  match[0]: 5 dull gray bags
+  match[1]: 5
+  match[2]: dull gray bags
+  match[0]: 3 drab turquoise bags
+  match[1]: 3
+  match[2]: drab turquoise bags
+  match[0]: 4 shiny aqua bags.
+  match[1]: 4
+  match[2]: shiny aqua bags
+muted teal :
+  match[0]: 4 dull blue bags.
+  match[1]: 4
+  match[2]: dull blue bags
+bright turquoise :
+  match[0]: 5 dull bronze bags
+  match[1]: 5
+  match[2]: dull bronze bags
+  match[0]: 1 plaid lavender bag.
+  match[1]: 1
+  match[2]: plaid lavender bag
+plaid tomato :
+  match[0]: 2 muted lime bags
+  match[1]: 2
+  match[2]: muted lime bags
+  match[0]: 1 light indigo bag
+  match[1]: 1
+  match[2]: light indigo bag
+  match[0]: 5 posh tomato bags.
+  match[1]: 5
+  match[2]: posh tomato bags
+dim salmon :
+  match[0]: 1 dark indigo bag
+  match[1]: 1
+  match[2]: dark indigo bag
+  match[0]: 5 plaid brown bags
+  match[1]: 5
+  match[2]: plaid brown bags
+  match[0]: 3 clear crimson bags
+  match[1]: 3
+  match[2]: clear crimson bags
+  match[0]: 4 clear silver bags.
+  match[1]: 4
+  match[2]: clear silver bags
+posh brown :
+  match[0]: 3 clear silver bags
+  match[1]: 3
+  match[2]: clear silver bags
+  match[0]: 5 faded cyan bags
+  match[1]: 5
+  match[2]: faded cyan bags
+  match[0]: 4 posh crimson bags.
+  match[1]: 4
+  match[2]: posh crimson bags
+dark turquoise :
+  match[0]: 1 drab crimson bag
+  match[1]: 1
+  match[2]: drab crimson bag
+  match[0]: 5 striped coral bags.
+  match[1]: 5
+  match[2]: striped coral bags
+dull crimson :
+striped teal :
+  match[0]: 5 plaid lavender bags
+  match[1]: 5
+  match[2]: plaid lavender bags
+  match[0]: 4 faded red bags.
+  match[1]: 4
+  match[2]: faded red bags
+dotted blue :
+  match[0]: 5 muted beige bags.
+  match[1]: 5
+  match[2]: muted beige bags
+vibrant plum :
+  match[0]: 1 pale lime bag
+  match[1]: 1
+  match[2]: pale lime bag
+  match[0]: 1 posh red bag
+  match[1]: 1
+  match[2]: posh red bag
+  match[0]: 1 dull bronze bag
+  match[1]: 1
+  match[2]: dull bronze bag
+  match[0]: 3 drab silver bags.
+  match[1]: 3
+  match[2]: drab silver bags
+wavy coral :
+  match[0]: 4 mirrored magenta bags
+  match[1]: 4
+  match[2]: mirrored magenta bags
+  match[0]: 5 dim yellow bags
+  match[1]: 5
+  match[2]: dim yellow bags
+  match[0]: 4 bright red bags
+  match[1]: 4
+  match[2]: bright red bags
+  match[0]: 2 posh crimson bags.
+  match[1]: 2
+  match[2]: posh crimson bags
+dark chartreuse :
+  match[0]: 5 dotted fuchsia bags
+  match[1]: 5
+  match[2]: dotted fuchsia bags
+  match[0]: 3 mirrored silver bags
+  match[1]: 3
+  match[2]: mirrored silver bags
+  match[0]: 5 mirrored aqua bags
+  match[1]: 5
+  match[2]: mirrored aqua bags
+  match[0]: 4 dim cyan bags.
+  match[1]: 4
+  match[2]: dim cyan bags
+vibrant teal :
+  match[0]: 3 vibrant silver bags.
+  match[1]: 3
+  match[2]: vibrant silver bags
+shiny beige :
+  match[0]: 5 posh teal bags.
+  match[1]: 5
+  match[2]: posh teal bags
+dim olive :
+  match[0]: 3 clear gray bags
+  match[1]: 3
+  match[2]: clear gray bags
+  match[0]: 4 wavy gold bags.
+  match[1]: 4
+  match[2]: wavy gold bags
+drab yellow :
+  match[0]: 4 light chartreuse bags
+  match[1]: 4
+  match[2]: light chartreuse bags
+  match[0]: 3 striped crimson bags
+  match[1]: 3
+  match[2]: striped crimson bags
+  match[0]: 2 faded gray bags.
+  match[1]: 2
+  match[2]: faded gray bags
+dull chartreuse :
+  match[0]: 1 light lavender bag.
+  match[1]: 1
+  match[2]: light lavender bag
+dotted silver :
+shiny blue :
+  match[0]: 5 dull brown bags
+  match[1]: 5
+  match[2]: dull brown bags
+  match[0]: 2 dark coral bags
+  match[1]: 2
+  match[2]: dark coral bags
+  match[0]: 4 shiny crimson bags.
+  match[1]: 4
+  match[2]: shiny crimson bags
+mirrored black :
+  match[0]: 5 mirrored magenta bags
+  match[1]: 5
+  match[2]: mirrored magenta bags
+  match[0]: 1 striped turquoise bag
+  match[1]: 1
+  match[2]: striped turquoise bag
+  match[0]: 2 plaid cyan bags.
+  match[1]: 2
+  match[2]: plaid cyan bags
+dull black :
+  match[0]: 4 dim purple bags
+  match[1]: 4
+  match[2]: dim purple bags
+  match[0]: 4 dark salmon bags
+  match[1]: 4
+  match[2]: dark salmon bags
+  match[0]: 2 mirrored gold bags.
+  match[1]: 2
+  match[2]: mirrored gold bags
+mirrored beige :
+  match[0]: 4 striped fuchsia bags
+  match[1]: 4
+  match[2]: striped fuchsia bags
+  match[0]: 4 plaid black bags
+  match[1]: 4
+  match[2]: plaid black bags
+  match[0]: 5 dim red bags
+  match[1]: 5
+  match[2]: dim red bags
+  match[0]: 5 light green bags.
+  match[1]: 5
+  match[2]: light green bags
+dim chartreuse :
+  match[0]: 4 shiny yellow bags.
+  match[1]: 4
+  match[2]: shiny yellow bags
+shiny teal :
+  match[0]: 1 vibrant maroon bag.
+  match[1]: 1
+  match[2]: vibrant maroon bag
+dim tomato :
+  match[0]: 5 plaid tomato bags
+  match[1]: 5
+  match[2]: plaid tomato bags
+  match[0]: 5 mirrored violet bags
+  match[1]: 5
+  match[2]: mirrored violet bags
+  match[0]: 2 mirrored orange bags.
+  match[1]: 2
+  match[2]: mirrored orange bags
+vibrant beige :
+  match[0]: 1 plaid black bag
+  match[1]: 1
+  match[2]: plaid black bag
+  match[0]: 3 dotted salmon bags
+  match[1]: 3
+  match[2]: dotted salmon bags
+  match[0]: 2 posh fuchsia bags.
+  match[1]: 2
+  match[2]: posh fuchsia bags
+dull aqua :
+  match[0]: 5 wavy tan bags
+  match[1]: 5
+  match[2]: wavy tan bags
+  match[0]: 3 bright olive bags.
+  match[1]: 3
+  match[2]: bright olive bags
+pale lime :
+  match[0]: 5 bright turquoise bags
+  match[1]: 5
+  match[2]: bright turquoise bags
+  match[0]: 5 dim yellow bags
+  match[1]: 5
+  match[2]: dim yellow bags
+  match[0]: 3 shiny orange bags.
+  match[1]: 3
+  match[2]: shiny orange bags
+bright orange :
+  match[0]: 4 muted gold bags
+  match[1]: 4
+  match[2]: muted gold bags
+  match[0]: 1 clear white bag.
+  match[1]: 1
+  match[2]: clear white bag
+drab salmon :
+  match[0]: 2 dark fuchsia bags
+  match[1]: 2
+  match[2]: dark fuchsia bags
+  match[0]: 2 dull gray bags.
+  match[1]: 2
+  match[2]: dull gray bags
+mirrored salmon :
+  match[0]: 3 posh plum bags
+  match[1]: 3
+  match[2]: posh plum bags
+  match[0]: 1 dotted silver bag
+  match[1]: 1
+  match[2]: dotted silver bag
+  match[0]: 1 clear plum bag
+  match[1]: 1
+  match[2]: clear plum bag
+  match[0]: 5 dull black bags.
+  match[1]: 5
+  match[2]: dull black bags
+shiny silver :
+  match[0]: 4 drab lavender bags
+  match[1]: 4
+  match[2]: drab lavender bags
+  match[0]: 2 dim violet bags
+  match[1]: 2
+  match[2]: dim violet bags
+  match[0]: 5 dark aqua bags
+  match[1]: 5
+  match[2]: dark aqua bags
+  match[0]: 2 vibrant chartreuse bags.
+  match[1]: 2
+  match[2]: vibrant chartreuse bags
+plaid coral :
+  match[0]: 4 dim blue bags
+  match[1]: 4
+  match[2]: dim blue bags
+  match[0]: 1 vibrant lime bag.
+  match[1]: 1
+  match[2]: vibrant lime bag
+mirrored white :
+  match[0]: 2 pale gold bags
+  match[1]: 2
+  match[2]: pale gold bags
+  match[0]: 3 shiny green bags
+  match[1]: 3
+  match[2]: shiny green bags
+  match[0]: 5 striped white bags.
+  match[1]: 5
+  match[2]: striped white bags
+pale gray :
+  match[0]: 5 mirrored gold bags
+  match[1]: 5
+  match[2]: mirrored gold bags
+  match[0]: 1 wavy silver bag
+  match[1]: 1
+  match[2]: wavy silver bag
+  match[0]: 5 posh green bags
+  match[1]: 5
+  match[2]: posh green bags
+  match[0]: 1 mirrored red bag.
+  match[1]: 1
+  match[2]: mirrored red bag
+pale white :
+  match[0]: 4 shiny turquoise bags
+  match[1]: 4
+  match[2]: shiny turquoise bags
+  match[0]: 4 bright plum bags
+  match[1]: 4
+  match[2]: bright plum bags
+  match[0]: 5 dotted bronze bags.
+  match[1]: 5
+  match[2]: dotted bronze bags
+muted fuchsia :
+  match[0]: 5 plaid turquoise bags
+  match[1]: 5
+  match[2]: plaid turquoise bags
+  match[0]: 2 dark aqua bags
+  match[1]: 2
+  match[2]: dark aqua bags
+  match[0]: 4 pale brown bags
+  match[1]: 4
+  match[2]: pale brown bags
+  match[0]: 4 striped plum bags.
+  match[1]: 4
+  match[2]: striped plum bags
+striped yellow :
+  match[0]: 5 posh red bags
+  match[1]: 5
+  match[2]: posh red bags
+  match[0]: 1 plaid black bag.
+  match[1]: 1
+  match[2]: plaid black bag
+plaid silver :
+  match[0]: 2 dark indigo bags
+  match[1]: 2
+  match[2]: dark indigo bags
+  match[0]: 3 clear teal bags
+  match[1]: 3
+  match[2]: clear teal bags
+  match[0]: 3 dotted black bags.
+  match[1]: 3
+  match[2]: dotted black bags
+plaid black :
+  match[0]: 3 dull crimson bags.
+  match[1]: 3
+  match[2]: dull crimson bags
+vibrant lime :
+  match[0]: 1 dotted fuchsia bag
+  match[1]: 1
+  match[2]: dotted fuchsia bag
+  match[0]: 4 dull bronze bags
+  match[1]: 4
+  match[2]: dull bronze bags
+  match[0]: 4 dark aqua bags
+  match[1]: 4
+  match[2]: dark aqua bags
+  match[0]: 1 dark salmon bag.
+  match[1]: 1
+  match[2]: dark salmon bag
+dotted white :
+  match[0]: 5 dim red bags.
+  match[1]: 5
+  match[2]: dim red bags
+light aqua :
+  match[0]: 5 mirrored aqua bags
+  match[1]: 5
+  match[2]: mirrored aqua bags
+  match[0]: 2 striped brown bags
+  match[1]: 2
+  match[2]: striped brown bags
+  match[0]: 4 posh crimson bags.
+  match[1]: 4
+  match[2]: posh crimson bags
+striped brown :
+  match[0]: 1 dotted silver bag
+  match[1]: 1
+  match[2]: dotted silver bag
+  match[0]: 5 clear beige bags.
+  match[1]: 5
+  match[2]: clear beige bags
+vibrant red :
+  match[0]: 3 bright olive bags
+  match[1]: 3
+  match[2]: bright olive bags
+  match[0]: 3 plaid chartreuse bags
+  match[1]: 3
+  match[2]: plaid chartreuse bags
+  match[0]: 3 light olive bags
+  match[1]: 3
+  match[2]: light olive bags
+  match[0]: 4 dim violet bags.
+  match[1]: 4
+  match[2]: dim violet bags
+dim teal :
+  match[0]: 3 clear violet bags.
+  match[1]: 3
+  match[2]: clear violet bags
+bright lime :
+  match[0]: 2 dull lavender bags
+  match[1]: 2
+  match[2]: dull lavender bags
+  match[0]: 4 pale turquoise bags.
+  match[1]: 4
+  match[2]: pale turquoise bags
+striped crimson :
+  match[0]: 5 bright gray bags
+  match[1]: 5
+  match[2]: bright gray bags
+  match[0]: 4 dark green bags
+  match[1]: 4
+  match[2]: dark green bags
+  match[0]: 4 posh plum bags
+  match[1]: 4
+  match[2]: posh plum bags
+  match[0]: 5 shiny coral bags.
+  match[1]: 5
+  match[2]: shiny coral bags
+mirrored tomato :
+  match[0]: 1 wavy tan bag.
+  match[1]: 1
+  match[2]: wavy tan bag
+dull blue :
+  match[0]: 5 bright turquoise bags
+  match[1]: 5
+  match[2]: bright turquoise bags
+  match[0]: 2 striped brown bags.
+  match[1]: 2
+  match[2]: striped brown bags
+mirrored yellow :
+  match[0]: 4 vibrant purple bags
+  match[1]: 4
+  match[2]: vibrant purple bags
+  match[0]: 4 faded bronze bags
+  match[1]: 4
+  match[2]: faded bronze bags
+  match[0]: 2 dull lavender bags
+  match[1]: 2
+  match[2]: dull lavender bags
+  match[0]: 3 light plum bags.
+  match[1]: 3
+  match[2]: light plum bags
+plaid gold :
+  match[0]: 5 striped olive bags
+  match[1]: 5
+  match[2]: striped olive bags
+  match[0]: 5 dotted chartreuse bags.
+  match[1]: 5
+  match[2]: dotted chartreuse bags
+dotted coral :
+  match[0]: 2 bright teal bags.
+  match[1]: 2
+  match[2]: bright teal bags
+wavy crimson :
+  match[0]: 5 dotted salmon bags
+  match[1]: 5
+  match[2]: dotted salmon bags
+  match[0]: 1 dull crimson bag.
+  match[1]: 1
+  match[2]: dull crimson bag
+dark aqua :
+  match[0]: 3 dull crimson bags
+  match[1]: 3
+  match[2]: dull crimson bags
+  match[0]: 5 light aqua bags
+  match[1]: 5
+  match[2]: light aqua bags
+  match[0]: 3 mirrored purple bags
+  match[1]: 3
+  match[2]: mirrored purple bags
+  match[0]: 1 striped brown bag.
+  match[1]: 1
+  match[2]: striped brown bag
+vibrant yellow :
+  match[0]: 1 faded beige bag
+  match[1]: 1
+  match[2]: faded beige bag
+  match[0]: 3 dark brown bags
+  match[1]: 3
+  match[2]: dark brown bags
+  match[0]: 1 wavy bronze bag.
+  match[1]: 1
+  match[2]: wavy bronze bag
+wavy teal :
+  match[0]: 5 dotted magenta bags.
+  match[1]: 5
+  match[2]: dotted magenta bags
+drab white :
+  match[0]: 3 pale blue bags.
+  match[1]: 3
+  match[2]: pale blue bags
+muted salmon :
+  match[0]: 4 posh salmon bags
+  match[1]: 4
+  match[2]: posh salmon bags
+  match[0]: 1 bright chartreuse bag.
+  match[1]: 1
+  match[2]: bright chartreuse bag
+light purple :
+  match[0]: 5 dark maroon bags.
+  match[1]: 5
+  match[2]: dark maroon bags
+faded black :
+  match[0]: 4 dull gold bags.
+  match[1]: 4
+  match[2]: dull gold bags
+muted turquoise :
+  match[0]: 1 wavy silver bag
+  match[1]: 1
+  match[2]: wavy silver bag
+  match[0]: 4 clear purple bags.
+  match[1]: 4
+  match[2]: clear purple bags
+plaid chartreuse :
+  match[0]: 1 posh crimson bag
+  match[1]: 1
+  match[2]: posh crimson bag
+  match[0]: 5 striped brown bags.
+  match[1]: 5
+  match[2]: striped brown bags
+vibrant tan :
+  match[0]: 2 dull blue bags
+  match[1]: 2
+  match[2]: dull blue bags
+  match[0]: 1 posh black bag
+  match[1]: 1
+  match[2]: posh black bag
+  match[0]: 1 faded red bag
+  match[1]: 1
+  match[2]: faded red bag
+  match[0]: 5 plaid magenta bags.
+  match[1]: 5
+  match[2]: plaid magenta bags
+shiny orange :
+  match[0]: 5 vibrant chartreuse bags
+  match[1]: 5
+  match[2]: vibrant chartreuse bags
+  match[0]: 3 shiny gold bags.
+  match[1]: 3
+  match[2]: shiny gold bags
+shiny lavender :
+  match[0]: 2 posh teal bags.
+  match[1]: 2
+  match[2]: posh teal bags
+pale black :
+  match[0]: 5 dark brown bags.
+  match[1]: 5
+  match[2]: dark brown bags
+shiny cyan :
+  match[0]: 5 wavy tomato bags
+  match[1]: 5
+  match[2]: wavy tomato bags
+  match[0]: 3 bright bronze bags
+  match[1]: 3
+  match[2]: bright bronze bags
+  match[0]: 3 faded crimson bags.
+  match[1]: 3
+  match[2]: faded crimson bags
+faded olive :
+  match[0]: 3 clear aqua bags.
+  match[1]: 3
+  match[2]: clear aqua bags
+dark violet :
+  match[0]: 4 faded red bags.
+  match[1]: 4
+  match[2]: faded red bags
+light orange :
+  match[0]: 1 posh aqua bag
+  match[1]: 1
+  match[2]: posh aqua bag
+  match[0]: 2 light crimson bags
+  match[1]: 2
+  match[2]: light crimson bags
+  match[0]: 2 dark maroon bags.
+  match[1]: 2
+  match[2]: dark maroon bags
+drab silver :
+  match[0]: 1 pale blue bag.
+  match[1]: 1
+  match[2]: pale blue bag
+plaid bronze :
+  match[0]: 5 mirrored orange bags
+  match[1]: 5
+  match[2]: mirrored orange bags
+  match[0]: 4 plaid cyan bags
+  match[1]: 4
+  match[2]: plaid cyan bags
+  match[0]: 1 dotted black bag.
+  match[1]: 1
+  match[2]: dotted black bag
+plaid violet :
+  match[0]: 1 plaid fuchsia bag
+  match[1]: 1
+  match[2]: plaid fuchsia bag
+  match[0]: 5 clear teal bags.
+  match[1]: 5
+  match[2]: clear teal bags
+clear turquoise :
+  match[0]: 4 dim yellow bags
+  match[1]: 4
+  match[2]: dim yellow bags
+  match[0]: 5 plaid teal bags
+  match[1]: 5
+  match[2]: plaid teal bags
+  match[0]: 3 plaid red bags
+  match[1]: 3
+  match[2]: plaid red bags
+  match[0]: 1 dotted salmon bag.
+  match[1]: 1
+  match[2]: dotted salmon bag
+plaid lavender :
+  match[0]: 3 clear silver bags
+  match[1]: 3
+  match[2]: clear silver bags
+  match[0]: 4 dull bronze bags.
+  match[1]: 4
+  match[2]: dull bronze bags
+mirrored green :
+  match[0]: 3 striped lavender bags.
+  match[1]: 3
+  match[2]: striped lavender bags
+faded white :
+  match[0]: 2 light chartreuse bags.
+  match[1]: 2
+  match[2]: light chartreuse bags
+bright crimson :
+  match[0]: 2 mirrored purple bags.
+  match[1]: 2
+  match[2]: mirrored purple bags
+dotted beige :
+  match[0]: 1 pale salmon bag
+  match[1]: 1
+  match[2]: pale salmon bag
+  match[0]: 5 dotted teal bags
+  match[1]: 5
+  match[2]: dotted teal bags
+  match[0]: 5 light lavender bags
+  match[1]: 5
+  match[2]: light lavender bags
+  match[0]: 3 wavy violet bags.
+  match[1]: 3
+  match[2]: wavy violet bags
+pale green :
+  match[0]: 2 dark gold bags
+  match[1]: 2
+  match[2]: dark gold bags
+  match[0]: 4 clear gray bags.
+  match[1]: 4
+  match[2]: clear gray bags
+dull indigo :
+  match[0]: 2 striped brown bags
+  match[1]: 2
+  match[2]: striped brown bags
+  match[0]: 3 plaid plum bags.
+  match[1]: 3
+  match[2]: plaid plum bags
+shiny yellow :
+  match[0]: 3 striped silver bags
+  match[1]: 3
+  match[2]: striped silver bags
+  match[0]: 2 mirrored plum bags
+  match[1]: 2
+  match[2]: mirrored plum bags
+  match[0]: 1 muted red bag
+  match[1]: 1
+  match[2]: muted red bag
+  match[0]: 5 clear gold bags.
+  match[1]: 5
+  match[2]: clear gold bags
+bright maroon :
+  match[0]: 2 muted crimson bags
+  match[1]: 2
+  match[2]: muted crimson bags
+  match[0]: 2 plaid chartreuse bags
+  match[1]: 2
+  match[2]: plaid chartreuse bags
+  match[0]: 1 dim violet bag
+  match[1]: 1
+  match[2]: dim violet bag
+  match[0]: 1 plaid blue bag.
+  match[1]: 1
+  match[2]: plaid blue bag
+vibrant orange :
+  match[0]: 5 posh plum bags
+  match[1]: 5
+  match[2]: posh plum bags
+  match[0]: 4 shiny gold bags.
+  match[1]: 4
+  match[2]: shiny gold bags
+faded fuchsia :
+  match[0]: 2 dotted aqua bags.
+  match[1]: 2
+  match[2]: dotted aqua bags
+bright indigo :
+  match[0]: 3 shiny coral bags
+  match[1]: 3
+  match[2]: shiny coral bags
+  match[0]: 1 muted salmon bag
+  match[1]: 1
+  match[2]: muted salmon bag
+  match[0]: 2 clear white bags
+  match[1]: 2
+  match[2]: clear white bags
+  match[0]: 1 vibrant maroon bag.
+  match[1]: 1
+  match[2]: vibrant maroon bag
+shiny indigo :
+  match[0]: 4 dark red bags
+  match[1]: 4
+  match[2]: dark red bags
+  match[0]: 2 pale lime bags.
+  match[1]: 2
+  match[2]: pale lime bags
+light cyan :
+  match[0]: 2 clear black bags
+  match[1]: 2
+  match[2]: clear black bags
+  match[0]: 2 mirrored aqua bags
+  match[1]: 2
+  match[2]: mirrored aqua bags
+  match[0]: 1 faded beige bag
+  match[1]: 1
+  match[2]: faded beige bag
+  match[0]: 2 faded salmon bags.
+  match[1]: 2
+  match[2]: faded salmon bags
+faded gold :
+  match[0]: 5 muted lime bags
+  match[1]: 5
+  match[2]: muted lime bags
+  match[0]: 3 plaid fuchsia bags.
+  match[1]: 3
+  match[2]: plaid fuchsia bags
+muted coral :
+  match[0]: 2 faded indigo bags
+  match[1]: 2
+  match[2]: faded indigo bags
+  match[0]: 1 dim beige bag
+  match[1]: 1
+  match[2]: dim beige bag
+  match[0]: 5 dotted orange bags
+  match[1]: 5
+  match[2]: dotted orange bags
+  match[0]: 4 posh black bags.
+  match[1]: 4
+  match[2]: posh black bags
+drab gray :
+  match[0]: 5 clear magenta bags
+  match[1]: 5
+  match[2]: clear magenta bags
+  match[0]: 5 bright tomato bags
+  match[1]: 5
+  match[2]: bright tomato bags
+  match[0]: 1 dull gold bag.
+  match[1]: 1
+  match[2]: dull gold bag
+vibrant salmon :
+  match[0]: 4 bright gold bags.
+  match[1]: 4
+  match[2]: bright gold bags
+dark red :
+  match[0]: 5 posh black bags
+  match[1]: 5
+  match[2]: posh black bags
+  match[0]: 4 faded teal bags.
+  match[1]: 4
+  match[2]: faded teal bags
+wavy blue :
+  match[0]: 3 dim green bags
+  match[1]: 3
+  match[2]: dim green bags
+  match[0]: 4 dull green bags
+  match[1]: 4
+  match[2]: dull green bags
+  match[0]: 2 posh aqua bags.
+  match[1]: 2
+  match[2]: posh aqua bags
+mirrored turquoise :
+  match[0]: 5 dull lime bags
+  match[1]: 5
+  match[2]: dull lime bags
+  match[0]: 4 dark gray bags
+  match[1]: 4
+  match[2]: dark gray bags
+  match[0]: 1 striped cyan bag
+  match[1]: 1
+  match[2]: striped cyan bag
+  match[0]: 4 muted gold bags.
+  match[1]: 4
+  match[2]: muted gold bags
+wavy chartreuse :
+  match[0]: 1 pale brown bag
+  match[1]: 1
+  match[2]: pale brown bag
+  match[0]: 4 shiny chartreuse bags
+  match[1]: 4
+  match[2]: shiny chartreuse bags
+  match[0]: 4 wavy fuchsia bags.
+  match[1]: 4
+  match[2]: wavy fuchsia bags
+dim red :
+  match[0]: 1 bright blue bag
+  match[1]: 1
+  match[2]: bright blue bag
+  match[0]: 3 clear purple bags
+  match[1]: 3
+  match[2]: clear purple bags
+  match[0]: 2 wavy crimson bags
+  match[1]: 2
+  match[2]: wavy crimson bags
+  match[0]: 5 shiny black bags.
+  match[1]: 5
+  match[2]: shiny black bags
+dull gold :
+  match[0]: 4 wavy blue bags.
+  match[1]: 4
+  match[2]: wavy blue bags
+faded blue :
+  match[0]: 1 plaid turquoise bag
+  match[1]: 1
+  match[2]: plaid turquoise bag
+  match[0]: 2 vibrant indigo bags.
+  match[1]: 2
+  match[2]: vibrant indigo bags
+shiny aqua :
+  match[0]: 4 plaid cyan bags
+  match[1]: 4
+  match[2]: plaid cyan bags
+  match[0]: 4 posh crimson bags.
+  match[1]: 4
+  match[2]: posh crimson bags
+bright salmon :
+  match[0]: 1 posh red bag
+  match[1]: 1
+  match[2]: posh red bag
+  match[0]: 1 shiny orange bag
+  match[1]: 1
+  match[2]: shiny orange bag
+  match[0]: 1 vibrant crimson bag.
+  match[1]: 1
+  match[2]: vibrant crimson bag
+pale yellow :
+  match[0]: 4 plaid cyan bags.
+  match[1]: 4
+  match[2]: plaid cyan bags
+plaid magenta :
+  match[0]: 3 plaid brown bags
+  match[1]: 3
+  match[2]: plaid brown bags
+  match[0]: 5 pale yellow bags
+  match[1]: 5
+  match[2]: pale yellow bags
+  match[0]: 5 drab fuchsia bags
+  match[1]: 5
+  match[2]: drab fuchsia bags
+  match[0]: 1 clear black bag.
+  match[1]: 1
+  match[2]: clear black bag
+vibrant maroon :
+  match[0]: 4 dull tomato bags
+  match[1]: 4
+  match[2]: dull tomato bags
+  match[0]: 1 dotted indigo bag
+  match[1]: 1
+  match[2]: dotted indigo bag
+  match[0]: 2 plaid teal bags
+  match[1]: 2
+  match[2]: plaid teal bags
+  match[0]: 2 shiny gold bags.
+  match[1]: 2
+  match[2]: shiny gold bags
+drab orange :
+  match[0]: 3 wavy coral bags.
+  match[1]: 3
+  match[2]: wavy coral bags
+pale aqua :
+  match[0]: 5 wavy lime bags
+  match[1]: 5
+  match[2]: wavy lime bags
+  match[0]: 5 drab turquoise bags.
+  match[1]: 5
+  match[2]: drab turquoise bags
+shiny crimson :
+  match[0]: 3 posh black bags
+  match[1]: 3
+  match[2]: posh black bags
+  match[0]: 5 drab fuchsia bags
+  match[1]: 5
+  match[2]: drab fuchsia bags
+  match[0]: 1 plaid fuchsia bag
+  match[1]: 1
+  match[2]: plaid fuchsia bag
+  match[0]: 4 posh plum bags.
+  match[1]: 4
+  match[2]: posh plum bags
+pale purple :
+  match[0]: 2 clear green bags
+  match[1]: 2
+  match[2]: clear green bags
+  match[0]: 2 striped crimson bags
+  match[1]: 2
+  match[2]: striped crimson bags
+  match[0]: 4 drab indigo bags.
+  match[1]: 4
+  match[2]: drab indigo bags
+faded magenta :
+  match[0]: 5 light red bags.
+  match[1]: 5
+  match[2]: light red bags
+shiny tan :
+  match[0]: 5 plaid silver bags
+  match[1]: 5
+  match[2]: plaid silver bags
+  match[0]: 3 light lavender bags
+  match[1]: 3
+  match[2]: light lavender bags
+  match[0]: 4 wavy purple bags.
+  match[1]: 4
+  match[2]: wavy purple bags
+vibrant indigo :
+  match[0]: 5 plaid beige bags.
+  match[1]: 5
+  match[2]: plaid beige bags
+wavy turquoise :
+  match[0]: 4 dark teal bags
+  match[1]: 4
+  match[2]: dark teal bags
+  match[0]: 2 dark cyan bags
+  match[1]: 2
+  match[2]: dark cyan bags
+  match[0]: 4 mirrored olive bags
+  match[1]: 4
+  match[2]: mirrored olive bags
+  match[0]: 5 bright red bags.
+  match[1]: 5
+  match[2]: bright red bags
+striped blue :
+  match[0]: 1 vibrant lime bag
+  match[1]: 1
+  match[2]: vibrant lime bag
+  match[0]: 3 vibrant indigo bags
+  match[1]: 3
+  match[2]: vibrant indigo bags
+  match[0]: 1 pale maroon bag
+  match[1]: 1
+  match[2]: pale maroon bag
+  match[0]: 2 dark white bags.
+  match[1]: 2
+  match[2]: dark white bags
+faded tomato :
+  match[0]: 3 plaid tan bags
+  match[1]: 3
+  match[2]: plaid tan bags
+  match[0]: 4 pale tan bags
+  match[1]: 4
+  match[2]: pale tan bags
+  match[0]: 5 wavy violet bags
+  match[1]: 5
+  match[2]: wavy violet bags
+  match[0]: 3 pale lime bags.
+  match[1]: 3
+  match[2]: pale lime bags
+bright green :
+  match[0]: 1 bright purple bag
+  match[1]: 1
+  match[2]: bright purple bag
+  match[0]: 5 posh magenta bags.
+  match[1]: 5
+  match[2]: posh magenta bags
+dark beige :
+  match[0]: 4 light green bags
+  match[1]: 4
+  match[2]: light green bags
+  match[0]: 4 light magenta bags
+  match[1]: 4
+  match[2]: light magenta bags
+  match[0]: 5 dotted lime bags
+  match[1]: 5
+  match[2]: dotted lime bags
+  match[0]: 4 plaid salmon bags.
+  match[1]: 4
+  match[2]: plaid salmon bags
+plaid green :
+  match[0]: 2 pale salmon bags.
+  match[1]: 2
+  match[2]: pale salmon bags
+bright red :
+  match[0]: 2 dotted silver bags.
+  match[1]: 2
+  match[2]: dotted silver bags
+drab lime :
+  match[0]: 3 dotted bronze bags.
+  match[1]: 3
+  match[2]: dotted bronze bags
+muted indigo :
+  match[0]: 4 posh gray bags
+  match[1]: 4
+  match[2]: posh gray bags
+  match[0]: 2 dark lavender bags
+  match[1]: 2
+  match[2]: dark lavender bags
+  match[0]: 2 plaid chartreuse bags
+  match[1]: 2
+  match[2]: plaid chartreuse bags
+  match[0]: 2 pale red bags.
+  match[1]: 2
+  match[2]: pale red bags
+muted tan :
+  match[0]: 2 muted brown bags
+  match[1]: 2
+  match[2]: muted brown bags
+  match[0]: 3 dull maroon bags.
+  match[1]: 3
+  match[2]: dull maroon bags
+plaid turquoise :
+  match[0]: 3 clear teal bags
+  match[1]: 3
+  match[2]: clear teal bags
+  match[0]: 2 dull tomato bags
+  match[1]: 2
+  match[2]: dull tomato bags
+  match[0]: 5 dotted purple bags
+  match[1]: 5
+  match[2]: dotted purple bags
+  match[0]: 1 posh salmon bag.
+  match[1]: 1
+  match[2]: posh salmon bag
+drab aqua :
+  match[0]: 3 bright lime bags
+  match[1]: 3
+  match[2]: bright lime bags
+  match[0]: 5 posh red bags.
+  match[1]: 5
+  match[2]: posh red bags
+shiny salmon :
+  posh red bags: 5
+  light chartreuse bags: 5
+  striped brown bags: 2
+drab red :
+  muted chartreuse bags: 5
+  clear purple bags: 4
+  drab silver bags: 4
+  posh green bags: 3
+pale fuchsia :
+  posh blue bags: 2
+  mirrored blue bags: 4
+  wavy silver bags: 3
+  wavy crimson bags: 2
+striped aqua :
+  posh teal bags: 4
+  bright beige bags: 2
+pale crimson :
+  bright chartreuse bags: 3
+  light turquoise bags: 4
+  bright gray bag: 1
+  muted bronze bag: 1
+drab bronze :
+  light indigo bag: 1
+  striped brown bags: 3
+  clear gold bags: 3
+  clear gray bags: 3
+dim cyan :
+  mirrored black bags: 2
+  plaid chartreuse bags: 2
+  bright gold bags: 4
+faded tan :
+  dim crimson bags: 4
+  mirrored turquoise bags: 3
+  drab gold bags: 3
+dull lavender :
+  plaid white bags: 2
+drab tan :
+  dotted crimson bags: 5
+dull brown :
+  posh fuchsia bags: 4
+  dotted tan bags: 2
+shiny coral :
+  light aqua bag: 1
+  plaid olive bags: 5
+  bright turquoise bags: 4
+dull coral :
+  dim olive bag: 1
+  muted violet bags: 5
+  dark gray bags: 2
+mirrored tomato :
+  wavy tan bag: 1
+drab black :
+  striped tomato bags: 3
+  light salmon bags: 4
+  dim yellow bags: 4
+  shiny black bags: 3
+posh blue :
+  muted lime bags: 3
+  mirrored tomato bag: 1
+  shiny aqua bags: 5
+vibrant lime :
+  dotted fuchsia bag: 1
+  dull bronze bags: 4
+  dark aqua bags: 4
+  dark salmon bag: 1
+shiny magenta :
+  dark salmon bag: 1
+  shiny gray bags: 4
+  mirrored purple bags: 2
+dim violet :
+  mirrored black bags: 4
+  dull lime bags: 4
+  posh crimson bags: 3
+  pale brown bag: 1
+shiny chartreuse :
+  vibrant turquoise bags: 5
+faded bronze :
+  light indigo bag: 1
+  plaid green bags: 3
+  posh orange bags: 5
+muted yellow :
+  pale salmon bags: 2
+  bright plum bags: 3
+  shiny aqua bags: 3
+  plaid cyan bags: 5
+posh lime :
+  drab lime bags: 4
+  dull lavender bags: 4
+pale chartreuse :
+  plaid silver bags: 5
+plaid lavender :
+  clear silver bags: 3
+  dull bronze bags: 4
+wavy lavender :
+  dark blue bags: 2
+  muted salmon bags: 5
+muted indigo :
+  posh gray bags: 4
+  dark lavender bags: 2
+  plaid chartreuse bags: 2
+  pale red bags: 2
+dim gray :
+  dotted salmon bag: 1
+  dim silver bags: 2
+  wavy black bags: 5
+  dotted green bags: 2
+bright gold :
+  dim blue bags: 4
+  dark salmon bags: 5
+  posh crimson bags: 2
+clear coral :
+  plaid fuchsia bag: 1
+  drab yellow bags: 4
+  light bronze bags: 4
+mirrored violet :
+  wavy violet bags: 3
+  mirrored aqua bags: 4
+dim brown :
+  faded gray bag: 1
+dark coral :
+  light crimson bags: 2
+dotted olive :
+  wavy crimson bags: 5
+  drab tomato bag: 1
+faded purple :
+  dim orange bags: 5
+  dark red bags: 3
+wavy red :
+  dim red bags: 4
+shiny orange :
+  vibrant chartreuse bags: 5
+  shiny gold bags: 3
+shiny crimson :
+  posh black bags: 3
+  drab fuchsia bags: 5
+  plaid fuchsia bag: 1
+  posh plum bags: 4
+vibrant beige :
+  plaid black bag: 1
+  dotted salmon bags: 3
+  posh fuchsia bags: 2
+dim red :
+  bright blue bag: 1
+  clear purple bags: 3
+  wavy crimson bags: 2
+  shiny black bags: 5
+muted brown :
+  drab fuchsia bags: 4
+  plaid bronze bags: 4
+bright cyan :
+  wavy fuchsia bags: 3
+  dark coral bags: 2
+  shiny orange bag: 1
+bright blue :
+  light purple bags: 3
+  pale yellow bag: 1
+dotted green :
+  clear plum bags: 3
+posh tomato :
+  bright red bags: 5
+  posh red bags: 3
+  plaid olive bags: 3
+  clear crimson bags: 4
+light indigo :
+  plaid olive bags: 2
+  plaid black bag: 1
+  dark indigo bags: 3
+light black :
+  muted tan bag: 1
+  dim yellow bags: 2
+vibrant chartreuse :
+  shiny aqua bag: 1
+  clear crimson bags: 4
+  faded red bag: 1
+  dull crimson bag: 1
+light fuchsia :
+  dark gold bags: 5
+  plaid black bags: 3
+  bright lavender bags: 2
+posh indigo :
+  posh salmon bag: 1
+wavy tomato :
+  wavy tan bags: 2
+  muted lavender bags: 3
+  pale salmon bags: 2
+dim fuchsia :
+  drab teal bags: 2
+  plaid brown bags: 4
+  faded orange bags: 5
+bright brown :
+  dark fuchsia bag: 1
+  pale yellow bags: 4
+  shiny crimson bags: 5
+pale salmon :
+  plaid olive bags: 2
+  clear beige bags: 5
+mirrored brown :
+  mirrored salmon bag: 1
+dark gray :
+  dotted salmon bags: 4
+  clear brown bags: 2
+  posh crimson bags: 2
+  mirrored plum bags: 5
+posh olive :
+  faded indigo bags: 3
+  plaid white bag: 1
+faded blue :
+  plaid turquoise bag: 1
+  vibrant indigo bags: 2
+plaid cyan :
+  : 0
+light lime :
+  plaid fuchsia bags: 5
+  posh plum bags: 4
+dull cyan :
+  dark tan bag: 1
+  dull gray bags: 5
+  drab turquoise bags: 3
+  shiny aqua bags: 4
+dim olive :
+  clear gray bags: 3
+  wavy gold bags: 4
+faded coral :
+  dotted maroon bags: 5
+  light tan bags: 2
+  plaid black bag: 1
+  dark indigo bags: 4
+shiny yellow :
+  striped silver bags: 3
+  mirrored plum bags: 2
+  muted red bag: 1
+  clear gold bags: 5
+muted white :
+  wavy fuchsia bags: 3
+clear green :
+  light indigo bags: 4
+plaid plum :
+  dim blue bags: 2
+  dim coral bag: 1
+dull yellow :
+  light orange bags: 5
+  striped purple bags: 4
+wavy magenta :
+  clear gold bags: 5
+  dim purple bags: 4
+  pale green bags: 3
+faded beige :
+  dark crimson bags: 3
+  mirrored tan bags: 2
+plaid yellow :
+  dotted salmon bags: 4
+vibrant gold :
+  drab lavender bags: 3
+  dim magenta bags: 5
+  bright tomato bags: 2
+  light magenta bags: 4
+wavy silver :
+  plaid cyan bags: 3
+  plaid olive bag: 1
+mirrored salmon :
+  posh plum bags: 3
+  dotted silver bag: 1
+  clear plum bag: 1
+  dull black bags: 5
+plaid purple :
+  clear blue bag: 1
+  muted gold bags: 2
+  dull brown bag: 1
+pale turquoise :
+  mirrored yellow bags: 3
+plaid salmon :
+  striped white bags: 5
+  posh fuchsia bags: 4
+  faded turquoise bags: 5
+dotted tomato :
+  dotted lime bags: 2
+  wavy teal bag: 1
+  mirrored black bag: 1
+  dull gold bags: 3
+plaid orange :
+  plaid crimson bags: 5
+  muted white bags: 4
+  dark lime bags: 4
+  plaid cyan bags: 5
+dotted crimson :
+  faded salmon bags: 4
+  vibrant beige bags: 4
+  dim beige bags: 5
+dark indigo :
+  faded maroon bags: 3
+  mirrored purple bags: 3
+dotted blue :
+  muted beige bags: 5
+muted coral :
+  faded indigo bags: 2
+  dim beige bag: 1
+  dotted orange bags: 5
+  posh black bags: 4
+vibrant gray :
+  clear tan bags: 5
+  plaid crimson bags: 5
+  striped cyan bags: 3
+  dark gold bag: 1
+clear brown :
+  dark salmon bags: 5
+muted teal :
+  dull blue bags: 4
+dotted yellow :
+  light maroon bags: 4
+  clear blue bag: 1
+  dark maroon bags: 5
+muted gray :
+  mirrored violet bags: 3
+  dim yellow bags: 4
+dark yellow :
+  mirrored lavender bags: 5
+  dull bronze bags: 5
+  pale salmon bags: 4
+  wavy crimson bags: 5
+drab cyan :
+  pale coral bags: 2
+  light purple bags: 3
+  drab bronze bags: 2
+  dim beige bag: 1
+striped lavender :
+  bright red bag: 1
+dim magenta :
+  plaid teal bag: 1
+  posh lavender bags: 3
+dim white :
+  plaid black bag: 1
+  plaid violet bags: 5
+  light gray bags: 2
+pale blue :
+  striped coral bags: 2
+  shiny gold bags: 2
+mirrored cyan :
+  plaid salmon bags: 5
+  dim salmon bags: 4
+  posh tomato bags: 4
+light yellow :
+  striped black bags: 2
+  muted gold bags: 2
+  dotted tan bags: 3
+  dark coral bags: 5
+faded green :
+  striped orange bags: 5
+  bright fuchsia bags: 4
+posh crimson :
+  clear crimson bags: 3
+  dotted silver bags: 5
+  dull crimson bags: 3
+  wavy violet bags: 5
+plaid olive :
+  : 0
+dotted gray :
+  dull maroon bags: 3
+  mirrored blue bags: 4
+  mirrored red bags: 3
+light maroon :
+  bright red bags: 5
+  bright tan bags: 2
+  dim silver bags: 5
+  pale salmon bags: 4
+dark tomato :
+  plaid gray bag: 1
+light gray :
+  drab indigo bags: 5
+  posh crimson bags: 3
+  dark tan bag: 1
+  pale red bags: 2
+drab orange :
+  wavy coral bags: 3
+dull chartreuse :
+  light lavender bag: 1
+wavy crimson :
+  dotted salmon bags: 5
+  dull crimson bag: 1
+faded white :
+  light chartreuse bags: 2
+dim silver :
+  posh fuchsia bags: 3
+dull turquoise :
+  plaid magenta bags: 5
+  bright aqua bags: 3
+  dim purple bag: 1
+  wavy orange bag: 1
+vibrant green :
+  clear magenta bag: 1
+  dim white bag: 1
+  plaid black bags: 4
+wavy tan :
+  striped brown bag: 1
+  dim salmon bags: 3
+  posh fuchsia bag: 1
+  mirrored violet bags: 4
+dotted aqua :
+  striped teal bags: 4
+mirrored lavender :
+  clear black bags: 4
+striped orange :
+  wavy fuchsia bags: 5
+  clear red bags: 5
+  plaid red bags: 3
+drab beige :
+  plaid coral bags: 5
+  bright turquoise bags: 3
+  dark purple bags: 5
+  mirrored black bags: 3
+posh gold :
+  mirrored plum bags: 4
+posh green :
+  dotted salmon bags: 3
+  pale salmon bags: 4
+  posh red bags: 3
+  dim green bags: 4
+posh yellow :
+  pale gold bags: 2
+  posh coral bags: 3
+  dotted tan bag: 1
+dark cyan :
+  muted blue bags: 5
+shiny lime :
+  striped olive bags: 3
+  light fuchsia bags: 5
+  pale crimson bag: 1
+  pale salmon bag: 1
+striped cyan :
+  striped teal bags: 4
+  dark tan bag: 1
+  dim green bag: 1
+mirrored magenta :
+  : 0
+drab crimson :
+  faded coral bags: 2
+  light indigo bags: 4
+  dark indigo bags: 4
+dotted brown :
+  clear magenta bag: 1
+striped chartreuse :
+  dull tan bags: 3
+  dim salmon bag: 1
+plaid tomato :
+  muted lime bags: 2
+  light indigo bag: 1
+  posh tomato bags: 5
+bright lime :
+  dull lavender bags: 2
+  pale turquoise bags: 4
+clear black :
+  striped brown bags: 5
+dim turquoise :
+  shiny silver bags: 3
+  pale yellow bag: 1
+  plaid chartreuse bags: 3
+  posh bronze bag: 1
+shiny violet :
+  plaid chartreuse bags: 3
+  plaid brown bags: 2
+shiny gold :
+  vibrant chartreuse bag: 1
+mirrored green :
+  striped lavender bags: 3
+plaid magenta :
+  plaid brown bags: 3
+  pale yellow bags: 5
+  drab fuchsia bags: 5
+  clear black bag: 1
+drab aqua :
+  bright lime bags: 3
+  posh red bags: 5
+clear red :
+  plaid teal bags: 3
+  vibrant orange bags: 4
+  pale red bag: 1
+shiny black :
+  plaid bronze bags: 3
+  dim plum bags: 5
+  muted teal bags: 3
+  muted magenta bags: 5
+pale violet :
+  wavy tan bags: 4
+  plaid yellow bags: 2
+clear magenta :
+  muted bronze bags: 2
+  dim yellow bags: 5
+  dotted lime bags: 2
+light silver :
+  posh coral bags: 2
+dotted silver :
+  : 0
+shiny lavender :
+  posh teal bags: 2
+drab silver :
+  pale blue bag: 1
+muted orange :
+  muted olive bags: 3
+  faded yellow bags: 2
+  faded turquoise bags: 2
+  muted violet bags: 3
+faded chartreuse :
+  mirrored blue bags: 4
+  posh white bags: 5
+  wavy magenta bags: 2
+striped brown :
+  dotted silver bag: 1
+  clear beige bags: 5
+bright green :
+  bright purple bag: 1
+  posh magenta bags: 5
+wavy black :
+  dull salmon bags: 3
+  plaid teal bags: 5
+drab blue :
+  vibrant brown bags: 3
+bright white :
+  dim lavender bags: 3
+dark gold :
+  mirrored red bags: 2
+  bright lavender bags: 2
+  pale crimson bags: 3
+striped beige :
+  clear crimson bags: 4
+mirrored maroon :
+  clear crimson bags: 5
+  clear gray bags: 2
+  dotted salmon bag: 1
+posh brown :
+  clear silver bags: 3
+  faded cyan bags: 5
+  posh crimson bags: 4
+light orange :
+  posh aqua bag: 1
+  light crimson bags: 2
+  dark maroon bags: 2
+striped blue :
+  vibrant lime bag: 1
+  vibrant indigo bags: 3
+  pale maroon bag: 1
+  dark white bags: 2
+drab lime :
+  dotted bronze bags: 3
+muted tan :
+  muted brown bags: 2
+  dull maroon bags: 3
+dim aqua :
+  striped crimson bags: 5
+  bright lavender bags: 3
+dull tomato :
+  shiny gold bag: 1
+  pale blue bags: 4
+shiny bronze :
+  light aqua bags: 3
+  clear crimson bags: 4
+  light beige bag: 1
+  clear blue bags: 4
+striped plum :
+  striped coral bags: 3
+  clear brown bags: 5
+  striped brown bag: 1
+vibrant lavender :
+  light tomato bags: 2
+  shiny teal bag: 1
+mirrored gold :
+  dotted silver bags: 3
+mirrored beige :
+  striped fuchsia bags: 4
+  plaid black bags: 4
+  dim red bags: 5
+  light green bags: 5
+plaid lime :
+  dim gold bags: 4
+  clear magenta bag: 1
+posh fuchsia :
+  wavy gold bags: 2
+  posh beige bags: 2
+faded maroon :
+  dim purple bags: 5
+  bright red bags: 4
+  wavy violet bags: 5
+  mirrored aqua bag: 1
+dotted beige :
+  pale salmon bag: 1
+  dotted teal bags: 5
+  light lavender bags: 5
+  wavy violet bags: 3
+drab maroon :
+  dark bronze bags: 2
+  wavy blue bag: 1
+wavy chartreuse :
+  pale brown bag: 1
+  shiny chartreuse bags: 4
+  wavy fuchsia bags: 4
+light red :
+  wavy teal bag: 1
+dull black :
+  dim purple bags: 4
+  dark salmon bags: 4
+  mirrored gold bags: 2
+wavy blue :
+  dim green bags: 3
+  dull green bags: 4
+  posh aqua bags: 2
+clear chartreuse :
+  faded maroon bags: 4
+  plaid white bags: 5
+dark olive :
+  muted yellow bags: 4
+  shiny gold bags: 2
+  posh crimson bags: 2
+bright silver :
+  bright gold bags: 2
+  wavy yellow bags: 4
+drab brown :
+  striped coral bags: 4
+  muted magenta bag: 1
+  faded red bags: 4
+clear aqua :
+  dark tan bags: 2
+pale tomato :
+  shiny beige bags: 3
+  mirrored tomato bag: 1
+  dotted maroon bags: 2
+  wavy teal bags: 2
+dull tan :
+  bright cyan bags: 4
+dull maroon :
+  dotted magenta bags: 3
+pale cyan :
+  faded cyan bags: 2
+  mirrored tan bag: 1
+  vibrant aqua bags: 3
+  light gold bags: 3
+dotted white :
+  dim red bags: 5
+muted salmon :
+  posh salmon bags: 4
+  bright chartreuse bag: 1
+vibrant tomato :
+  wavy orange bags: 5
+  striped teal bag: 1
+dull green :
+  drab silver bags: 3
+  dotted red bags: 5
+  mirrored violet bags: 3
+  bright black bags: 3
+dull fuchsia :
+  pale blue bags: 3
+striped silver :
+  posh black bags: 3
+vibrant coral :
+  shiny olive bags: 5
+  pale brown bags: 2
+posh silver :
+  dotted maroon bags: 3
+  striped indigo bag: 1
+  faded red bag: 1
+light white :
+  dark brown bags: 3
+  bright fuchsia bags: 4
+bright turquoise :
+  dull bronze bags: 5
+  plaid lavender bag: 1
+pale aqua :
+  wavy lime bags: 5
+  drab turquoise bags: 5
+mirrored chartreuse :
+  clear white bags: 2
+plaid gray :
+  pale aqua bags: 5
+drab yellow :
+  light chartreuse bags: 4
+  striped crimson bags: 3
+  faded gray bags: 2
+plaid gold :
+  striped olive bags: 5
+  dotted chartreuse bags: 5
+dark orange :
+  dark crimson bag: 1
+  clear turquoise bags: 2
+  dotted silver bags: 2
+mirrored fuchsia :
+  clear olive bag: 1
+  pale aqua bags: 3
+wavy yellow :
+  striped turquoise bags: 2
+dotted plum :
+  mirrored purple bags: 4
+  drab tan bag: 1
+  striped white bags: 3
+vibrant maroon :
+  dull tomato bags: 4
+  dotted indigo bag: 1
+  plaid teal bags: 2
+  shiny gold bags: 2
+light olive :
+  vibrant beige bags: 5
+  faded tomato bags: 3
+  dark indigo bag: 1
+dim crimson :
+  posh black bag: 1
+  mirrored silver bag: 1
+dotted maroon :
+  dotted red bags: 5
+  wavy silver bags: 4
+  drab brown bag: 1
+  dark black bags: 3
+drab magenta :
+  wavy tomato bags: 5
+  drab brown bag: 1
+  posh maroon bags: 2
+  mirrored teal bags: 5
+bright lavender :
+  dark bronze bag: 1
+striped green :
+  striped fuchsia bags: 2
+  dull tomato bags: 5
+  posh crimson bags: 2
+faded tomato :
+  plaid tan bags: 3
+  pale tan bags: 4
+  wavy violet bags: 5
+  pale lime bags: 3
+faded silver :
+  vibrant purple bags: 2
+  shiny olive bags: 5
+dim maroon :
+  faded beige bags: 4
+  bright turquoise bags: 2
+  dull purple bags: 4
+  vibrant olive bags: 4
+dim tomato :
+  plaid tomato bags: 5
+  mirrored violet bags: 5
+  mirrored orange bags: 2
+drab salmon :
+  dark fuchsia bags: 2
+  dull gray bags: 2
+vibrant blue :
+  mirrored lavender bag: 1
+  dark aqua bags: 4
+  wavy coral bags: 5
+muted plum :
+  plaid tan bags: 5
+  mirrored silver bag: 1
+  vibrant turquoise bags: 3
+clear tomato :
+  mirrored gold bags: 4
+  dark gold bags: 4
+dark salmon :
+  light aqua bags: 3
+  posh red bags: 3
+  mirrored black bags: 2
+  posh crimson bag: 1
+shiny cyan :
+  wavy tomato bags: 5
+  bright bronze bags: 3
+  faded crimson bags: 3
+faded indigo :
+  faded orange bags: 2
+  striped turquoise bags: 4
+  pale salmon bags: 4
+  bright cyan bags: 4
+dark crimson :
+  shiny aqua bags: 3
+  wavy black bag: 1
+clear crimson :
+  pale salmon bags: 2
+  mirrored magenta bags: 4
+  striped coral bag: 1
+  plaid olive bags: 5
+wavy coral :
+  mirrored magenta bags: 4
+  dim yellow bags: 5
+  bright red bags: 4
+  posh crimson bags: 2
+vibrant fuchsia :
+  posh beige bags: 2
+  dotted indigo bags: 4
+  pale silver bags: 5
+  clear black bags: 4
+posh orange :
+  wavy coral bags: 2
+dark green :
+  dark tan bags: 5
+posh black :
+  wavy violet bags: 4
+  plaid teal bags: 3
+bright red :
+  dotted silver bags: 2
+plaid brown :
+  bright plum bags: 3
+  muted magenta bag: 1
+  clear gray bags: 4
+  clear crimson bags: 2
+mirrored blue :
+  faded gray bags: 4
+  mirrored olive bags: 5
+  pale lime bag: 1
+light coral :
+  dotted green bags: 2
+  wavy aqua bags: 2
+  dark salmon bags: 4
+  light gold bags: 3
+dotted chartreuse :
+  faded white bags: 4
+  light brown bags: 2
+bright yellow :
+  pale violet bags: 5
+  striped fuchsia bags: 2
+wavy violet :
+  dotted silver bags: 2
+  dull crimson bags: 3
+  mirrored aqua bags: 5
+  striped brown bags: 4
+faded aqua :
+  dull turquoise bags: 5
+  vibrant tan bag: 1
+clear fuchsia :
+  vibrant red bag: 1
+mirrored orange :
+  mirrored lavender bags: 4
+  faded orange bags: 3
+  mirrored gold bags: 4
+  dim silver bags: 3
+dotted turquoise :
+  bright fuchsia bags: 5
+  dim blue bags: 5
+  posh green bags: 3
+  wavy red bags: 3
+drab chartreuse :
+  light lime bags: 2
+  drab yellow bags: 3
+muted lavender :
+  light aqua bags: 5
+  faded maroon bag: 1
+  plaid lavender bags: 4
+faded teal :
+  bright fuchsia bag: 1
+plaid coral :
+  dim blue bags: 4
+  vibrant lime bag: 1
+bright crimson :
+  mirrored purple bags: 2
+dim yellow :
+  striped turquoise bags: 3
+  pale salmon bags: 2
+  mirrored magenta bags: 4
+  striped brown bags: 5
+shiny plum :
+  bright black bags: 3
+  pale teal bags: 5
+  light red bags: 5
+  plaid magenta bags: 2
+vibrant orange :
+  posh plum bags: 5
+  shiny gold bags: 4
+dim lavender :
+  dark gray bag: 1
+  muted indigo bags: 2
+pale lavender :
+  vibrant tan bags: 3
+mirrored bronze :
+  faded white bags: 2
+  bright teal bags: 3
+  clear red bags: 2
+  clear crimson bags: 2
+muted purple :
+  shiny yellow bags: 2
+bright tomato :
+  bright teal bag: 1
+  bright tan bags: 2
+  dotted salmon bags: 2
+wavy salmon :
+  shiny tomato bag: 1
+  light tomato bag: 1
+dull gold :
+  wavy blue bags: 4
+light purple :
+  dark maroon bags: 5
+muted turquoise :
+  wavy silver bag: 1
+  clear purple bags: 4
+muted tomato :
+  dull salmon bag: 1
+drab green :
+  dotted blue bag: 1
+dark maroon :
+  dark tan bags: 2
+  mirrored gold bags: 5
+  dim plum bags: 2
+vibrant plum :
+  pale lime bag: 1
+  posh red bag: 1
+  dull bronze bag: 1
+  drab silver bags: 3
+faded lavender :
+  drab chartreuse bags: 4
+  plaid magenta bags: 4
+  vibrant tomato bag: 1
+wavy beige :
+  muted silver bags: 5
+  pale teal bags: 5
+vibrant salmon :
+  bright gold bags: 4
+faded orange :
+  drab white bags: 2
+  striped salmon bags: 3
+  bright chartreuse bags: 5
+shiny green :
+  vibrant chartreuse bag: 1
+  bright lavender bags: 4
+  wavy crimson bags: 3
+  dull red bags: 4
+vibrant tan :
+  dull blue bags: 2
+  posh black bag: 1
+  faded red bag: 1
+  plaid magenta bags: 5
+mirrored turquoise :
+  dull lime bags: 5
+  dark gray bags: 4
+  striped cyan bag: 1
+  muted gold bags: 4
+dim black :
+  dull black bags: 3
+pale maroon :
+  posh tomato bags: 4
+  bright tan bags: 5
+dull gray :
+  posh green bags: 2
+striped indigo :
+  striped orange bags: 3
+posh salmon :
+  clear gray bags: 3
+  dotted silver bags: 5
+  shiny aqua bags: 4
+mirrored silver :
+  plaid black bags: 2
+  vibrant beige bags: 3
+  mirrored purple bags: 3
+  dotted lime bags: 3
+dim teal :
+  clear violet bags: 3
+bright indigo :
+  shiny coral bags: 3
+  muted salmon bag: 1
+  clear white bags: 2
+  vibrant maroon bag: 1
+pale orange :
+  faded maroon bags: 5
+dotted black :
+  clear crimson bags: 2
+  dark violet bag: 1
+  clear teal bags: 2
+  mirrored purple bags: 3
+muted maroon :
+  wavy tomato bag: 1
+  drab red bags: 2
+light tomato :
+  pale brown bags: 5
+  wavy coral bags: 3
+posh red :
+  clear crimson bags: 2
+  striped coral bags: 2
+  bright red bags: 2
+bright violet :
+  drab turquoise bag: 1
+  dim cyan bag: 1
+  pale blue bags: 4
+  wavy blue bags: 3
+bright chartreuse :
+  dark salmon bags: 5
+  plaid olive bag: 1
+drab lavender :
+  faded maroon bags: 2
+  shiny orange bags: 2
+dull olive :
+  dotted teal bags: 2
+dim lime :
+  dotted red bags: 3
+clear indigo :
+  light violet bags: 3
+dim coral :
+  wavy gold bags: 4
+  muted lavender bags: 4
+shiny silver :
+  drab lavender bags: 4
+  dim violet bags: 2
+  dark aqua bags: 5
+  vibrant chartreuse bags: 2
+dotted orange :
+  pale aqua bags: 4
+  dotted aqua bags: 3
+  clear beige bags: 4
+vibrant olive :
+  light fuchsia bags: 3
+  pale tan bags: 5
+  light tomato bags: 5
+light gold :
+  dotted magenta bags: 2
+  dark olive bags: 5
+  dim cyan bags: 3
+  dark indigo bags: 2
+plaid black :
+  dull crimson bags: 3
+bright maroon :
+  muted crimson bags: 2
+  plaid chartreuse bags: 2
+  dim violet bag: 1
+  plaid blue bag: 1
+bright salmon :
+  posh red bag: 1
+  shiny orange bag: 1
+  vibrant crimson bag: 1
+wavy olive :
+  striped olive bag: 1
+  dull cyan bag: 1
+striped gold :
+  bright plum bags: 3
+  mirrored gold bags: 2
+bright tan :
+  bright gold bags: 5
+  shiny salmon bags: 3
+  muted magenta bags: 2
+  dotted black bag: 1
+dotted lime :
+  posh fuchsia bags: 4
+  wavy tan bags: 3
+  mirrored aqua bags: 2
+  shiny aqua bag: 1
+dark lime :
+  light chartreuse bags: 5
+  pale magenta bags: 3
+  dull indigo bag: 1
+faded plum :
+  shiny orange bags: 5
+dark turquoise :
+  drab crimson bag: 1
+  striped coral bags: 5
+light tan :
+  posh lavender bags: 2
+  shiny aqua bags: 5
+dim plum :
+  bright plum bags: 4
+dull bronze :
+  striped coral bags: 4
+posh turquoise :
+  pale crimson bags: 5
+  dull cyan bags: 3
+shiny aqua :
+  plaid cyan bags: 4
+  posh crimson bags: 4
+dotted cyan :
+  shiny olive bags: 4
+  light bronze bags: 4
+  dim plum bags: 2
+mirrored teal :
+  dim violet bags: 5
+shiny tomato :
+  dim yellow bags: 4
+  faded bronze bags: 2
+  drab maroon bag: 1
+  dim gold bags: 3
+mirrored white :
+  pale gold bags: 2
+  shiny green bags: 3
+  striped white bags: 5
+light cyan :
+  clear black bags: 2
+  mirrored aqua bags: 2
+  faded beige bag: 1
+  faded salmon bags: 2
+clear lavender :
+  dark olive bag: 1
+striped turquoise :
+  : 0
+pale silver :
+  mirrored magenta bags: 2
+  posh red bags: 3
+  muted yellow bag: 1
+  dark salmon bags: 5
+plaid chartreuse :
+  posh crimson bag: 1
+  striped brown bags: 5
+muted bronze :
+  plaid red bag: 1
+muted olive :
+  mirrored yellow bags: 2
+  bright olive bags: 4
+posh aqua :
+  striped brown bags: 3
+pale white :
+  shiny turquoise bags: 4
+  bright plum bags: 4
+  dotted bronze bags: 5
+mirrored tan :
+  plaid white bag: 1
+  vibrant beige bags: 3
+  drab silver bags: 3
+  pale blue bag: 1
+clear orange :
+  mirrored violet bags: 5
+  wavy salmon bag: 1
+  dim plum bags: 3
+dotted tan :
+  plaid brown bags: 2
+faded violet :
+  dim bronze bags: 4
+mirrored lime :
+  dark violet bags: 4
+  muted yellow bags: 4
+drab gold :
+  mirrored gold bags: 5
+  bright blue bag: 1
+plaid white :
+  clear crimson bags: 3
+  wavy gold bags: 3
+  pale lime bags: 3
+  striped brown bags: 2
+vibrant magenta :
+  dark gold bags: 4
+striped maroon :
+  posh coral bags: 2
+  striped gray bags: 2
+  clear plum bags: 3
+dim blue :
+  posh salmon bags: 2
+  posh red bags: 4
+  clear turquoise bags: 5
+  muted lavender bags: 4
+bright fuchsia :
+  dotted fuchsia bags: 2
+plaid maroon :
+  dotted orange bag: 1
+  light magenta bags: 5
+  faded salmon bags: 4
+  pale yellow bags: 3
+vibrant silver :
+  dim blue bags: 2
+mirrored red :
+  bright gold bag: 1
+faded olive :
+  clear aqua bags: 3
+dull teal :
+  vibrant blue bag: 1
+  light red bag: 1
+  striped brown bags: 3
+muted magenta :
+  : 0
+wavy purple :
+  faded coral bags: 4
+  vibrant orange bags: 2
+dark white :
+  mirrored tomato bags: 2
+  striped orange bag: 1
+  dim olive bag: 1
+  dotted blue bags: 2
+faded fuchsia :
+  dotted aqua bags: 2
+dark red :
+  posh black bags: 5
+  faded teal bags: 4
+mirrored coral :
+  striped brown bags: 2
+  clear coral bags: 4
+dull purple :
+  plaid green bag: 1
+  shiny gold bags: 5
+striped fuchsia :
+  dull bronze bag: 1
+  wavy aqua bag: 1
+  plaid salmon bag: 1
+  faded cyan bags: 2
+drab white :
+  pale blue bags: 3
+wavy fuchsia :
+  dim green bag: 1
+  wavy violet bags: 2
+drab violet :
+  muted yellow bags: 4
+dim beige :
+  shiny silver bags: 3
+  dark purple bags: 2
+  dull green bags: 3
+muted lime :
+  striped coral bags: 2
+  dark tan bag: 1
+  plaid cyan bags: 4
+wavy aqua :
+  dotted fuchsia bags: 2
+  mirrored tomato bags: 2
+dim indigo :
+  vibrant orange bags: 2
+  drab teal bags: 3
+  plaid indigo bags: 4
+dark black :
+  drab purple bags: 5
+  striped yellow bags: 3
+  posh tan bags: 2
+muted green :
+  plaid white bags: 3
+  pale blue bags: 5
+  plaid tan bags: 3
+  clear turquoise bags: 2
+muted red :
+  mirrored magenta bags: 2
+bright gray :
+  dim blue bags: 5
+  dotted red bag: 1
+  mirrored aqua bags: 5
+plaid crimson :
+  drab bronze bags: 5
+  pale blue bags: 2
+muted violet :
+  bright tan bags: 3
+  striped coral bags: 5
+  drab bronze bag: 1
+drab plum :
+  shiny gold bag: 1
+  vibrant tan bags: 5
+  light gold bags: 3
+pale yellow :
+  plaid cyan bags: 4
+dull plum :
+  dark maroon bag: 1
+striped tomato :
+  striped maroon bags: 5
+  plaid turquoise bag: 1
+bright beige :
+  shiny tomato bags: 5
+shiny indigo :
+  dark red bags: 4
+  pale lime bags: 2
+faded gray :
+  dotted lime bags: 2
+  plaid tomato bags: 5
+posh bronze :
+  mirrored orange bags: 2
+  pale violet bags: 2
+  plaid gray bags: 2
+pale gold :
+  striped brown bags: 4
+  muted green bags: 2
+faded lime :
+  posh plum bags: 3
+  shiny aqua bags: 3
+  dull chartreuse bags: 4
+shiny fuchsia :
+  shiny salmon bags: 4
+  pale chartreuse bags: 3
+clear bronze :
+  dull coral bag: 1
+  mirrored cyan bag: 1
+  dotted orange bags: 2
+  plaid magenta bag: 1
+faded cyan :
+  posh aqua bags: 5
+  dull green bags: 4
+  dark olive bags: 3
+bright bronze :
+  light brown bags: 2
+dull silver :
+  striped brown bag: 1
+  shiny magenta bags: 2
+dim bronze :
+  striped plum bags: 2
+  bright orange bags: 2
+dotted teal :
+  dull crimson bags: 4
+  bright lavender bags: 2
+  wavy tan bags: 2
+  muted crimson bags: 4
+striped teal :
+  plaid lavender bags: 5
+  faded red bags: 4
+plaid violet :
+  plaid fuchsia bag: 1
+  clear teal bags: 5
+drab turquoise :
+  muted yellow bags: 5
+  light indigo bag: 1
+  dotted black bags: 5
+pale red :
+  bright red bags: 4
+  pale lime bags: 4
+  striped turquoise bags: 3
+shiny blue :
+  dull brown bags: 5
+  dark coral bags: 2
+  shiny crimson bags: 4
+dark aqua :
+  dull crimson bags: 3
+  light aqua bags: 5
+  mirrored purple bags: 3
+  striped brown bag: 1
+clear violet :
+  clear turquoise bags: 5
+  clear beige bags: 3
+  dim plum bags: 4
+striped salmon :
+  plaid white bags: 4
+  dim salmon bags: 5
+  vibrant lime bags: 4
+vibrant violet :
+  drab gold bag: 1
+  light violet bag: 1
+pale coral :
+  shiny gray bags: 3
+  plaid beige bags: 2
+faded gold :
+  muted lime bags: 5
+  plaid fuchsia bags: 3
+drab indigo :
+  striped coral bags: 5
+  muted bronze bags: 2
+posh white :
+  wavy blue bags: 2
+  clear chartreuse bags: 3
+  wavy coral bag: 1
+  drab turquoise bags: 5
+clear silver :
+  dim yellow bags: 5
+  striped brown bags: 2
+  muted magenta bag: 1
+dull salmon :
+  pale crimson bags: 2
+  dark tan bags: 3
+  light plum bags: 5
+clear olive :
+  vibrant purple bags: 4
+  drab lavender bags: 3
+  pale violet bags: 2
+shiny tan :
+  plaid silver bags: 5
+  light lavender bags: 3
+  wavy purple bags: 4
+plaid green :
+  pale salmon bags: 2
+vibrant indigo :
+  plaid beige bags: 5
+muted beige :
+  pale brown bags: 2
+  dull black bags: 4
+  vibrant blue bags: 4
+plaid beige :
+  dark black bags: 2
+  plaid yellow bags: 5
+  bright violet bags: 2
+dotted bronze :
+  dotted turquoise bags: 2
+faded magenta :
+  light red bags: 5
+pale plum :
+  muted lavender bags: 5
+  light bronze bags: 5
+  plaid crimson bags: 4
+muted aqua :
+  striped white bags: 4
+dull red :
+  dim coral bag: 1
+  faded plum bag: 1
+  plaid red bags: 4
+bright olive :
+  light indigo bags: 3
+  dark coral bags: 3
+light brown :
+  wavy red bags: 4
+  faded white bags: 2
+wavy gray :
+  dark indigo bags: 5
+  dim yellow bags: 3
+  posh lime bags: 3
+  wavy yellow bag: 1
+striped red :
+  striped tomato bag: 1
+  wavy fuchsia bag: 1
+  clear yellow bags: 3
+posh tan :
+  plaid tan bags: 3
+  drab fuchsia bags: 2
+dark beige :
+  light green bags: 4
+  light magenta bags: 4
+  dotted lime bags: 5
+  plaid salmon bags: 4
+plaid turquoise :
+  clear teal bags: 3
+  dull tomato bags: 2
+  dotted purple bags: 5
+  posh salmon bag: 1
+clear salmon :
+  posh orange bags: 5
+  wavy fuchsia bag: 1
+  mirrored yellow bags: 5
+plaid blue :
+  posh green bags: 2
+  dim cyan bags: 3
+  dull bronze bags: 5
+shiny purple :
+  dim magenta bags: 4
+  clear white bags: 2
+  posh silver bags: 3
+  shiny turquoise bag: 1
+faded red :
+  posh crimson bag: 1
+  wavy coral bag: 1
+  clear beige bags: 5
+  dotted silver bags: 3
+shiny teal :
+  vibrant maroon bag: 1
+bright magenta :
+  shiny maroon bags: 2
+  bright maroon bag: 1
+  shiny white bags: 5
+mirrored crimson :
+  faded violet bags: 4
+  posh purple bag: 1
+dull beige :
+  dark turquoise bags: 2
+  mirrored violet bags: 5
+  muted crimson bag: 1
+striped bronze :
+  drab yellow bags: 4
+  striped chartreuse bags: 4
+  posh plum bags: 5
+  clear blue bags: 3
+plaid indigo :
+  muted bronze bag: 1
+clear cyan :
+  light lavender bags: 5
+drab teal :
+  dotted salmon bags: 2
+  posh beige bags: 4
+  mirrored tan bags: 4
+  muted green bag: 1
+vibrant yellow :
+  faded beige bag: 1
+  dark brown bags: 3
+  wavy bronze bag: 1
+shiny turquoise :
+  dark gray bags: 5
+  clear brown bags: 4
+muted chartreuse :
+  plaid brown bags: 5
+  dull green bags: 3
+striped coral :
+  : 0
+mirrored purple :
+  posh crimson bags: 2
+  mirrored magenta bags: 2
+  wavy violet bags: 3
+  striped coral bag: 1
+dark silver :
+  clear salmon bags: 5
+  faded yellow bag: 1
+  shiny lavender bag: 1
+  wavy fuchsia bags: 3
+plaid silver :
+  dark indigo bags: 2
+  clear teal bags: 3
+  dotted black bags: 3
+vibrant bronze :
+  bright orange bag: 1
+  bright plum bags: 2
+light lavender :
+  muted green bags: 5
+  light violet bag: 1
+  muted plum bags: 5
+pale teal :
+  pale crimson bags: 3
+dark tan :
+  wavy silver bags: 4
+  dark aqua bags: 4
+dull crimson :
+  : 0
+muted blue :
+  dark green bag: 1
+  muted salmon bags: 5
+  posh beige bags: 4
+  pale salmon bags: 4
+posh beige :
+  mirrored magenta bags: 4
+  striped brown bag: 1
+  mirrored aqua bag: 1
+  dotted silver bags: 5
+dull violet :
+  faded beige bags: 3
+  mirrored orange bag: 1
+  mirrored aqua bag: 1
+dotted fuchsia :
+  clear silver bags: 5
+  light aqua bags: 5
+  posh beige bags: 5
+clear lime :
+  dotted magenta bags: 2
+  striped magenta bags: 5
+  bright coral bags: 3
+  mirrored silver bags: 3
+light bronze :
+  muted lavender bag: 1
+dark brown :
+  drab lavender bags: 2
+  posh green bags: 5
+  pale turquoise bags: 4
+striped black :
+  plaid fuchsia bags: 4
+  bright lavender bags: 5
+  dull black bags: 4
+striped tan :
+  wavy silver bags: 4
+striped yellow :
+  posh red bags: 5
+  plaid black bag: 1
+posh violet :
+  plaid olive bags: 3
+  posh teal bags: 2
+  posh purple bag: 1
+clear teal :
+  plaid red bags: 3
+  striped coral bags: 3
+  mirrored black bags: 4
+  posh red bags: 2
+light teal :
+  vibrant beige bag: 1
+  striped plum bag: 1
+  dim salmon bags: 4
+light magenta :
+  clear silver bags: 3
+  pale magenta bags: 3
+vibrant teal :
+  vibrant silver bags: 3
+posh plum :
+  drab turquoise bags: 2
+  bright fuchsia bags: 4
+  drab indigo bags: 4
+plaid tan :
+  plaid white bags: 5
+plaid red :
+  striped turquoise bags: 3
+  dull crimson bags: 4
+  striped brown bag: 1
+  clear crimson bags: 2
+muted crimson :
+  dim yellow bag: 1
+  wavy fuchsia bags: 4
+  mirrored magenta bags: 2
+  clear beige bags: 2
+mirrored aqua :
+  : 0
+drab fuchsia :
+  plaid lavender bag: 1
+  pale lime bags: 2
+clear yellow :
+  dim violet bags: 5
+  drab bronze bags: 5
+dotted violet :
+  pale red bags: 2
+  mirrored magenta bags: 3
+pale olive :
+  clear salmon bag: 1
+posh cyan :
+  dull lavender bag: 1
+  striped gray bags: 3
+  vibrant orange bag: 1
+faded turquoise :
+  shiny salmon bags: 2
+  wavy crimson bags: 3
+  dim yellow bags: 5
+  posh salmon bag: 1
+dark bronze :
+  clear turquoise bag: 1
+  dim purple bags: 5
+  bright turquoise bags: 2
+  striped coral bags: 2
+dull magenta :
+  clear red bag: 1
+  dull green bags: 4
+  posh lime bags: 2
+  mirrored gold bags: 5
+dark plum :
+  pale salmon bags: 2
+dim salmon :
+  dark indigo bag: 1
+  plaid brown bags: 5
+  clear crimson bags: 3
+  clear silver bags: 4
+mirrored black :
+  mirrored magenta bags: 5
+  striped turquoise bag: 1
+  plaid cyan bags: 2
+dotted coral :
+  bright teal bags: 2
+wavy brown :
+  posh lavender bags: 2
+light green :
+  plaid silver bags: 5
+  posh aqua bags: 5
+  dull green bags: 3
+  faded red bags: 5
+bright coral :
+  dull crimson bags: 2
+faded salmon :
+  posh red bags: 5
+  dull crimson bags: 4
+  dotted salmon bags: 3
+  shiny olive bags: 5
+clear tan :
+  pale lime bags: 4
+  faded plum bags: 4
+plaid teal :
+  dim purple bag: 1
+  striped turquoise bags: 3
+  light indigo bags: 3
+  faded red bags: 2
+plaid fuchsia :
+  shiny orange bags: 2
+shiny white :
+  plaid olive bag: 1
+  faded white bags: 2
+  dull salmon bags: 2
+posh maroon :
+  clear beige bag: 1
+  light black bags: 5
+pale tan :
+  wavy coral bags: 4
+light chartreuse :
+  wavy gold bag: 1
+  posh tomato bags: 2
+  clear silver bags: 2
+dotted red :
+  mirrored black bag: 1
+  dull bronze bags: 3
+  dim salmon bags: 2
+faded black :
+  dull gold bags: 4
+dull indigo :
+  striped brown bags: 2
+  plaid plum bags: 3
+mirrored plum :
+  wavy silver bag: 1
+  dim purple bags: 4
+  dim coral bags: 3
+dotted gold :
+  dark lavender bag: 1
+  striped black bag: 1
+plaid aqua :
+  dotted coral bags: 5
+  muted white bag: 1
+muted black :
+  wavy tan bag: 1
+  mirrored turquoise bags: 4
+clear turquoise :
+  dim yellow bags: 4
+  plaid teal bags: 5
+  plaid red bags: 3
+  dotted salmon bag: 1
+posh coral :
+  muted teal bag: 1
+vibrant aqua :
+  mirrored turquoise bags: 3
+  light plum bag: 1
+  clear teal bags: 5
+  dull blue bag: 1
+dull white :
+  dull red bag: 1
+  dark gold bags: 5
+  striped magenta bags: 3
+  muted green bags: 2
+vibrant red :
+  bright olive bags: 3
+  plaid chartreuse bags: 3
+  light olive bags: 3
+  dim violet bags: 4
+vibrant purple :
+  posh tomato bags: 3
+  dim purple bags: 4
+  plaid brown bags: 5
+  dotted red bags: 4
+dull orange :
+  shiny teal bags: 2
+  muted teal bags: 5
+  dark fuchsia bag: 1
+  bright magenta bags: 4
+mirrored gray :
+  dark plum bags: 3
+  striped gray bags: 3
+  plaid violet bags: 4
+pale gray :
+  mirrored gold bags: 5
+  wavy silver bag: 1
+  posh green bags: 5
+  mirrored red bag: 1
+bright black :
+  wavy violet bags: 4
+pale indigo :
+  wavy gold bag: 1
+  clear silver bag: 1
+  dim blue bags: 3
+dark chartreuse :
+  dotted fuchsia bags: 5
+  mirrored silver bags: 3
+  mirrored aqua bags: 5
+  dim cyan bags: 4
+bright orange :
+  muted gold bags: 4
+  clear white bag: 1
+wavy turquoise :
+  dark teal bags: 4
+  dark cyan bags: 2
+  mirrored olive bags: 4
+  bright red bags: 5
+light blue :
+  dotted blue bags: 2
+  dark gold bags: 2
+  bright cyan bags: 5
+  light crimson bag: 1
+wavy bronze :
+  shiny tomato bags: 3
+  dim salmon bags: 3
+wavy gold :
+  posh beige bags: 5
+  mirrored aqua bag: 1
+pale magenta :
+  mirrored blue bags: 3
+  dull maroon bags: 5
+  dark violet bags: 5
+dark lavender :
+  mirrored lime bag: 1
+  plaid red bags: 2
+  striped white bags: 2
+  plaid tomato bag: 1
+clear gray :
+  wavy coral bags: 4
+  dark salmon bags: 2
+  dark indigo bags: 3
+bright purple :
+  muted lavender bags: 3
+posh gray :
+  mirrored magenta bags: 4
+striped violet :
+  posh plum bags: 4
+  drab crimson bag: 1
+  faded orange bags: 2
+  dotted green bags: 3
+clear plum :
+  posh green bags: 3
+wavy plum :
+  shiny yellow bags: 3
+  light crimson bags: 5
+  dotted silver bags: 5
+mirrored indigo :
+  dark violet bags: 4
+  wavy purple bags: 2
+  plaid tan bags: 5
+mirrored olive :
+  dark violet bags: 2
+  dull crimson bags: 2
+  dim salmon bags: 5
+  bright tan bags: 5
+posh magenta :
+  pale teal bags: 3
+  mirrored tomato bags: 5
+  striped gold bags: 2
+  bright tomato bags: 2
+shiny brown :
+  bright coral bags: 3
+striped olive :
+  plaid beige bag: 1
+  shiny turquoise bag: 1
+  drab gold bags: 2
+  pale lime bag: 1
+wavy cyan :
+  striped red bags: 5
+  shiny magenta bag: 1
+muted gold :
+  dotted black bags: 5
+  striped salmon bag: 1
+  drab purple bags: 3
+  bright red bags: 5
+bright teal :
+  vibrant plum bags: 2
+  dull tan bags: 2
+  dim tomato bag: 1
+  dark violet bags: 5
+pale green :
+  dark gold bags: 2
+  clear gray bags: 4
+posh teal :
+  bright gray bags: 5
+  faded gray bags: 4
+  plaid turquoise bags: 2
+vibrant brown :
+  pale silver bags: 5
+  drab orange bags: 3
+  clear olive bag: 1
+faded crimson :
+  drab salmon bags: 5
+  posh crimson bags: 2
+  light purple bags: 3
+  clear red bags: 5
+shiny beige :
+  posh teal bags: 5
+light violet :
+  muted gray bag: 1
+  wavy tomato bags: 5
+pale lime :
+  bright turquoise bags: 5
+  dim yellow bags: 5
+  shiny orange bags: 3
+dark magenta :
+  vibrant orange bags: 3
+  dull lime bag: 1
+  dim plum bag: 1
+vibrant crimson :
+  wavy blue bags: 4
+  clear gray bags: 5
+dim orange :
+  wavy lavender bag: 1
+  drab brown bags: 5
+  dull salmon bag: 1
+wavy green :
+  bright lime bags: 5
+muted silver :
+  striped lavender bags: 4
+dim green :
+  mirrored aqua bags: 3
+  light chartreuse bag: 1
+  light indigo bag: 1
+posh purple :
+  dull maroon bags: 5
+light aqua :
+  mirrored aqua bags: 5
+  striped brown bags: 2
+  posh crimson bags: 4
+vibrant white :
+  dim coral bags: 5
+  dim bronze bags: 5
+dotted lavender :
+  light green bag: 1
+  light magenta bags: 3
+light beige :
+  mirrored turquoise bags: 5
+  plaid maroon bags: 5
+  light silver bags: 3
+faded brown :
+  dim silver bags: 3
+  mirrored bronze bags: 2
+pale brown :
+  pale tan bags: 3
+  plaid olive bags: 2
+  posh lavender bags: 2
+  shiny aqua bag: 1
+bright aqua :
+  light orange bags: 4
+  wavy blue bags: 3
+  dull lime bags: 3
+dim purple :
+  dull crimson bags: 2
+  bright red bags: 5
+striped magenta :
+  wavy yellow bags: 4
+  bright chartreuse bags: 3
+  plaid cyan bags: 5
+shiny maroon :
+  striped salmon bags: 5
+faded yellow :
+  posh green bags: 2
+posh chartreuse :
+  wavy fuchsia bags: 2
+  mirrored beige bags: 4
+wavy maroon :
+  clear gray bags: 3
+striped crimson :
+  bright gray bags: 5
+  dark green bags: 4
+  posh plum bags: 4
+  shiny coral bags: 5
+plaid bronze :
+  mirrored orange bags: 5
+  plaid cyan bags: 4
+  dotted black bag: 1
+wavy lime :
+  dim salmon bags: 5
+  dark violet bags: 4
+  clear turquoise bags: 4
+dark blue :
+  dull aqua bags: 3
+  dim teal bag: 1
+clear blue :
+  pale green bags: 2
+  light violet bags: 2
+  plaid crimson bags: 4
+muted fuchsia :
+  plaid turquoise bags: 5
+  dark aqua bags: 2
+  pale brown bags: 4
+  striped plum bags: 4
+clear beige :
+  : 0
+dotted purple :
+  pale lime bags: 2
+vibrant black :
+  clear magenta bags: 3
+  muted salmon bags: 4
+  posh blue bags: 5
+light plum :
+  clear silver bags: 4
+  vibrant chartreuse bag: 1
+dim gold :
+  dull salmon bags: 5
+  mirrored red bags: 3
+  mirrored black bag: 1
+clear maroon :
+  dim magenta bags: 4
+  shiny lavender bags: 2
+pale beige :
+  wavy crimson bags: 4
+  shiny gold bags: 5
+drab olive :
+  clear purple bags: 4
+dull blue :
+  bright turquoise bags: 5
+  striped brown bags: 2
+bright plum :
+  dotted salmon bag: 1
+  plaid red bags: 4
+  mirrored purple bag: 1
+  shiny aqua bags: 3
+pale black :
+  dark brown bags: 5
+shiny gray :
+  pale lavender bags: 5
+  vibrant turquoise bags: 3
+  faded maroon bag: 1
+  bright cyan bag: 1
+drab tomato :
+  clear orange bags: 5
+striped lime :
+  dim tomato bags: 2
+  light fuchsia bags: 3
+  light lime bag: 1
+dull aqua :
+  wavy tan bags: 5
+  bright olive bags: 3
+light turquoise :
+  drab fuchsia bags: 3
+  bright silver bags: 4
+  light green bags: 5
+striped white :
+  drab indigo bags: 4
+  wavy tomato bags: 5
+  dotted fuchsia bags: 5
+  dim silver bags: 2
+muted cyan :
+  drab silver bags: 2
+shiny olive :
+  dark aqua bag: 1
+  muted lime bags: 2
+dull lime :
+  plaid chartreuse bags: 3
+wavy indigo :
+  plaid black bag: 1
+  wavy teal bag: 1
+  mirrored salmon bags: 3
+posh lavender :
+  plaid black bag: 1
+  shiny orange bags: 3
+  posh red bags: 3
+  plaid cyan bags: 4
+drab coral :
+  pale crimson bags: 5
+  mirrored aqua bag: 1
+  light red bags: 4
+light crimson :
+  clear silver bags: 3
+drab purple :
+  striped turquoise bags: 2
+  clear silver bags: 4
+  muted lime bag: 1
+vibrant cyan :
+  clear aqua bags: 2
+  dark maroon bags: 2
+  pale tan bags: 5
+wavy teal :
+  dotted magenta bags: 5
+drab gray :
+  clear magenta bags: 5
+  bright tomato bags: 5
+  dull gold bag: 1
+pale purple :
+  clear green bags: 2
+  striped crimson bags: 2
+  drab indigo bags: 4
+striped purple :
+  faded salmon bags: 2
+  bright tan bags: 2
+  drab white bags: 4
+dotted salmon :
+  wavy violet bags: 3
+  shiny aqua bags: 4
+  dull bronze bags: 4
+clear gold :
+  mirrored olive bags: 3
+  striped turquoise bags: 3
+dark violet :
+  faded red bags: 4
+dim chartreuse :
+  shiny yellow bags: 4
+shiny red :
+  vibrant maroon bags: 4
+  faded bronze bags: 5
+dotted magenta :
+  plaid white bags: 3
+  clear beige bags: 4
+  faded maroon bag: 1
+  muted lavender bags: 3
+clear white :
+  vibrant fuchsia bags: 3
+  pale silver bags: 2
+  vibrant indigo bag: 1
+  shiny silver bags: 3
+dark purple :
+  dim magenta bags: 5
+dotted indigo :
+  plaid white bags: 2
+  wavy gold bag: 1
+  plaid silver bag: 1
+dark fuchsia :
+  wavy tomato bags: 2
+  faded plum bags: 3
+clear purple :
+  shiny aqua bags: 4
+  dim cyan bag: 1
+  dotted black bags: 3
+  dull gray bags: 4
+mirrored yellow :
+  vibrant purple bags: 4
+  faded bronze bags: 4
+  dull lavender bags: 2
+  light plum bags: 3
+pale bronze :
+  plaid orange bags: 4
+  wavy chartreuse bags: 3
+  clear red bags: 2
+vibrant turquoise :
+  vibrant tan bags: 2
+  clear silver bags: 3
+dim tan :
+  striped cyan bags: 2
+  wavy green bags: 5
+  drab beige bags: 3
+striped gray :
+  drab white bags: 3
+dark teal :
+  plaid white bags: 3
+  bright cyan bags: 5
+  posh blue bag: 1
+  mirrored magenta bags: 4
+wavy white :
+  posh beige bags: 4
+light salmon :
+  dull yellow bags: 3
+  vibrant violet bags: 2
+  dark orange bags: 2
+  light magenta bag: 1
+wavy orange :
+  light tan bags: 2
+  pale yellow bag: 1
+  shiny aqua bags: 2
+  vibrant orange bags: 4
