@@ -5,8 +5,10 @@ import (
 	"log"
 	"os"
 	"regexp"
+	"time"
 )
 
+// ReadInput parses the input file into a slice of strings.
 func ReadInput(path string) ([]string, error) {
 	file, err := os.Open(path)
 	if err != nil {
@@ -47,4 +49,10 @@ func ParseNamedRegex(regex string, input string) map[string]string {
 		}
 	}
 	return result
+}
+
+// TimeTracker can be deferred by a function to time how long it takes.
+func TimeTracker(start time.Time, name string) {
+	elapsed := time.Since(start)
+	log.Printf("%s took %s", name, elapsed)
 }
