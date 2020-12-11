@@ -5,6 +5,7 @@ import (
 	"log"
 	"os"
 	"regexp"
+	"strconv"
 	"time"
 )
 
@@ -25,6 +26,29 @@ func ReadInput(path string) ([]string, error) {
 	}
 
 	return lines, scanner.Err()
+}
+
+// ReadInputInt takes an input file with one integer per line, and parses it into a slice of ints.
+func ReadInputInt(path string) []int {
+	file, err := os.Open(path)
+	if err != nil {
+		log.Fatalf("Error opening file: %v", err)
+	}
+
+	defer file.Close()
+
+	var lines []int
+	scanner := bufio.NewScanner(file)
+	for scanner.Scan() {
+		line := scanner.Text()
+		num, err := strconv.Atoi(line)
+		if err != nil {
+			log.Fatalf("Error parsing number %v: %v", line, err)
+		}
+		lines = append(lines, num)
+	}
+
+	return lines
 }
 
 // ParseNamedRegex takes a regex with named capture groups, and returns a map
