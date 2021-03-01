@@ -73,6 +73,55 @@ func puzzle1(input []string) {
 	fmt.Printf("  Answer: %v\n", total)
 }
 
+func parseAddress(input string) int {
+	i, err := strconv.ParseInt(input, 2, 64)
+	if err != nil {
+		log.Fatalf("Error parsing int %v: %v", input, err)
+	}
+	return int(i)
+}
+
+func puzzle2(input []string) {
+	defer helpers.TimeTracker(time.Now(), "Puzzle 2")
+	fmt.Println("Puzzle 2:")
+
+	floatingBits := []int{}
+	toOne := 0
+	maxPerms := 0
+	// addressString := ""
+	for _, line := range input {
+		words := strings.Split(line, " ")
+		if words[0] == "mask" {
+			toOne = 0
+			floatingString := "000000000000000000000000000000000000"
+			// This line is a mask line
+			for i, char := range words[2] {
+				// Look at the next bit of the mask
+				toOne = toOne << 1
+				if char == 'X' {
+					// This is a floating bit, take note of its index
+					floatingBits = append(floatingBits, i)
+					// Add to permuter
+					maxPerms = maxPerms << 1
+					maxPerms++
+				} else if char == '1' {
+					toOne++
+				}
+			}
+			// addressString = words[2]
+		} else {
+			result := helpers.ParseNamedRegex("^mem\\[(?P<addr>\\d+)\\] = (?P<val>\\d+)$", line)
+			address, err := strconv.Atoi(result["addr"])
+			if err != nil {
+				log.Fatalf("Error parsing address %v: %v", result["addr"], err)
+			}
+			fmt.Printf("Address read:\t %v\n", strconv.FormatInt(int64(address), 2))
+			fmt.Printf("ToOne mask:\t %v\n", strconv.FormatInt(int64(toOne), 2))
+			fmt.Printf("Result: \t %v\n", strconv.FormatInt(int64(address|toOne), 2))
+		}
+	}
+}
+
 func main() {
 	input, err := helpers.ReadInput("input.txt")
 	if err != nil {
@@ -80,4 +129,5 @@ func main() {
 	}
 
 	puzzle1(input)
+	puzzle2(input)
 }
